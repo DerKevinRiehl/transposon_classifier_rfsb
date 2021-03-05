@@ -1,5 +1,5 @@
 # Transposon Classifier "RFSB"
-Transposon classification tool for nucleotide sequence classification, providing classification, model training and prediction evaluation.
+Transposon classification tool for nucleotide sequence classification, providing classification, model training and prediction evaluation. *RFSB* is part of [TransposonUltimate](https://github.com/DerKevinRiehl/TransposonUltimate).
 
 - **Mode 1: Transposon classification**
   - **Description**: Mode 1 classifies given transposon DNA sequences in a fastaFile and stores the predicted results into an outputPredictionFile.
