@@ -1,0 +1,2004 @@
+>Transposon1
+Gypsy,LTR,Retrotransposon 1/1/2  1.0 0.8 0.0 1.0 0.0 0.0 0.5 0.0 0.0 0.4 0.3 0.6 0.3 0.0 0.0 0.0 0.1 0.0 
+>Transposon2
+Gypsy,LTR,Retrotransposon 1/1/2  0.9 1.0 0.1 0.9 0.0 0.0 0.4 0.6 0.0 0.7 0.0 0.5 0.2 0.2 0.2 0.0 0.1 0.1 
+>Transposon3
+Gypsy,LTR,Retrotransposon 1/1/2  0.9 0.9 0.2 0.8 0.0 0.0 0.4 0.4 0.2 0.8 0.4 0.6 0.3 0.0 0.6 0.3 0.2 0.1 
+>Transposon4
+Gypsy,LTR,Retrotransposon 1/1/2  1.0 1.0 0.0 0.6 0.0 0.0 0.7 0.0 0.0 0.6 0.4 0.3 0.2 0.1 0.0 0.1 0.4 0.0 
+>Transposon5
+Gypsy,LTR,Retrotransposon 1/1/2  1.0 1.0 0.0 1.0 0.0 0.0 0.6 0.4 0.1 0.9 0.2 0.2 0.2 0.1 0.2 0.0 0.1 0.0 
+>Transposon6
+CMC,TIR,DNATransposon 2/1/3  0.2 1.0 0.2 0.1 0.0 0.0 0.5 0.1 0.9 1.0 0.0 0.1 0.7 0.0 0.0 0.0 0.0 0.0 
+>Transposon7
+hAT,TIR,DNATransposon 2/1/2  0.3 0.9 0.0 0.3 0.0 0.0 0.5 0.0 0.8 0.8 0.0 0.7 0.0 0.0 0.0 0.1 0.2 0.0 
+>Transposon8
+LINE,Non-LTR,Retrotransposon 1/2/1  1.0 0.0 0.0 0.6 0.1 0.8 1.0 0.0 0.1 0.9 0.0 0.2 0.0 0.0 0.0 0.1 0.2 0.0 
+>Transposon9
+LINE,Non-LTR,Retrotransposon 1/2/1  1.0 0.02 0.3 0.8 0.1 1.0 1.0 0.0 0.0 0.2 0.0 0.3 0.2 0.2 0.3 0.0 0.6 0.0 
+>Transposon10
+Gypsy,LTR,Retrotransposon 1/1/2  0.9 0.9 0.0 0.7 0.0 0.0 0.6 0.4 0.1 0.5 0.0 0.4 0.3 0.1 0.2 0.1 0.3 0.2 
+>Transposon11
+Gypsy,LTR,Retrotransposon 1/1/2  0.9 1.0 0.2 0.9 0.0 0.0 0.8 0.0 0.0 0.3 0.0 0.2 0.4 0.1 0.0 0.0 0.4 0.0 
+>Transposon12
+LINE,Non-LTR,Retrotransposon 1/2/1  0.9 0.1 0.0 0.2 0.0 0.9 1.0 0.0 0.0 0.5 0.1 0.1 0.0 0.0 0.0 0.1 0.1 0.0 
+>Transposon13
+Gypsy,LTR,Retrotransposon 1/1/2  0.8 0.7 0.0 1.0 0.1 0.0 0.3 0.3 0.5 0.8 0.1 0.2 0.0 0.1 0.8 0.0 0.1 0.1 
+>Transposon14
+Gypsy,LTR,Retrotransposon 1/1/2  0.8 0.6 0.1 0.9 0.0 0.2 0.7 0.4 0.5 0.5 0.0 0.3 0.2 0.2 0.4 0.1 0.1 0.3 
+>Transposon15
+Copia,LTR,Retrotransposon 1/1/1  1.0 1.0 0.1 0.1 0.0 0.1 1.0 0.0 0.2 0.4 0.4 0.2 0.1 0.0 0.0 0.1 0.3 0.0 
+>Transposon16
+Gypsy,LTR,Retrotransposon 1/1/2  1.0 1.0 0.1 0.9 0.0 0.0 0.8 0.0 0.0 0.8 0.1 0.2 0.0 0.0 0.0 0.1 0.2 0.0 
+>Transposon17
+Gypsy,LTR,Retrotransposon 1/1/2  0.8 0.8 0.3 0.9 0.0 0.1 0.5 0.7 0.1 0.9 0.4 0.3 0.3 0.3 0.5 0.1 0.2 0.4 
+>Transposon18
+Copia,LTR,Retrotransposon 1/1/1  1.0 1.0 1.0 0.1 0.0 0.0 1.0 0.0 0.1 0.9 0.3 0.4 0.0 0.0 0.2 0.1 0.2 0.0 
+>Transposon19
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.2 0.9 0.2 0.3 0.2 0.3 0.9 0.1 0.9 1.0 0.7 0.0 0.1 0.2 0.0 0.0 0.0 0.0 
+>Transposon20
+Copia,LTR,Retrotransposon 1/1/1  0.8 1.0 0.8 0.2 0.0 0.0 0.3 0.6 0.3 0.6 0.2 0.1 0.0 0.1 0.3 0.0 0.0 0.1 
+>Transposon21
+Gypsy,LTR,Retrotransposon 1/1/2  1.0 1.0 0.0 0.9 0.0 0.0 0.3 0.8 0.1 1.0 0.0 0.2 0.4 0.0 0.5 0.0 0.1 0.2 
+>Transposon22
+SINE,Non-LTR,Retrotransposon 1/2/2  1.0 0.1 0.4 0.7 0.2 0.8 0.0 1.0 0.0 0.6 0.0 0.3 0.3 0.0 0.4 0.1 0.0 0.0 
+>Transposon23
+Gypsy,LTR,Retrotransposon 1/1/2  0.9 1.0 0.0 0.8 0.0 0.0 0.9 0.0 0.0 0.2 0.1 0.6 0.1 0.3 0.2 0.1 0.5 0.0 
+>Transposon24
+Copia,LTR,Retrotransposon 1/1/1  0.9 0.7 0.2 0.1 0.0 0.1 0.5 0.5 0.3 0.7 0.1 0.1 0.2 0.4 0.4 0.3 0.0 0.2 
+>Transposon25
+Gypsy,LTR,Retrotransposon 1/1/2  0.9 1.0 0.1 0.9 0.0 0.0 0.6 0.0 0.1 0.3 0.3 0.3 0.5 0.1 0.0 0.0 0.3 0.0 
+>Transposon26
+Gypsy,LTR,Retrotransposon 1/1/2  1.0 1.0 0.0 0.95 0.0 0.0 1.0 0.0 0.0 0.5 0.2 0.5 0.2 0.2 0.2 0.1 0.3 0.0 
+>Transposon27
+Helitron,DNATransposon 2/2  0.1 0.8 0.1 0.1 0.0 0.2 0.6 0.0 0.7 0.6 0.0 0.2 0.0 0.0 0.0 0.2 0.9 0.0 
+>Transposon28
+Copia,LTR,Retrotransposon 1/1/1  0.5 0.7 0.4 0.2 0.0 0.0 0.3 0.8 0.2 0.8 0.1 0.0 0.0 0.3 0.2 0.0 0.2 0.0 
+>Transposon29
+Gypsy,LTR,Retrotransposon 1/1/2  1.0 1.0 0.0 0.425 0.0 0.0 0.8 0.0 0.0 0.8 0.1 0.4 0.1 0.0 0.1 0.2 0.3 0.0 
+>Transposon30
+Gypsy,LTR,Retrotransposon 1/1/2  0.9 0.8 0.1 0.2 0.0 0.0 0.4 0.5 0.3 1.0 0.3 0.1 0.3 0.1 0.7 0.1 0.0 0.2 
+>Transposon31
+Zator,TIR,DNATransposon 2/1/5  0.0 1.0 0.0 0.3 0.0 0.0 0.4 0.4 0.9 0.5 0.0 0.0 0.0 0.0 0.2 0.1 0.0 0.0 
+>Transposon32
+Gypsy,LTR,Retrotransposon 1/1/2  1.0 1.0 0.0 0.8333333333333333 0.0 0.1 0.8 0.0 0.0 0.6 0.4 0.2 0.3 0.0 0.2 0.1 0.2 0.0 
+>Transposon33
+hAT,TIR,DNATransposon 2/1/2  0.1 1.0 0.4 0.4 0.1 0.1 0.2 0.2 0.9 0.2 0.1 0.3 0.1 0.1 0.1 0.1 0.0 0.0 
+>Transposon34
+hAT,TIR,DNATransposon 2/1/2  0.2 0.8 0.0 0.5 0.0 0.1 0.3 0.1 0.8 0.9 0.0 0.2 0.0 0.0 0.0 0.0 0.0 0.0 
+>Transposon35
+Gypsy,LTR,Retrotransposon 1/1/2  0.9 1.0 0.1 1.0 0.0 0.0 0.9 0.0 0.1 0.4 0.4 0.1 0.1 0.1 0.0 0.2 0.2 0.0 
+>Transposon36
+Gypsy,LTR,Retrotransposon 1/1/2  0.7 1.0 0.2 1.0 0.0 0.1 0.4 0.5 0.5 1.0 0.2 0.1 0.4 0.2 0.3 0.1 0.1 0.1 
+>Transposon37
+Gypsy,LTR,Retrotransposon 1/1/2  0.8 1.0 0.2 1.0 0.0 0.1 0.5 0.3 0.1 0.9 0.1 0.5 0.0 0.1 0.1 0.2 0.1 0.0 
+>Transposon38
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.1 0.7 0.5 0.5 0.0 0.4 0.4 0.8 1.0 0.8 0.9 0.1 0.0 0.1 0.0 0.0 0.0 0.1 
+>Transposon39
+Copia,LTR,Retrotransposon 1/1/1  0.5 1.0 0.2 0.0 0.1 0.0 0.5 0.5 0.3 0.9 0.1 0.4 0.0 0.0 0.5 0.0 0.1 0.0 
+>Transposon40
+LINE,Non-LTR,Retrotransposon 1/2/1  1.0 0.2 0.2 0.1 0.0 0.9 1.0 0.0 0.0 1.0 0.0 0.1 0.0 0.0 0.1 0.2 0.2 0.0 
+>Transposon41
+Gypsy,LTR,Retrotransposon 1/1/2  1.0 1.0 0.0 1.0 0.0 0.0 0.7 0.0 0.0 0.7 0.3 0.3 0.1 0.0 0.0 0.2 0.2 0.0 
+>Transposon42
+Gypsy,LTR,Retrotransposon 1/1/2  0.9 1.0 0.1 0.2 0.0 0.0 0.4 0.0 0.1 0.4 0.3 0.3 0.4 0.1 0.2 0.1 0.6 0.0 
+>Transposon43
+Gypsy,LTR,Retrotransposon 1/1/2  0.6 1.0 0.1 0.2 0.0 0.0 0.3 0.3 0.3 0.9 0.2 0.2 0.0 0.5 0.6 0.0 0.2 0.2 
+>Transposon44
+Copia,LTR,Retrotransposon 1/1/1  1.0 0.8 0.8 0.2 0.0 0.0 0.5 0.4 0.3 0.7 0.1 0.4 0.2 0.1 0.6 0.1 0.1 0.3 
+>Transposon45
+Gypsy,LTR,Retrotransposon 1/1/2  0.9 1.0 0.0 0.7 0.0 0.0 0.4 0.5 0.0 0.8 0.2 0.3 0.3 0.0 0.2 0.0 0.1 0.1 
+>Transposon46
+Sola,TIR,DNATransposon 2/1/4  0.1 1.0 0.2 0.6 0.0 0.0 0.8 0.0 0.8 0.3 0.0 0.0 0.0 0.1 0.1 0.0 0.0 0.0 
+>Transposon47
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.0 0.8 0.3 0.6 0.0 0.2 0.3 0.5 0.9 1.0 0.8 0.2 0.1 0.0 0.4 0.0 0.0 0.2 
+>Transposon48
+Copia,LTR,Retrotransposon 1/1/1  0.7 0.8 0.0 0.0 0.0 0.1 0.5 0.8 0.5 0.9 0.0 0.2 0.0 0.2 0.5 0.0 0.0 0.1 
+>Transposon49
+LINE,Non-LTR,Retrotransposon 1/2/1  1.0 0.1 0.1 0.2 0.1 0.9 1.0 0.0 0.0 0.6 0.0 0.5 0.0 0.0 0.0 0.0 0.1 0.0 
+>Transposon50
+Copia,LTR,Retrotransposon 1/1/1  1.0 1.0 0.1 0.1 0.0 0.0 1.0 0.0 0.0 0.7 0.1 0.7 0.2 0.0 0.0 0.1 0.3 0.0 
+>Transposon51
+hAT,TIR,DNATransposon 2/1/2  0.1 1.0 0.1 0.2 0.0 0.2 0.7 0.4 0.8 0.3 0.0 0.1 0.0 0.0 0.1 0.0 0.0 0.0 
+>Transposon52
+Copia,LTR,Retrotransposon 1/1/1  1.0 1.0 0.0 0.0 0.0 0.0 0.7 0.0 0.0 0.8 0.3 0.0 0.3 0.0 0.0 0.1 0.3 0.0 
+>Transposon53
+LINE,Non-LTR,Retrotransposon 1/2/1  1.0 0.1 0.1 0.3 0.0 0.9 1.0 0.0 0.3 0.3 0.1 0.3 0.3 0.0 0.1 0.1 0.3 0.0 
+>Transposon54
+Gypsy,LTR,Retrotransposon 1/1/2  0.4 0.9 0.2 0.6 0.0 0.1 0.0 0.7 0.1 0.65 0.5 0.2 0.0 0.0 0.1 0.1 0.0 0.0 
+>Transposon55
+LINE,Non-LTR,Retrotransposon 1/2/1  1.0 0.0 0.0 0.4 0.0 1.0 1.0 0.0 0.1 0.9 0.2 0.1 0.0 0.0 0.0 0.0 0.0 0.0 
+>Transposon56
+LINE,Non-LTR,Retrotransposon 1/2/1  1.0 0.1 0.1 0.3 0.0 1.0 1.0 0.0 0.0 0.6 0.4 0.4 0.1 0.0 0.1 0.0 0.6 0.0 
+>Transposon57
+Gypsy,LTR,Retrotransposon 1/1/2  1.0 1.0 0.0 0.9 0.0 0.0 0.5 0.0 0.0 1.0 0.0 0.4 0.0 0.0 0.0 0.0 0.2 0.0 
+>Transposon58
+Copia,LTR,Retrotransposon 1/1/1  0.6 0.8 0.8 0.1 0.0 0.1 0.3 0.4 0.2 0.7 0.3 0.3 0.0 0.1 0.6 0.0 0.0 0.1 
+>Transposon59
+Helitron,DNATransposon 2/2  0.1 1.0 0.0 0.3 0.0 0.0 0.6 0.0 1.0 0.0 0.0 0.0 0.1 0.1 0.0 0.0 0.8 0.0 
+>Transposon60
+LINE,Non-LTR,Retrotransposon 1/2/1  0.9 0.2 0.1 0.1 0.2 1.0 1.0 0.0 0.0 0.6 0.0 0.4 0.1 0.0 0.0 0.1 0.2 0.0 
+>Transposon61
+Gypsy,LTR,Retrotransposon 1/1/2  0.9 1.0 0.0 0.5 0.0 0.0 0.4 0.8 0.1 0.9 0.1 0.3 0.1 0.0 0.4 0.0 0.1 0.1 
+>Transposon62
+LINE,Non-LTR,Retrotransposon 1/2/1  1.0 0.1 0.2 0.5 0.2 0.9 1.0 0.0 0.1 0.9 0.0 0.5 0.0 0.0 0.1 0.0 0.0 0.0 
+>Transposon63
+Gypsy,LTR,Retrotransposon 1/1/2  0.8 1.0 0.1 0.8 0.0 0.0 0.9 0.2 0.2 0.7 0.0 0.4 0.2 0.2 0.1 0.2 0.3 0.0 
+>Transposon64
+Gypsy,LTR,Retrotransposon 1/1/2  1.0 0.9 0.0 1.0 0.0 0.1 0.8 0.0 0.0 0.4 0.4 0.2 0.1 0.2 0.0 0.1 0.6 0.0 
+>Transposon65
+Copia,LTR,Retrotransposon 1/1/1  0.8 1.0 0.4 0.2 0.1 0.1 0.4 0.3 0.2 0.7 0.0 0.2 0.1 0.0 0.2 0.2 0.0 0.3 
+>Transposon66
+Gypsy,LTR,Retrotransposon 1/1/2  1.0 1.0 0.0 0.8 0.0 0.0 0.6 0.0 0.0 0.8 0.2 0.1 0.1 0.0 0.0 0.0 0.2 0.0 
+>Transposon67
+Gypsy,LTR,Retrotransposon 1/1/2  1.0 1.0 0.0 1.0 0.0 0.0 1.0 0.0 0.1 0.7 0.2 0.3 0.0 0.1 0.0 0.0 0.3 0.0 
+>Transposon68
+LINE,Non-LTR,Retrotransposon 1/2/1  1.0 0.0 0.0 0.2 0.0 1.0 1.0 0.0 0.0 0.6 0.0 0.4 0.0 0.0 0.0 0.1 0.1 0.0 
+>Transposon69
+Gypsy,LTR,Retrotransposon 1/1/2  1.0 1.0 0.0 1.0 0.0 0.0 0.8 0.0 0.0 0.6 0.0 0.3 0.2 0.1 0.1 0.0 0.2 0.0 
+>Transposon70
+Gypsy,LTR,Retrotransposon 1/1/2  1.0 1.0 0.16666666666666666 1.0 0.0 0.0 0.5 0.0 0.0 0.6 0.1 0.5 0.4 0.0 0.0 0.0 0.1 0.0 
+>Transposon71
+Gypsy,LTR,Retrotransposon 1/1/2  0.8 1.0 0.0 0.1 0.0 0.1 0.7 0.0 0.0 0.75 0.1 0.4 0.3 0.0 0.1 0.0 0.3 0.0 
+>Transposon72
+Gypsy,LTR,Retrotransposon 1/1/2  0.8 0.9 0.1 0.3 0.1 0.0 0.6 0.4 0.1 0.7 0.0 0.4 0.0 0.1 0.2 0.0 0.1 0.0 
+>Transposon73
+LINE,Non-LTR,Retrotransposon 1/2/1  1.0 0.1 0.1 0.5 0.0 0.9 1.0 0.0 0.1 0.7 0.0 0.6 0.1 0.0 0.1 0.2 0.2 0.0 
+>Transposon74
+Sola,TIR,DNATransposon 2/1/4  0.3 1.0 0.1 0.4 0.0 0.1 0.3 0.6 0.9 0.3 0.0 0.0 0.0 0.2 0.1 0.0 0.0 0.0 
+>Transposon75
+Copia,LTR,Retrotransposon 1/1/1  1.0 0.9 0.0 0.0 0.0 0.0 0.8 0.0 0.0 0.9 0.6 0.4 0.1 0.0 0.15 0.1 0.2 0.0 
+>Transposon76
+Gypsy,LTR,Retrotransposon 1/1/2  0.6 1.0 0.0 1.0 0.0 0.0 0.5 0.5 0.2 0.9 0.1 0.2 0.1 0.0 0.2 0.1 0.0 0.1 
+>Transposon77
+Gypsy,LTR,Retrotransposon 1/1/2  1.0 1.0 0.0 1.0 0.0 0.1 0.9 0.0 0.1 0.4 0.1 0.3 0.2 0.2 0.2 0.4 0.4 0.0 
+>Transposon78
+Helitron,DNATransposon 2/2  0.1 1.0 0.2 0.5 0.0 0.0 0.5 0.2 0.9 0.0 0.0 0.9 0.0 0.0 0.1 0.0 0.1 0.0 
+>Transposon79
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.0 0.7 0.3 0.5 0.1 0.2 0.4 0.4 1.0 1.0 0.2 0.1 0.1 0.1 0.1 0.0 0.0 0.0 
+>Transposon80
+Gypsy,LTR,Retrotransposon 1/1/2  1.0 1.0 0.1 1.0 0.0 0.0 0.7 0.0 0.0 0.2 0.0 0.3 0.1 0.2 0.1 0.2 0.6 0.0 
+>Transposon81
+Gypsy,LTR,Retrotransposon 1/1/2  1.0 1.0 0.0 0.2 0.0 0.0 0.6 0.0 0.0 0.9 0.0 0.5 0.0 0.0 0.0 0.1 0.3 0.0 
+>Transposon82
+Gypsy,LTR,Retrotransposon 1/1/2  0.9 1.0 0.0 0.1 0.0 0.1 0.8 0.0 0.0 1.0 0.1 0.2 0.0 0.0 0.0 0.0 0.1 0.0 
+>Transposon83
+Gypsy,LTR,Retrotransposon 1/1/2  0.9 1.0 0.2 0.8 0.0 0.0 0.7 0.7 0.2 0.6 0.0 0.4 0.2 0.1 0.5 0.0 0.1 0.3 
+>Transposon84
+Gypsy,LTR,Retrotransposon 1/1/2  0.7 1.0 0.1 1.0 0.0 0.0 0.3 0.6 0.3 1.0 0.1 0.3 0.1 0.2 0.4 0.0 0.0 0.1 
+>Transposon85
+Gypsy,LTR,Retrotransposon 1/1/2  0.9 1.0 0.0 0.9 0.0 0.0 0.5 0.1 0.0 0.8 0.1 0.4 0.1 0.0 0.0 0.2 0.0 0.0 
+>Transposon86
+LINE,Non-LTR,Retrotransposon 1/2/1  1.0 0.1 0.1 0.4 0.1 0.9 1.0 0.0 0.1 1.0 0.0 0.7 0.0 0.0 0.0 0.0 0.0 0.0 
+>Transposon87
+Gypsy,LTR,Retrotransposon 1/1/2  1.0 0.9 0.0 0.9 0.0 0.0 0.7 0.0 0.1 0.6 0.1 0.1 0.2 0.0 0.0 0.2 0.5 0.0 
+>Transposon88
+CMC,TIR,DNATransposon 2/1/3  0.1 0.9 0.4 0.5 0.1 0.0 0.4 0.0 0.9 1.0 0.0 0.1 1.0 0.0 0.0 0.0 0.0 0.0 
+>Transposon89
+Gypsy,LTR,Retrotransposon 1/1/2  1.0 1.0 0.0 0.1 0.0 0.0 0.5 0.0 0.0 0.7 0.2 0.1 0.0 0.0 0.0 0.2 0.3 0.0 
+>Transposon90
+Gypsy,LTR,Retrotransposon 1/1/2  1.0 1.0 0.1 1.0 0.0 0.0 0.8 0.0 0.0 0.9 0.55 0.3 0.1 0.1 0.0 0.1 0.4 0.0 
+>Transposon91
+LINE,Non-LTR,Retrotransposon 1/2/1  1.0 0.1 0.1 0.2 0.0 0.7 0.9 0.0 0.0 0.9 0.2 0.6 0.2 0.0 0.0 0.1 0.0 0.0 
+>Transposon92
+hAT,TIR,DNATransposon 2/1/2  0.0 0.8 0.1 0.4 0.0 0.0 0.8 0.3 1.0 1.0 0.0 0.3 0.0 0.0 0.0 0.0 0.1 0.0 
+>Transposon93
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.1 0.8 0.5 0.6 0.1 0.0 0.6 0.5 0.9 0.2 0.3 0.0 0.0 0.0 0.0 0.1 0.1 0.0 
+>Transposon94
+Gypsy,LTR,Retrotransposon 1/1/2  0.9 0.8 0.1 0.8 0.0 0.0 0.5 0.4 0.2 0.8 0.2 0.1 0.2 0.0 0.6 0.2 0.0 0.2 
+>Transposon95
+LINE,Non-LTR,Retrotransposon 1/2/1  0.8 0.1 0.2 0.6 0.0 0.9 1.0 0.0 0.2 0.9 0.0 0.8 0.0 0.0 0.0 0.0 0.0 0.0 
+>Transposon96
+Copia,LTR,Retrotransposon 1/1/1  0.7 0.9 0.2 0.1 0.1 0.0 0.3 0.9 0.2 0.8 0.0 0.2 0.0 0.5 0.5 0.2 0.1 0.3 
+>Transposon97
+Gypsy,LTR,Retrotransposon 1/1/2  1.0 0.9 0.0 0.95 0.0 0.0 0.8 0.0 0.0 0.5 0.2 0.2 0.1 0.1 0.1 0.3 0.3 0.0 
+>Transposon98
+Gypsy,LTR,Retrotransposon 1/1/2  0.9 1.0 0.1 0.6 0.1 0.0 0.3 0.8 0.1 0.8 0.0 0.5 0.3 0.0 0.4 0.1 0.1 0.2 
+>Transposon99
+Gypsy,LTR,Retrotransposon 1/1/2  1.0 1.0 0.1 0.7 0.1 0.0 0.6 0.7 0.3 0.8 0.2 0.3 0.3 0.1 0.3 0.1 0.0 0.0 
+>Transposon100
+CMC,TIR,DNATransposon 2/1/3  0.1 1.0 0.2 0.2 0.0 0.0 0.9 0.0 1.0 0.9 0.0 0.0 0.1 0.0 0.0 0.1 0.0 0.0 
+>Transposon101
+Copia,LTR,Retrotransposon 1/1/1  1.0 0.9 0.1 0.1 0.1 0.0 0.4 0.7 0.2 0.7 0.0 0.1 0.1 0.0 0.1 0.2 0.0 0.1 
+>Transposon102
+CMC,TIR,DNATransposon 2/1/3  0.0 0.9 0.1 0.6 0.1 0.2 0.4 0.6 1.0 1.0 0.0 0.1 0.7 0.0 0.1 0.0 0.0 0.0 
+>Transposon103
+Copia,LTR,Retrotransposon 1/1/1  0.8 1.0 0.8 0.2 0.0 0.2 0.5 0.4 0.6 0.6 0.1 0.3 0.0 0.0 0.4 0.0 0.0 0.6 
+>Transposon104
+Zator,TIR,DNATransposon 2/1/5  0.2 1.0 0.3 0.5 0.0 0.0 0.4 0.3 0.8 0.5 0.0 0.0 0.0 0.1 0.2 0.1 0.0 0.0 
+>Transposon105
+Gypsy,LTR,Retrotransposon 1/1/2  0.9 0.9 0.2 0.9 0.0 0.0 0.4 0.7 0.5 0.9 0.0 0.4 0.1 0.0 0.3 0.0 0.0 0.1 
+>Transposon106
+Gypsy,LTR,Retrotransposon 1/1/2  1.0 1.0 0.1 0.8 0.0 0.1 0.8 0.2 0.1 0.6 0.0 0.3 0.4 0.2 0.2 0.3 0.4 0.0 
+>Transposon107
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.0 0.9 0.1 0.5 0.1 0.1 0.6 0.3 1.0 1.0 0.1 0.0 0.1 0.0 0.0 0.0 0.0 0.0 
+>Transposon108
+hAT,TIR,DNATransposon 2/1/2  0.0 0.9 0.4 0.3 0.1 0.3 0.6 0.3 0.9 1.0 0.0 0.1 0.0 0.0 0.0 0.0 0.0 0.0 
+>Transposon109
+Gypsy,LTR,Retrotransposon 1/1/2  0.9 1.0 0.1 1.0 0.0 0.1 0.4 0.8 0.2 0.8 0.0 0.3 0.1 0.1 0.3 0.0 0.0 0.0 
+>Transposon110
+CMC,TIR,DNATransposon 2/1/3  0.1 0.9 0.3 0.4 0.0 0.1 0.6 0.5 0.9 0.9 0.0 0.2 0.6 0.0 0.1 0.1 0.0 0.0 
+>Transposon111
+Copia,LTR,Retrotransposon 1/1/1  1.0 1.0 1.0 0.0 0.0 0.0 0.9 0.0 0.0 0.7 0.2 0.4 0.0 0.0 0.1 0.4 0.2 0.0 
+>Transposon112
+Gypsy,LTR,Retrotransposon 1/1/2  1.0 1.0 0.0 0.3 0.0 0.1 0.4 0.6 0.3 0.9 0.0 0.6 0.2 0.1 0.3 0.2 0.0 0.0 
+>Transposon113
+LINE,Non-LTR,Retrotransposon 1/2/1  1.0 0.1 0.4 0.2 0.0 0.9 1.0 0.0 0.1 0.6 0.0 0.5 0.1 0.0 0.1 0.1 0.3 0.0 
+>Transposon114
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.1 1.0 0.0 0.6 0.0 0.1 0.5 0.2 1.0 1.0 0.8 0.2 0.0 0.0 0.0 0.0 0.0 0.0 
+>Transposon115
+Gypsy,LTR,Retrotransposon 1/1/2  0.5 0.8 0.2 0.8 0.0 0.0 0.4 0.8 0.2 0.75 0.3 0.3 0.3 0.2 0.1 0.0 0.1 0.0 
+>Transposon116
+Copia,LTR,Retrotransposon 1/1/1  1.0 1.0 0.0 0.0 0.0 0.0 0.8 0.0 0.1 0.8 0.9 0.3 0.1 0.0 0.0 0.2 0.2 0.0 
+>Transposon117
+Copia,LTR,Retrotransposon 1/1/1  1.0 1.0 0.8 0.0 0.0 0.0 0.8 0.0 0.0 0.7 0.6 0.3 0.1 0.1 0.1 0.3 0.1 0.0 
+>Transposon118
+Gypsy,LTR,Retrotransposon 1/1/2  1.0 0.9 0.1 1.0 0.0 0.0 1.0 0.0 0.0 0.9 0.1 0.5 0.1 0.0 0.0 0.0 0.2 0.0 
+>Transposon119
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.1 1.0 0.1 0.3 0.0 0.0 0.8 0.0 0.8 0.8 0.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 
+>Transposon120
+LINE,Non-LTR,Retrotransposon 1/2/1  0.9 0.2 0.1 0.3 0.0 1.0 0.9 0.0 0.1 0.8 0.0 0.7 0.0 0.0 0.0 0.1 0.1 0.0 
+>Transposon121
+Zator,TIR,DNATransposon 2/1/5  0.0 0.8 0.1 0.6 0.1 0.2 0.5 0.2 0.8 0.5 0.0 0.2 0.0 0.0 0.3 0.1 0.2 0.2 
+>Transposon122
+LINE,Non-LTR,Retrotransposon 1/2/1  0.9 0.0 0.1 0.3 0.0 1.0 1.0 0.0 0.0 1.0 0.1 0.5 0.1 0.1 0.2 0.1 0.0 0.0 
+>Transposon123
+Gypsy,LTR,Retrotransposon 1/1/2  0.7 0.9 0.1 0.7 0.1 0.2 0.5 0.3 0.1 0.8 0.1 0.3 0.1 0.3 0.3 0.1 0.0 0.0 
+>Transposon124
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.0 0.9 0.3 0.6 0.1 0.1 0.5 0.4 0.8 1.0 0.5 0.1 0.0 0.0 0.0 0.0 0.0 0.0 
+>Transposon125
+Gypsy,LTR,Retrotransposon 1/1/2  0.6 1.0 0.0 0.1 0.1 0.1 0.3 0.7 0.2 0.7 0.1 0.3 0.2 0.2 0.5 0.1 0.0 0.0 
+>Transposon126
+Copia,LTR,Retrotransposon 1/1/1  0.9 1.0 1.0 0.0 0.0 0.0 0.8 0.0 0.0 0.5 0.2 0.1 0.0 0.0 0.0 0.2 0.3 0.1 
+>Transposon127
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.0 0.9 0.0 0.6 0.2 0.1 0.8 0.3 1.0 1.0 0.1 0.0 0.0 0.1 0.0 0.0 0.0 0.0 
+>Transposon128
+Zator,TIR,DNATransposon 2/1/5  0.1 1.0 0.1 0.5 0.2 0.2 0.3 0.6 0.9 0.5 0.0 0.0 0.1 0.0 0.2 0.0 0.0 0.0 
+>Transposon129
+Zator,TIR,DNATransposon 2/1/5  0.0 0.8 0.2 0.5 0.1 0.0 0.3 0.5 1.0 0.4 0.0 0.1 0.1 0.0 0.2 0.0 0.0 0.1 
+>Transposon130
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.1 0.7 0.1 0.4 0.2 0.1 0.7 0.1 1.0 0.9 0.9 0.1 0.0 0.0 0.1 0.0 0.0 0.0 
+>Transposon131
+LINE,Non-LTR,Retrotransposon 1/2/1  1.0 0.1 0.0 0.8 0.06666666666666667 0.9 1.0 0.0 0.0 1.0 0.0 0.5 0.0 0.0 0.0 0.2 0.0 0.0 
+>Transposon132
+Copia,LTR,Retrotransposon 1/1/1  0.8 0.9 0.8 0.1 0.0 0.0 0.6 0.3 0.1 0.8 0.1 0.3 0.1 0.1 0.2 0.0 0.2 0.0 
+>Transposon133
+CMC,TIR,DNATransposon 2/1/3  0.0 1.0 0.0 0.2 0.0 0.0 0.2 0.0 1.0 0.8 0.0 0.1 0.6 0.0 0.0 0.0 0.1 0.0 
+>Transposon134
+Gypsy,LTR,Retrotransposon 1/1/2  0.7 0.8 0.0 0.4 0.0 0.0 0.4 0.3 0.2 1.0 0.1 0.4 0.1 0.0 0.6 0.0 0.0 0.0 
+>Transposon135
+Gypsy,LTR,Retrotransposon 1/1/2  1.0 1.0 0.0 1.0 0.0 0.0 0.8 0.0 0.1 0.5 0.2 0.3 0.1 0.1 0.0 0.1 0.3 0.0 
+>Transposon136
+CMC,TIR,DNATransposon 2/1/3  0.2 1.0 0.1 0.3 0.0 0.0 0.5 0.0 1.0 0.9 0.1 0.0 0.2 0.0 0.0 0.0 0.0 0.0 
+>Transposon137
+Gypsy,LTR,Retrotransposon 1/1/2  0.8 1.0 0.1 0.8 0.0 0.1 0.8 0.4 0.2 0.4 0.1 0.3 0.1 0.2 0.6 0.1 0.1 0.0 
+>Transposon138
+Copia,LTR,Retrotransposon 1/1/1  0.8 0.9 0.2 0.0 0.0 0.1 0.2 0.6 0.3 1.0 0.2 0.4 0.0 0.1 0.3 0.0 0.1 0.1 
+>Transposon139
+Gypsy,LTR,Retrotransposon 1/1/2  0.6 1.0 0.1 0.9 0.0 0.1 0.3 0.7 0.2 0.7 0.2 0.2 0.4 0.0 0.5 0.1 0.1 0.2 
+>Transposon140
+Gypsy,LTR,Retrotransposon 1/1/2  1.0 1.0 0.0 1.0 0.0 0.0 0.6 0.0 0.1 0.6 0.0 0.6 0.0 0.0 0.0 0.1 0.3 0.0 
+>Transposon141
+Gypsy,LTR,Retrotransposon 1/1/2  0.7 1.0 0.0 0.4 0.0 0.0 0.0 0.8 0.3 0.8 0.1 0.5 0.3 0.1 0.2 0.1 0.1 0.0 
+>Transposon142
+Gypsy,LTR,Retrotransposon 1/1/2  0.9 1.0 0.1 1.0 0.0 0.1 0.7 0.0 0.0 0.4 0.3 0.1 0.1 0.1 0.0 0.1 0.6 0.0 
+>Transposon143
+Gypsy,LTR,Retrotransposon 1/1/2  0.9 1.0 0.0 0.9 0.0 0.0 0.6 0.7 0.2 0.9 0.4 0.1 0.1 0.2 0.3 0.0 0.2 0.1 
+>Transposon144
+Copia,LTR,Retrotransposon 1/1/1  0.7 0.9 0.3 0.3 0.0 0.1 0.3 0.9 0.2 1.0 0.0 0.5 0.1 0.2 0.2 0.0 0.0 0.1 
+>Transposon145
+Gypsy,LTR,Retrotransposon 1/1/2  0.8 1.0 0.0 1.0 0.0 0.1 1.0 0.0 0.0 0.4 0.0 0.5 0.3 0.1 0.1 0.1 0.4 0.0 
+>Transposon146
+Gypsy,LTR,Retrotransposon 1/1/2  0.8 0.9 0.0 0.7 0.1 0.0 0.7 0.7 0.4 1.0 0.1 0.4 0.2 0.2 0.3 0.0 0.1 0.1 
+>Transposon147
+ERV,LTR,Retrotransposon 1/1/3  0.9 0.9 0.0 0.0 0.1 0.0 0.2 0.6 0.0 0.6 0.2 0.1 0.3 0.1 0.3 0.2 0.2 0.2 
+>Transposon148
+Gypsy,LTR,Retrotransposon 1/1/2  0.8 0.9 0.0 1.0 0.1 0.0 0.3 0.5 0.2 0.8 0.1 0.2 0.4 0.1 0.1 0.1 0.0 0.2 
+>Transposon149
+LINE,Non-LTR,Retrotransposon 1/2/1  0.9 0.1 0.1 0.5 0.0 0.9 1.0 0.0 0.1 0.6 0.0 0.4 0.1 0.0 0.0 0.0 0.3 0.0 
+>Transposon150
+Copia,LTR,Retrotransposon 1/1/1  0.8 1.0 0.9 0.3 0.0 0.2 0.6 0.2 0.1 0.8 0.2 0.2 0.0 0.1 0.6 0.0 0.0 0.0 
+>Transposon151
+Gypsy,LTR,Retrotransposon 1/1/2  0.9 1.0 0.16666666666666666 0.2 0.0 0.0 0.1 0.7 0.4 1.0 0.0 0.2 0.0 0.1 0.3 0.0 0.0 0.0 
+>Transposon152
+Copia,LTR,Retrotransposon 1/1/1  1.0 1.0 0.3 0.1 0.0 0.1 0.7 0.6 0.2 0.8 0.1 0.0 0.1 0.0 0.7 0.0 0.0 0.1 
+>Transposon153
+Gypsy,LTR,Retrotransposon 1/1/2  0.8 0.9 0.1 0.9 0.1 0.1 0.5 0.7 0.1 0.9 0.3 0.4 0.3 0.2 0.2 0.0 0.4 0.1 
+>Transposon154
+Gypsy,LTR,Retrotransposon 1/1/2  0.6 1.0 0.0 0.7 0.0 0.0 0.4 0.8 0.3 0.7 0.2 0.3 0.2 0.1 0.4 0.1 0.1 0.1 
+>Transposon155
+Copia,LTR,Retrotransposon 1/1/1  0.9 1.0 0.1 0.0 0.0 0.2 0.5 0.3 0.1 0.8 0.0 0.3 0.3 0.1 0.4 0.1 0.0 0.0 
+>Transposon156
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.0 0.9 0.1 0.3 0.0 0.1 0.8 0.0 0.9 0.9 0.5 0.1 0.0 0.0 0.13333333333333333 0.0 0.0 0.0 
+>Transposon157
+Gypsy,LTR,Retrotransposon 1/1/2  1.0 1.0 0.1 0.8 0.0 0.0 0.4 0.5 0.1 0.7 0.2 0.3 0.0 0.2 0.6 0.0 0.2 0.2 
+>Transposon158
+CMC,TIR,DNATransposon 2/1/3  0.2 0.9 0.4 0.6 0.1 0.4 0.2 0.6 0.8 1.0 0.0 0.0 0.7 0.0 0.1 0.1 0.0 0.0 
+>Transposon159
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.1 0.9 0.3 0.4 0.0 0.0 0.5 0.6 0.9 1.0 0.6 0.1 0.0 0.0 0.2 0.0 0.0 0.0 
+>Transposon160
+Gypsy,LTR,Retrotransposon 1/1/2  0.8 0.9 0.0 0.8 0.0 0.0 0.2 0.5 0.1 0.9 0.1 0.3 0.2 0.2 0.3 0.0 0.0 0.1 
+>Transposon161
+Gypsy,LTR,Retrotransposon 1/1/2  0.9 0.8 0.2 0.7 0.1 0.2 0.4 0.9 0.1 0.7 0.0 0.3 0.5 0.2 0.3 0.0 0.1 0.0 
+>Transposon162
+Gypsy,LTR,Retrotransposon 1/1/2  0.5 0.9 0.1 0.3 0.0 0.0 0.3 0.6 0.1 0.7 0.2 0.2 0.1 0.2 0.6 0.1 0.1 0.0 
+>Transposon163
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.0 0.9 0.1 0.6 0.0 0.0 0.3 0.5 1.0 1.0 0.6 0.4 0.2 0.0 0.0 0.0 0.0 0.0 
+>Transposon164
+Copia,LTR,Retrotransposon 1/1/1  1.0 0.9 0.1 0.1 0.0 0.0 0.3 0.5 0.2 0.9 0.0 0.4 0.1 0.1 0.3 0.0 0.0 0.2 
+>Transposon165
+Gypsy,LTR,Retrotransposon 1/1/2  1.0 1.0 0.0 0.8 0.0 0.0 0.4 0.6 0.1 0.5 0.1 0.4 0.0 0.2 0.6 0.0 0.1 0.2 
+>Transposon166
+Zator,TIR,DNATransposon 2/1/5  0.0 1.0 0.5 0.6 0.0 0.0 0.5 0.6 0.7 0.4 0.0 0.1 0.1 0.0 0.3 0.0 0.1 0.0 
+>Transposon167
+Copia,LTR,Retrotransposon 1/1/1  0.7 1.0 0.8 0.2 0.0 0.1 0.3 0.5 0.4 0.6 0.2 0.0 0.0 0.1 0.4 0.2 0.0 0.4 
+>Transposon168
+Copia,LTR,Retrotransposon 1/1/1  1.0 1.0 1.0 0.0 0.0 0.0 0.8 0.0 0.0 1.0 0.5 0.3 0.0 0.0 0.0 0.0 0.0 0.0 
+>Transposon169
+hAT,TIR,DNATransposon 2/1/2  0.0 0.9 0.0 0.4 0.1 0.1 0.4 0.2 1.0 0.3 0.0 0.1 0.0 0.0 0.1 0.1 0.1 0.0 
+>Transposon170
+Gypsy,LTR,Retrotransposon 1/1/2  0.7 1.0 0.2 0.9 0.2 0.0 0.5 0.3 0.3 0.7 0.3 0.2 0.1 0.0 0.4 0.0 0.1 0.0 
+>Transposon171
+Copia,LTR,Retrotransposon 1/1/1  1.0 1.0 0.0 0.0 0.0 0.0 0.8 0.0 0.0 0.6 0.35 0.4 0.0 0.0 0.0 0.0 0.1 0.1 
+>Transposon172
+Gypsy,LTR,Retrotransposon 1/1/2  1.0 1.0 0.0 0.9 0.0 0.1 0.7 0.0 0.0 0.3 0.1 0.2 0.2 0.2 0.1 0.0 0.6 0.0 
+>Transposon173
+LINE,Non-LTR,Retrotransposon 1/2/1  1.0 0.1 0.0 0.4 0.1 0.9 1.0 0.0 0.0 0.7 0.0 0.7 0.1 0.0 0.1 0.0 0.0 0.1 
+>Transposon174
+Gypsy,LTR,Retrotransposon 1/1/2  0.9 1.0 0.1 0.2 0.1 0.2 0.7 0.6 0.5 0.8 0.2 0.1 0.1 0.1 0.3 0.0 0.0 0.2 
+>Transposon175
+Gypsy,LTR,Retrotransposon 1/1/2  1.0 1.0 0.0 0.3 0.0 0.0 0.5 0.0 0.0 0.7 0.0 0.6 0.0 0.0 0.1 0.0 0.3 0.0 
+>Transposon176
+Gypsy,LTR,Retrotransposon 1/1/2  0.9 0.9 0.0 1.0 0.0 0.1 0.3 0.3 0.0 0.5 0.3 0.1 0.2 0.2 0.6 0.2 0.0 0.3 
+>Transposon177
+Gypsy,LTR,Retrotransposon 1/1/2  0.6 1.0 0.2 0.3 0.0 0.0 0.4 0.1 0.0 0.8 0.2 0.8 0.0 0.0 0.0 0.0 0.0 0.0 
+>Transposon178
+Gypsy,LTR,Retrotransposon 1/1/2  1.0 1.0 0.0 1.0 0.0 0.0 0.8 0.0 0.0 0.3 0.0 0.4 0.0 0.1 0.0 0.2 0.1 0.0 
+>Transposon179
+Gypsy,LTR,Retrotransposon 1/1/2  0.7 0.9 0.0 0.1 0.0 0.0 0.4 0.6 0.2 0.8 0.0 0.2 0.2 0.0 0.4 0.0 0.1 0.2 
+>Transposon180
+Gypsy,LTR,Retrotransposon 1/1/2  1.0 0.9 0.0 0.1 0.0 0.1 0.9 0.0 0.0 0.7 0.3 0.4 0.0 0.0 0.0 0.2 0.0 0.0 
+>Transposon181
+Copia,LTR,Retrotransposon 1/1/1  1.0 1.0 1.0 0.2 0.0 0.0 0.6 0.0 0.1 1.0 0.2 0.3 0.0 0.0 0.0 0.2 0.1 0.0 
+>Transposon182
+Gypsy,LTR,Retrotransposon 1/1/2  1.0 1.0 0.1 0.2 0.0 0.0 0.4 0.0 0.0 0.6 0.1 0.3 0.2 0.0 0.0 0.1 0.1 0.0 
+>Transposon183
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.1 1.0 0.2 0.9 0.0 0.0 0.8 0.1 0.9 0.9 0.0 0.0 0.0 0.0 0.0 0.0 0.1 0.0 
+>Transposon184
+Copia,LTR,Retrotransposon 1/1/1  1.0 1.0 1.0 0.1 0.0 0.1 1.0 0.0 0.1 0.9 0.3 0.0 0.2 0.0 0.2 0.2 0.1 0.0 
+>Transposon185
+Gypsy,LTR,Retrotransposon 1/1/2  0.7 0.9 0.0 0.3 0.0 0.0 0.6 0.3 0.5 0.7 0.0 0.3 0.0 0.0 0.4 0.1 0.1 0.2 
+>Transposon186
+Gypsy,LTR,Retrotransposon 1/1/2  1.0 1.0 0.0 0.9 0.0 0.0 0.8 0.0 0.0 0.7 0.1 0.2 0.1 0.0 0.0 0.0 0.4 0.0 
+>Transposon187
+Gypsy,LTR,Retrotransposon 1/1/2  0.8 0.9 0.1 0.6 0.1 0.0 0.2 0.6 0.1 0.9 0.0 0.2 0.2 0.0 0.2 0.1 0.0 0.0 
+>Transposon188
+LINE,Non-LTR,Retrotransposon 1/2/1  1.0 0.2 0.3 0.3 0.0 1.0 1.0 0.0 0.1 0.7 0.1 0.3 0.0 0.0 0.0 0.0 0.1 0.0 
+>Transposon189
+LINE,Non-LTR,Retrotransposon 1/2/1  0.8 0.0 0.3 0.5 0.0 1.0 1.0 0.0 0.0 1.0 0.3 0.7 0.0 0.0 0.0 0.1 0.0 0.0 
+>Transposon190
+Gypsy,LTR,Retrotransposon 1/1/2  0.9 1.0 0.0 0.6 0.0 0.0 0.7 0.3 0.0 0.9 0.1 0.1 0.3 0.0 0.5 0.2 0.3 0.0 
+>Transposon191
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.1 0.9 0.2 0.4 0.1 0.1 0.5 0.1 0.9 0.1 0.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 
+>Transposon192
+LINE,Non-LTR,Retrotransposon 1/2/1  0.9 0.4 0.3 0.3 0.2 0.8 0.9 0.0 0.0 0.3 0.1 0.4 0.1 0.2 0.5 0.1 0.6 0.0 
+>Transposon193
+Gypsy,LTR,Retrotransposon 1/1/2  0.8 0.9 0.0 0.3 0.0 0.0 0.9 0.0 0.2 0.8 0.0 0.5 0.1 0.0 0.0 0.1 0.1 0.0 
+>Transposon194
+Gypsy,LTR,Retrotransposon 1/1/2  1.0 1.0 0.0 0.9 0.0 0.0 0.6 0.0 0.0 0.7 0.0 0.5 0.1 0.0 0.0 0.1 0.3 0.0 
+>Transposon195
+Gypsy,LTR,Retrotransposon 1/1/2  1.0 1.0 0.0 1.0 0.0 0.0 0.7 0.0 0.0 0.8 0.3 0.5 0.0 0.0 0.0 0.0 0.4 0.0 
+>Transposon196
+Copia,LTR,Retrotransposon 1/1/1  0.9 1.0 1.0 0.1 0.0 0.0 0.9 0.0 0.0 0.9 0.6 0.2 0.0 0.0 0.0 0.5 0.1 0.0 
+>Transposon197
+Gypsy,LTR,Retrotransposon 1/1/2  0.9 0.9 0.1 0.9 0.0 0.0 0.5 0.4 0.3 0.8 0.1 0.5 0.2 0.0 0.3 0.2 0.2 0.1 
+>Transposon198
+Novosib,TIR,DNATransposon 2/1/6  0.1 1.0 0.4 0.2 0.1 0.0 0.3 0.1 0.8 1.0 0.0 0.0 0.0 0.0 0.0 0.1 0.2 0.0 
+>Transposon199
+Copia,LTR,Retrotransposon 1/1/1  0.8 1.0 0.2 0.1 0.0 0.2 0.4 0.2 0.3 0.8 0.0 0.4 0.3 0.2 0.3 0.2 0.0 0.0 
+>Transposon200
+Gypsy,LTR,Retrotransposon 1/1/2  0.7 1.0 0.1 0.8 0.0 0.0 0.7 0.5 0.3 0.5 0.1 0.0 0.3 0.1 0.5 0.0 0.0 0.0 
+>Transposon201
+Gypsy,LTR,Retrotransposon 1/1/2  1.0 1.0 0.1 0.9 0.0 0.0 0.4 0.0 0.1 0.5 0.3 0.2 0.0 0.0 0.0 0.1 0.3 0.0 
+>Transposon202
+Gypsy,LTR,Retrotransposon 1/1/2  1.0 1.0 0.0 1.0 0.0 0.0 0.6 0.0 0.0 0.7 0.3 0.2 0.0 0.1 0.0 0.1 0.4 0.0 
+>Transposon203
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.2 1.0 0.1 0.8 0.0 0.0 0.6 0.0 0.9 1.0 0.3 0.0 0.0 0.0 0.0 0.0 0.2 0.0 
+>Transposon204
+Copia,LTR,Retrotransposon 1/1/1  0.8 1.0 0.1 0.0 0.0 0.1 0.2 0.4 0.2 0.9 0.2 0.4 0.1 0.1 0.3 0.3 0.0 0.3 
+>Transposon205
+Gypsy,LTR,Retrotransposon 1/1/2  0.6 1.0 0.4 0.8 0.2 0.0 0.3 0.5 0.4 0.8 0.3 0.3 0.3 0.3 0.4 0.1 0.0 0.1 
+>Transposon206
+Gypsy,LTR,Retrotransposon 1/1/2  0.7 1.0 0.2 0.7 0.0 0.0 0.6 0.3 0.3 0.8 0.0 0.1 0.0 0.4 0.4 0.0 0.2 0.1 
+>Transposon207
+Gypsy,LTR,Retrotransposon 1/1/2  0.9 1.0 0.0 0.2 0.0 0.0 0.3 0.0 0.1 1.0 0.2 0.0 0.0 0.0 0.1 0.0 0.0 0.0 
+>Transposon208
+LINE,Non-LTR,Retrotransposon 1/2/1  1.0 0.0 0.3 0.7 0.0 0.7 1.0 0.0 0.3 0.7 0.0 0.5 0.3 0.1 0.3 0.1 0.6 0.1 
+>Transposon209
+Gypsy,LTR,Retrotransposon 1/1/2  0.9 1.0 0.0 1.0 0.0 0.0 0.8 0.0 0.0 0.4 0.1 0.4 0.4 0.1 0.1 0.2 0.6 0.0 
+>Transposon210
+Gypsy,LTR,Retrotransposon 1/1/2  1.0 1.0 0.0 1.0 0.0 0.0 0.8 0.0 0.0 0.7 0.2 0.2 0.1 0.0 0.0 0.0 0.4 0.0 
+>Transposon211
+Gypsy,LTR,Retrotransposon 1/1/2  0.8 1.0 0.1 1.0 0.0 0.0 0.4 0.0 0.0 0.2 0.2 0.4 0.1 0.2 0.0 0.1 0.9 0.0 
+>Transposon212
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.5 0.7 0.4 0.5 0.0 0.3 0.4 0.3 1.0 0.3 0.1 0.1 0.0 0.1 0.0 0.0 0.0 0.0 
+>Transposon213
+SINE,Non-LTR,Retrotransposon 1/2/2  1.0 0.2 0.3 0.5 0.0 0.8 0.0 1.0 0.1 0.6 0.0 0.5 0.0 0.0 0.3 0.0 0.2 0.0 
+>Transposon214
+Copia,LTR,Retrotransposon 1/1/1  0.8 1.0 0.3 0.1 0.2 0.0 0.5 0.8 0.0 0.7 0.2 0.3 0.2 0.3 0.7 0.1 0.1 0.4 
+>Transposon215
+Helitron,DNATransposon 2/2  0.0 1.0 0.6 0.2 0.2 0.1 0.3 0.5 1.0 0.3 0.0 0.2 0.0 0.0 0.3 0.1 0.6 0.0 
+>Transposon216
+hAT,TIR,DNATransposon 2/1/2  0.3 1.0 0.2 0.1 0.0 0.0 0.4 0.0 0.6 0.7 0.1 0.7 0.1 0.0 0.1 0.0 0.0 0.0 
+>Transposon217
+Gypsy,LTR,Retrotransposon 1/1/2  1.0 1.0 0.2 0.7 0.0 0.0 0.4 0.0 0.2 0.2 0.0 0.4 0.3 0.0 0.0 0.2 0.8 0.0 
+>Transposon218
+CMC,TIR,DNATransposon 2/1/3  0.0 0.9 0.3 0.4 0.0 0.0 0.7 0.0 0.6 0.8 0.0 0.0 0.6 0.1 0.0 0.0 0.0 0.0 
+>Transposon219
+Gypsy,LTR,Retrotransposon 1/1/2  0.7 1.0 0.1 0.2 0.1 0.2 0.4 0.2 0.1 0.7 0.3 0.3 0.6 0.2 0.4 0.2 0.3 0.2 
+>Transposon220
+Copia,LTR,Retrotransposon 1/1/1  0.8 1.0 0.8 0.1 0.0 0.0 0.7 0.3 0.2 0.7 0.0 0.2 0.1 0.0 0.7 0.0 0.0 0.2 
+>Transposon221
+Copia,LTR,Retrotransposon 1/1/1  0.7 0.9 0.7 0.0 0.0 0.0 0.9 0.1 0.2 0.9 0.7 0.0 0.0 0.1 0.1 0.0 0.0 0.2 
+>Transposon222
+Copia,LTR,Retrotransposon 1/1/1  1.0 1.0 1.0 0.0 0.0 0.0 0.7 0.0 0.0 0.4 0.1 0.4 0.1 0.1 0.0 0.1 0.8 0.1 
+>Transposon223
+Copia,LTR,Retrotransposon 1/1/1  1.0 1.0 1.0 0.1 0.0 0.0 0.8 0.0 0.0 0.2 0.0 0.3 0.2 0.0 0.1 0.1 0.6 0.1 
+>Transposon224
+Copia,LTR,Retrotransposon 1/1/1  0.7 1.0 1.0 0.0 0.0 0.1 0.8 0.4 0.4 0.4 0.4 0.0 0.0 0.3 0.4 0.0 0.0 0.2 
+>Transposon225
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.1 0.9 0.2 0.4 0.0 0.0 0.1 0.0 0.9 0.3 0.0 0.0 0.0 0.0 0.0 0.0 0.3 0.0 
+>Transposon226
+Copia,LTR,Retrotransposon 1/1/1  0.6 1.0 0.9 0.1 0.0 0.0 0.5 0.4 0.1 1.0 0.3 0.0 0.0 0.1 0.6 0.0 0.1 0.1 
+>Transposon227
+Copia,LTR,Retrotransposon 1/1/1  0.8 0.9 0.9 0.1 0.0 0.1 0.3 0.5 0.3 0.8 0.0 0.0 0.0 0.0 0.7 0.0 0.0 0.1 
+>Transposon228
+Gypsy,LTR,Retrotransposon 1/1/2  1.0 1.0 0.0 1.0 0.0 0.0 0.8 0.0 0.0 0.4 0.5 0.5 0.0 0.1 0.0 0.0 0.3 0.0 
+>Transposon229
+Copia,LTR,Retrotransposon 1/1/1  1.0 1.0 1.0 0.0 0.0 0.0 0.7 0.0 0.0 0.1 0.1 0.1 0.2 0.0 0.3 0.0 0.6 0.0 
+>Transposon230
+Copia,LTR,Retrotransposon 1/1/1  1.0 1.0 0.9 0.1 0.0 0.0 0.4 0.0 0.0 0.0 0.0 0.2 0.1 0.1 0.0 0.0 0.9 0.0 
+>Transposon231
+Copia,LTR,Retrotransposon 1/1/1  1.0 1.0 1.0 0.0 0.0 0.0 0.8 0.0 0.0 0.3 0.0 0.3 0.1 0.0 0.2 0.0 0.4 0.0 
+>Transposon232
+hAT,TIR,DNATransposon 2/1/2  0.2 0.8 0.1 0.6 0.0 0.0 0.3 0.0 0.7 0.7 0.0 0.5 0.0 0.1 0.0 0.0 0.2 0.0 
+>Transposon233
+Copia,LTR,Retrotransposon 1/1/1  0.9 1.0 0.8 0.1 0.0 0.0 0.6 0.4 0.1 0.8 0.0 0.1 0.1 0.0 0.5 0.1 0.0 0.1 
+>Transposon234
+Copia,LTR,Retrotransposon 1/1/1  0.8 0.9 0.5 0.2 0.1 0.0 0.4 0.4 0.3 0.9 0.0 0.1 0.0 0.1 0.5 0.0 0.0 0.2 
+>Transposon235
+Gypsy,LTR,Retrotransposon 1/1/2  0.8 1.0 0.0 0.8 0.0 0.0 0.3 0.1 0.2 0.7 0.0 0.0 0.1 0.0 0.0 0.1 0.2 0.0 
+>Transposon236
+Copia,LTR,Retrotransposon 1/1/1  0.6 1.0 0.8 0.3 0.1 0.1 0.4 0.6 0.2 0.7 0.0 0.2 0.0 0.1 0.6 0.0 0.0 0.1 
+>Transposon237
+SINE,Non-LTR,Retrotransposon 1/2/2  0.9 0.1 0.5 0.9 0.2 0.9 0.1 1.0 0.1 0.8 0.1 0.1 0.2 0.1 0.6 0.1 0.1 0.2 
+>Transposon238
+Copia,LTR,Retrotransposon 1/1/1  1.0 1.0 1.0 0.0 0.0 0.0 0.9 0.0 0.0 0.1 0.2 0.1 0.2 0.0 0.1 0.1 0.9 0.1 
+>Transposon239
+Copia,LTR,Retrotransposon 1/1/1  1.0 1.0 0.5 0.3 0.0 0.1 0.5 0.4 0.3 0.9 0.0 0.0 0.1 0.1 0.9 0.1 0.0 0.2 
+>Transposon240
+SINE,Non-LTR,Retrotransposon 1/2/2  0.9 0.2 0.4 0.3 0.0 0.6 0.1 0.7 0.1 0.6 0.0 0.3 0.1 0.0 0.1 0.2 0.2 0.1 
+>Transposon241
+Helitron,DNATransposon 2/2  0.0 0.9 0.3 0.2 0.0 0.0 0.6 0.2 0.8 0.3 0.0 0.3 0.0 0.1 0.2 0.0 0.9 0.0 
+>Transposon242
+LINE,Non-LTR,Retrotransposon 1/2/1  0.9 0.0 0.2 0.0 0.0 0.8 1.0 0.0 0.1 0.3 0.1 0.0 0.0 0.0 0.2 0.1 0.3 0.0 
+>Transposon243
+Copia,LTR,Retrotransposon 1/1/1  1.0 1.0 1.0 0.0 0.0 0.1 0.7 0.1 0.0 0.5 0.1 0.3 0.2 0.3 0.3 0.2 0.3 0.1 
+>Transposon244
+Gypsy,LTR,Retrotransposon 1/1/2  1.0 1.0 0.0 0.9 0.0 0.0 0.4 0.0 0.0 0.9 0.0 0.3 0.0 0.0 0.0 0.1 0.1 0.0 
+>Transposon245
+Copia,LTR,Retrotransposon 1/1/1  0.9 1.0 1.0 0.0 0.0 0.0 0.7 0.0 0.1 0.1 0.0 0.4 0.4 0.0 0.0 0.2 0.6 0.0 
+>Transposon246
+Gypsy,LTR,Retrotransposon 1/1/2  1.0 0.9 0.1 1.0 0.3 0.0 0.4 0.3 0.2 0.5 0.1 0.3 0.0 0.2 0.6 0.2 0.2 0.1 
+>Transposon247
+Helitron,DNATransposon 2/2  0.0 0.9 0.5 0.4 0.0 0.0 0.9 0.6 1.0 0.3 0.1 0.0 0.1 0.2 0.4 0.0 0.5 0.0 
+>Transposon248
+Copia,LTR,Retrotransposon 1/1/1  0.7 1.0 0.9 0.1 0.0 0.0 0.2 0.3 0.1 0.5 0.2 0.1 0.1 0.0 0.5 0.1 0.0 0.0 
+>Transposon249
+Copia,LTR,Retrotransposon 1/1/1  1.0 1.0 1.0 0.0 0.0 0.0 0.2 0.0 0.1 0.0 0.0 0.1 0.6 0.0 0.0 0.5 1.0 0.0 
+>Transposon250
+Zator,TIR,DNATransposon 2/1/5  0.0 1.0 0.1 0.1 0.0 0.0 0.5 0.0 0.8 0.8 0.0 0.0 0.0 0.0 0.9 0.1 0.1 0.0 
+>Transposon251
+Copia,LTR,Retrotransposon 1/1/1  1.0 1.0 0.9 0.1 0.0 0.0 0.7 0.0 0.0 0.2 0.1 0.2 0.3 0.0 0.0 0.2 0.6 0.0 
+>Transposon252
+Copia,LTR,Retrotransposon 1/1/1  1.0 1.0 1.0 0.0 0.0 0.0 0.8 0.0 0.0 0.1 0.0 0.2 0.1 0.0 0.0 0.0 0.6 0.0 
+>Transposon253
+Gypsy,LTR,Retrotransposon 1/1/2  0.8 1.0 0.0 0.9 0.1 0.1 0.3 0.1 0.2 0.5 0.1 0.3 0.2 0.1 0.0 0.3 0.6 0.0 
+>Transposon254
+Copia,LTR,Retrotransposon 1/1/1  1.0 1.0 1.0 0.0 0.0 0.1 0.9 0.0 0.1 0.2 0.1 0.4 0.2 0.1 0.1 0.1 0.6 0.2 
+>Transposon255
+SINE,Non-LTR,Retrotransposon 1/2/2  0.9 0.3 0.5 0.6 0.1 0.5 0.0 0.8 0.0 0.9 0.1 0.4 0.0 0.0 0.1 0.2 0.2 0.1 
+>Transposon256
+Copia,LTR,Retrotransposon 1/1/1  1.0 0.9 1.0 0.0 0.0 0.0 0.7 0.0 0.0 0.3 0.0 0.4 0.3 0.0 0.3 0.1 0.6 0.0 
+>Transposon257
+hAT,TIR,DNATransposon 2/1/2  0.2 1.0 0.2 0.3 0.1 0.0 0.3 0.0 0.8 0.6 0.0 0.7 0.0 0.0 0.0 0.0 0.3 0.0 
+>Transposon258
+Novosib,TIR,DNATransposon 2/1/6  0.1 1.0 0.0 0.4 0.0 0.0 0.3 0.0 0.9 1.0 0.0 0.0 0.1 0.0 0.0 0.9 0.1 0.0 
+>Transposon259
+Copia,LTR,Retrotransposon 1/1/1  0.6 0.9 0.7 0.1 0.0 0.1 0.3 0.5 0.1 0.4 0.1 0.0 0.1 0.1 0.8 0.0 0.1 0.4 
+>Transposon260
+Copia,LTR,Retrotransposon 1/1/1  0.7 1.0 0.8 0.0 0.1 0.1 0.3 0.2 0.1 0.8 0.3 0.0 0.0 0.2 0.3 0.2 0.0 0.2 
+>Transposon261
+Copia,LTR,Retrotransposon 1/1/1  1.0 1.0 0.9 0.1 0.0 0.0 0.5 0.0 0.1 0.3 0.1 0.3 0.1 0.0 0.0 0.1 0.8 0.0 
+>Transposon262
+hAT,TIR,DNATransposon 2/1/2  0.0 1.0 0.3 0.6 0.1 0.0 0.6 0.2 0.9 0.3 0.0 0.1 0.0 0.0 0.0 0.0 0.2 0.0 
+>Transposon263
+Copia,LTR,Retrotransposon 1/1/1  0.6 1.0 0.9 0.1 0.0 0.0 0.8 0.2 0.2 0.9 0.0 0.1 0.0 0.0 0.6 0.0 0.1 0.4 
+>Transposon264
+Copia,LTR,Retrotransposon 1/1/1  0.9 1.0 0.9 0.0 0.0 0.0 0.5 0.0 0.0 0.3 0.2 0.3 0.2 0.0 0.1 0.2 0.4 0.0 
+>Transposon265
+Copia,LTR,Retrotransposon 1/1/1  1.0 1.0 0.8 0.0 0.0 0.0 0.9 0.0 0.0 0.2 0.1 0.0 0.4 0.0 0.2 0.2 0.5 0.0 
+>Transposon266
+Copia,LTR,Retrotransposon 1/1/1  1.0 1.0 1.0 0.0 0.0 0.0 0.9 0.0 0.0 0.4 0.1 0.3 0.2 0.0 0.0 0.2 0.9 0.0 
+>Transposon267
+Copia,LTR,Retrotransposon 1/1/1  1.0 0.9 0.9 0.0 0.0 0.0 0.8 0.0 0.1 0.6 0.0 0.7 0.1 0.0 0.0 0.1 0.5 0.0 
+>Transposon268
+Copia,LTR,Retrotransposon 1/1/1  1.0 1.0 1.0 0.0 0.0 0.0 0.7 0.0 0.1 0.1 0.0 0.1 0.4 0.0 0.1 0.3 0.7 0.0 
+>Transposon269
+Copia,LTR,Retrotransposon 1/1/1  0.9 1.0 1.0 0.0 0.0 0.0 0.4 0.1 0.0 0.4 0.1 0.3 0.1 0.0 0.2 0.0 0.4 0.0 
+>Transposon270
+Gypsy,LTR,Retrotransposon 1/1/2  1.0 1.0 0.1 0.9 0.0 0.0 0.4 0.3 0.2 0.6 0.1 0.5 0.0 0.2 0.2 0.1 0.3 0.0 
+>Transposon271
+LINE,Non-LTR,Retrotransposon 1/2/1  1.0 0.3 0.1 0.5 0.0 0.9 1.0 0.0 0.2 0.3 0.0 0.2 0.0 0.0 0.0 0.0 0.7 0.0 
+>Transposon272
+Copia,LTR,Retrotransposon 1/1/1  0.6 1.0 0.9 0.2 0.0 0.0 0.6 0.3 0.6 0.5 0.1 0.1 0.0 0.2 0.0 0.0 0.0 0.0 
+>Transposon273
+Gypsy,LTR,Retrotransposon 1/1/2  1.0 1.0 0.1 1.0 0.0 0.0 0.2 0.0 0.1 0.4 0.0 0.3 0.2 0.0 0.4 0.0 1.0 0.0 
+>Transposon274
+Gypsy,LTR,Retrotransposon 1/1/2  1.0 0.9 0.0 1.0 0.0 0.0 0.7 0.0 0.0 0.8 0.1 0.4 0.0 0.0 0.0 0.2 0.4 0.0 
+>Transposon275
+Copia,LTR,Retrotransposon 1/1/1  1.0 1.0 1.0 0.0 0.0 0.0 0.9 0.0 0.1 0.7 0.0 0.5 0.5 0.0 0.0 0.1 0.3 0.0 
+>Transposon276
+SINE,Non-LTR,Retrotransposon 1/2/2  0.8 0.1 0.6 0.8 0.0 0.9 0.1 0.8 0.6 0.5333333333333333 0.0 0.3 0.0 0.1 0.5 0.0 0.3 0.1 
+>Transposon277
+Copia,LTR,Retrotransposon 1/1/1  0.6 1.0 0.9 0.2 0.0 0.0 0.4 0.6 0.0 0.7 0.0 0.3 0.1 0.1 0.5 0.1 0.2 0.0 
+>Transposon278
+Copia,LTR,Retrotransposon 1/1/1  0.4 1.0 1.0 0.3 0.0 0.0 0.6 0.4 0.3 0.7 0.7 0.0 0.0 0.3 0.3 0.1 0.0 0.2 
+>Transposon279
+Copia,LTR,Retrotransposon 1/1/1  0.6 1.0 0.7 0.1 0.0 0.0 0.8 0.1 0.0 0.6 0.0 0.1 0.3 0.0 1.0 0.1 0.2 0.5 
+>Transposon280
+Copia,LTR,Retrotransposon 1/1/1  0.9 1.0 0.8 0.1 0.0 0.0 0.4 0.6 0.3 1.0 0.3 0.2 0.0 0.1 0.5 0.0 0.0 0.0 
+>Transposon281
+Copia,LTR,Retrotransposon 1/1/1  1.0 1.0 0.9 0.0 0.0 0.0 0.5 0.0 0.0 0.5 0.0 0.2 0.1 0.0 0.2 0.0 0.2 0.0 
+>Transposon282
+Copia,LTR,Retrotransposon 1/1/1  0.8 1.0 0.7 0.1 0.0 0.0 0.5 0.0 0.1 0.1 0.0 0.0 0.1 0.1 0.0 0.1 0.4 0.0 
+>Transposon283
+Copia,LTR,Retrotransposon 1/1/1  0.8 1.0 0.9 0.3 0.1 0.0 0.7 0.4 0.3 0.6 0.0 0.3 0.0 0.0 0.3 0.1 0.2 0.0 
+>Transposon284
+SINE,Non-LTR,Retrotransposon 1/2/2  0.9 0.1 0.5 0.6 0.0 0.8 0.2 0.9 0.2 0.4 0.0 0.5 0.3 0.0 0.5 0.3 0.2 0.1 
+>Transposon285
+Copia,LTR,Retrotransposon 1/1/1  1.0 1.0 1.0 0.0 0.0 0.1 0.6 0.1 0.0 0.0 0.0 0.2 0.2 0.0 0.0 0.1 1.0 0.0 
+>Transposon286
+hAT,TIR,DNATransposon 2/1/2  0.1 1.0 0.2 0.2 0.2 0.0 0.6 0.0 0.8 0.7 0.0 0.9 0.0 0.0 0.0 0.1 0.3 0.0 
+>Transposon287
+SINE,Non-LTR,Retrotransposon 1/2/2  1.0 0.0 0.5 0.5 0.1 1.0 0.0 1.0 0.1 0.8 0.0 0.4 0.5 0.0 0.4 0.2 0.3 0.0 
+>Transposon288
+Gypsy,LTR,Retrotransposon 1/1/2  0.9 0.9 0.0 0.54 0.0 0.0 0.6 0.1 0.0 0.7 0.2 0.4 0.1 0.0 0.1 0.0 0.0 0.0 
+>Transposon289
+Gypsy,LTR,Retrotransposon 1/1/2  1.0 1.0 0.1 0.6 0.0 0.0 0.2 0.0 0.0 0.3 0.1 0.3 0.0 0.2 0.3 0.2 0.7 0.0 
+>Transposon290
+hAT,TIR,DNATransposon 2/1/2  0.2 1.0 0.3 0.3 0.2 0.2 0.3 0.1 0.9 0.9 0.0 0.7 0.2 0.0 0.0 0.0 0.2 0.0 
+>Transposon291
+Copia,LTR,Retrotransposon 1/1/1  1.0 1.0 1.0 0.0 0.0 0.0 0.5 0.0 0.0 0.7 0.0 0.5 0.1 0.0 0.1 0.1 0.5 0.0 
+>Transposon292
+Copia,LTR,Retrotransposon 1/1/1  1.0 1.0 1.0 0.0 0.0 0.0 0.7 0.0 0.1 0.5 0.1 0.2 0.4 0.0 0.2 0.2 0.7 0.0 
+>Transposon293
+Gypsy,LTR,Retrotransposon 1/1/2  1.0 1.0 0.0 1.0 0.0 0.0 0.6 0.0 0.1 0.7 0.1 0.4 0.0 0.0 0.0 0.1 0.5 0.0 
+>Transposon294
+Copia,LTR,Retrotransposon 1/1/1  1.0 1.0 1.0 0.0 0.0 0.0 0.7 0.0 0.0 0.5 0.3 0.1 0.0 0.1 0.0 0.0 0.6 0.0 
+>Transposon295
+Helitron,DNATransposon 2/2  0.2 1.0 0.5 0.3 0.0 0.0 0.3 0.0 0.7 0.1 0.0 0.0 0.1 0.0 0.0 0.1 0.7 0.0 
+>Transposon296
+Copia,LTR,Retrotransposon 1/1/1  0.9 1.0 0.9 0.0 0.0 0.0 0.6 0.3 0.1 1.0 0.1 0.1 0.0 0.0 0.7 0.0 0.0 0.0 
+>Transposon297
+Copia,LTR,Retrotransposon 1/1/1  1.0 1.0 1.0 0.0 0.0 0.0 0.8 0.0 0.0 0.7 0.2 0.2 0.2 0.0 0.1 0.0 0.5 0.0 
+>Transposon298
+SINE,Non-LTR,Retrotransposon 1/2/2  0.7 0.2 0.3 0.6 0.3 0.7 0.0 1.0 0.2 1.0 0.0 0.5 0.1 0.1 0.4 0.0 0.2 0.1 
+>Transposon299
+hAT,TIR,DNATransposon 2/1/2  0.0 1.0 0.3 0.0 0.1 0.0 0.2 0.0 0.8 0.7 0.0 0.8 0.1 0.0 0.1 0.0 0.3 0.0 
+>Transposon300
+SINE,Non-LTR,Retrotransposon 1/2/2  0.9 0.2 0.5 0.2 0.0 0.9 0.2 0.8 0.2 0.8 0.1 0.4 0.2 0.0 0.4 0.1 0.2 0.1 
+>Transposon301
+Gypsy,LTR,Retrotransposon 1/1/2  0.9 0.9 0.1 0.7 0.0 0.0 1.0 0.0 0.1 0.5 0.0 0.0 0.3 0.0 0.4 0.1 0.1 0.2 
+>Transposon302
+Zator,TIR,DNATransposon 2/1/5  0.1 0.8 0.2 0.6 0.1 0.3 0.5 0.6 1.0 0.9 0.0 0.1 0.2 0.1 0.9 0.0 0.1 0.0 
+>Transposon303
+Helitron,DNATransposon 2/2  0.0 0.7 0.7 0.3 0.1 0.2 0.5 0.4 1.0 0.1 0.2 0.0 0.0 0.2 0.2 0.0 0.9 0.0 
+>Transposon304
+Copia,LTR,Retrotransposon 1/1/1  0.9 1.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.5 0.2 0.2 0.4 0.1 0.1 0.3 0.8 0.2 
+>Transposon305
+Copia,LTR,Retrotransposon 1/1/1  1.0 1.0 0.8 0.3 0.0 0.0 0.3 0.9 0.2 1.0 0.0 0.2 0.0 0.4 0.8 0.0 0.1 0.0 
+>Transposon306
+Gypsy,LTR,Retrotransposon 1/1/2  0.9 1.0 0.0 1.0 0.0 0.0 0.3 0.4 0.1 0.8 0.0 0.6 0.0 0.0 0.0 0.2 0.4 0.0 
+>Transposon307
+Copia,LTR,Retrotransposon 1/1/1  0.6 1.0 0.7 0.1 0.0 0.0 0.5 0.3 0.2 0.6 0.1 0.2 0.3 0.1 0.7 0.2 0.1 0.1 
+>Transposon308
+CMC,TIR,DNATransposon 2/1/3  0.1 0.8 0.1 0.4 0.1 0.2 0.4 0.7 1.0 0.8 0.1 0.1 0.9 0.0 0.1 0.0 0.0 0.0 
+>Transposon309
+Zator,TIR,DNATransposon 2/1/5  0.0 0.9 0.4 0.2 0.0 0.0 0.5 0.0 1.0 0.4 0.0 0.0 0.0 0.0 0.1 0.0 0.0 0.0 
+>Transposon310
+hAT,TIR,DNATransposon 2/1/2  0.1 1.0 0.3 0.4 0.0 0.0 0.6 0.0 0.9 0.85 0.0 0.9 0.0 0.1 0.0 0.1 0.3 0.0 
+>Transposon311
+Copia,LTR,Retrotransposon 1/1/1  0.4 1.0 0.9 0.1 0.0 0.0 0.3 0.5 0.4 0.5 0.1 0.0 0.0 0.2 0.0 0.0 0.0 0.2 
+>Transposon312
+Gypsy,LTR,Retrotransposon 1/1/2  1.0 1.0 0.0 1.0 0.0 0.0 0.6 0.0 0.0 0.2 0.4 0.4 0.0 0.0 0.0 0.1 0.7 0.0 
+>Transposon313
+hAT,TIR,DNATransposon 2/1/2  0.4 0.9 0.2 0.4 0.1 0.0 0.6 0.0 0.6 0.7 0.0 0.7 0.2 0.0 0.0 0.0 0.3 0.0 
+>Transposon314
+hAT,TIR,DNATransposon 2/1/2  0.1 0.9 0.2 0.3 0.0 0.0 0.4 0.0 0.6 1.0 0.0 0.7 0.0 0.0 0.0 0.0 0.1 0.0 
+>Transposon315
+CMC,TIR,DNATransposon 2/1/3  0.0 0.8 0.5 0.7 0.0 0.2 0.7 0.4 0.9 0.9 0.0 0.0 1.0 0.1 0.0 0.0 0.1 0.2 
+>Transposon316
+Copia,LTR,Retrotransposon 1/1/1  1.0 1.0 1.0 0.0 0.0 0.0 0.3 0.0 0.0 0.3 0.0 0.2 0.4 0.0 0.1 0.2 0.8 0.1 
+>Transposon317
+Novosib,TIR,DNATransposon 2/1/6  0.2 1.0 0.1 0.1 0.0 0.0 0.3 0.0 0.7 0.8 0.0 0.0 0.1 0.1 0.0 0.5 0.1 0.0 
+>Transposon318
+CMC,TIR,DNATransposon 2/1/3  0.0 0.8 0.2 0.5 0.1 0.1 0.8 0.2 1.0 1.0 0.0 0.0 0.8 0.0 0.4 0.0 0.0 0.0 
+>Transposon319
+CMC,TIR,DNATransposon 2/1/3  0.2 1.0 0.2 0.0 0.0 0.0 0.3 0.0 0.6 0.7 0.0 0.2 0.7 0.1 0.0 0.1 0.2 0.0 
+>Transposon320
+Copia,LTR,Retrotransposon 1/1/1  0.6 1.0 1.0 0.1 0.0 0.0 0.6 0.5 0.3 0.8 0.3 0.2 0.1 0.2 0.5 0.0 0.0 0.4 
+>Transposon321
+Copia,LTR,Retrotransposon 1/1/1  0.9 1.0 0.9 0.1 0.1 0.1 0.6 0.4 0.3 0.7 0.5 0.5 0.0 0.0 0.5 0.0 0.2 0.0 
+>Transposon322
+Copia,LTR,Retrotransposon 1/1/1  1.0 0.8 0.9 0.0 0.0 0.1 1.0 0.0 0.0 0.3 0.2 0.1 0.4 0.0 0.2 0.1 0.7 0.0 
+>Transposon323
+hAT,TIR,DNATransposon 2/1/2  0.2 1.0 0.1 0.5 0.1 0.0 0.4 0.0 0.7 0.9 0.0 0.8 0.1 0.0 0.0 0.0 0.2 0.0 
+>Transposon324
+Copia,LTR,Retrotransposon 1/1/1  1.0 1.0 1.0 0.0 0.0 0.0 0.4 0.0 0.0 0.3 0.0 0.6 0.2 0.0 0.0 0.3 0.6 0.0 
+>Transposon325
+hAT,TIR,DNATransposon 2/1/2  0.1 1.0 0.3 0.2 0.0 0.1 0.4 0.6 1.0 1.0 0.0 0.7 0.0 0.1 0.1 0.0 0.0 0.0 
+>Transposon326
+hAT,TIR,DNATransposon 2/1/2  0.2 0.9 0.1 0.0 0.0 0.0 0.1 0.0 0.9 0.9 0.0 0.8 0.1 0.1 0.0 0.1 0.1 0.0 
+>Transposon327
+Copia,LTR,Retrotransposon 1/1/1  0.7 1.0 0.8 0.0 0.0 0.0 0.5 0.0 0.1 0.3 0.2 0.0 0.4 0.0 0.0 0.1 0.7 0.0 
+>Transposon328
+Copia,LTR,Retrotransposon 1/1/1  1.0 1.0 0.8 0.3 0.0 0.1 0.7 0.1 0.1 0.7 0.0 0.5 0.1 0.0 0.5 0.0 0.3 0.1 
+>Transposon329
+Gypsy,LTR,Retrotransposon 1/1/2  0.7 0.9 0.0 0.8 0.0 0.0 0.5 0.4 0.2 0.8 0.0 0.2 0.0 0.0 0.6 0.0 0.2 0.0 
+>Transposon330
+hAT,TIR,DNATransposon 2/1/2  0.2 1.0 0.3 0.2 0.0 0.0 0.4 0.0 0.7 0.8 0.0 0.6 0.0 0.1 0.0 0.0 0.1 0.0 
+>Transposon331
+Copia,LTR,Retrotransposon 1/1/1  0.7 0.9 0.7 0.2 0.0 0.1 0.9 0.4 0.0 0.4 0.0 0.0 0.1 0.1 0.7 0.0 0.3 0.6 
+>Transposon332
+Copia,LTR,Retrotransposon 1/1/1  1.0 1.0 1.0 0.0 0.0 0.0 0.5 0.0 0.0 0.7 0.0 0.3 0.3 0.0 0.2 0.0 0.4 0.0 
+>Transposon333
+Copia,LTR,Retrotransposon 1/1/1  1.0 1.0 1.0 0.0 0.0 0.0 0.7 0.0 0.0 0.3 0.1 0.2 0.4 0.1 0.0 0.0 0.6 0.0 
+>Transposon334
+Helitron,DNATransposon 2/2  0.1 0.9 0.2 0.6 0.0 0.0 0.0 0.5 1.0 0.5 0.0 0.1 0.7 0.1 0.2 0.0 0.6 0.0 
+>Transposon335
+Copia,LTR,Retrotransposon 1/1/1  0.8 1.0 0.9 0.3 0.0 0.0 0.2 0.4 0.4 0.9 0.2 0.1 0.0 0.2 0.4 0.0 0.0 0.0 
+>Transposon336
+Copia,LTR,Retrotransposon 1/1/1  1.0 0.9 1.0 0.0 0.1 0.0 0.5 0.0 0.0 0.2 0.0 0.3 0.4 0.0 0.0 0.1 0.9 0.0 
+>Transposon337
+Copia,LTR,Retrotransposon 1/1/1  0.7 0.9 0.9 0.2 0.0 0.0 0.6 0.2 0.0 0.9 0.4 0.0 0.0 0.1 0.7 0.0 0.0 0.0 
+>Transposon338
+Copia,LTR,Retrotransposon 1/1/1  1.0 1.0 1.0 0.1 0.0 0.0 0.5 0.0 0.2 0.4 0.0 0.5 0.1 0.0 0.1 0.0 0.3 0.0 
+>Transposon339
+hAT,TIR,DNATransposon 2/1/2  0.1 0.8 0.4 0.4 0.0 0.3 0.5 0.2 0.8 0.9 0.0 0.6 0.0 0.0 0.1 0.1 0.3 0.0 
+>Transposon340
+hAT,TIR,DNATransposon 2/1/2  0.0 0.9 0.1 0.3 0.0 0.0 0.5 0.1 0.8 0.9 0.0 0.9 0.0 0.0 0.0 0.0 0.1 0.0 
+>Transposon341
+hAT,TIR,DNATransposon 2/1/2  0.3 1.0 0.1 0.2 0.0 0.0 0.1 0.0 0.7 0.7 0.0 0.4 0.0 0.2 0.0 0.0 0.0 0.0 
+>Transposon342
+Zator,TIR,DNATransposon 2/1/5  0.0 1.0 0.3 0.5 0.0 0.0 0.9 0.2 1.0 0.5 0.0 0.0 0.0 0.0 0.3 0.0 0.0 0.0 
+>Transposon343
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.0 0.9 0.5 0.5 0.1 0.1 0.6 0.7 1.0 1.0 1.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 
+>Transposon344
+Copia,LTR,Retrotransposon 1/1/1  0.9 1.0 0.8 0.2 0.0 0.0 0.3 0.0 0.0 0.5 0.1 0.3 0.2 0.0 0.0 0.2 0.6 0.0 
+>Transposon345
+Helitron,DNATransposon 2/2  0.1 1.0 0.4 0.0 0.1 0.0 0.3 0.0 0.8 0.1 0.0 0.1 0.2 0.0 0.0 0.1 0.2 0.0 
+>Transposon346
+Copia,LTR,Retrotransposon 1/1/1  1.0 1.0 1.0 0.0 0.0 0.0 0.9 0.0 0.1 0.2 0.1 0.3 0.2 0.0 0.0 0.2 0.5 0.1 
+>Transposon347
+hAT,TIR,DNATransposon 2/1/2  0.3 0.9 0.0 0.1 0.0 0.0 0.7 0.0 0.7 0.9 0.0 0.7 0.0 0.1 0.0 0.1 0.2 0.0 
+>Transposon348
+Novosib,TIR,DNATransposon 2/1/6  0.1 1.0 0.4 0.2 0.1 0.0 0.5 0.0 0.5 0.9 0.0 0.2 0.0 0.0 0.0 0.7 0.0 0.0 
+>Transposon349
+LINE,Non-LTR,Retrotransposon 1/2/1  0.9 0.1 0.1 0.4 0.0 0.9 1.0 0.0 0.1 0.3 0.1 0.4 0.0 0.0 0.0 0.0 0.4 0.0 
+>Transposon350
+hAT,TIR,DNATransposon 2/1/2  0.0 1.0 0.1 0.3 0.0 0.1 0.4 0.2 0.9 0.4083333333333333 0.0 0.6866666666666668 0.0 0.0 0.0 0.0 0.1 0.0 
+>Transposon351
+Copia,LTR,Retrotransposon 1/1/1  0.8 1.0 0.8 0.1 0.0 0.0 0.2 0.7 0.4 0.7 0.1 0.3 0.2 0.1 0.2 0.0 0.0 0.0 
+>Transposon352
+hAT,TIR,DNATransposon 2/1/2  0.4 1.0 0.1 0.4 0.0 0.1 0.5 0.0 0.9 0.8 0.0 0.9 0.0 0.0 0.0 0.0 0.1 0.0 
+>Transposon353
+Copia,LTR,Retrotransposon 1/1/1  1.0 1.0 1.0 0.0 0.0 0.1 1.0 0.0 0.0 0.4 0.2 0.2 0.3 0.0 0.1 0.3 0.9 0.0 
+>Transposon354
+hAT,TIR,DNATransposon 2/1/2  0.3 1.0 0.1 0.1 0.0 0.0 0.0 0.0 0.8 0.9 0.0 0.7 0.0 0.0 0.0 0.0 0.3 0.0 
+>Transposon355
+Copia,LTR,Retrotransposon 1/1/1  1.0 1.0 0.7 0.2 0.1 0.0 0.9 0.3 0.2 0.8 0.2 0.4 0.2 0.1 0.4 0.2 0.6 0.2 
+>Transposon356
+Copia,LTR,Retrotransposon 1/1/1  1.0 1.0 0.9 0.1 0.0 0.0 0.5 0.2 0.0 0.1 0.0 0.3 0.1 0.0 0.1 0.4 0.5 0.1 
+>Transposon357
+hAT,TIR,DNATransposon 2/1/2  0.1 1.0 0.1 0.4 0.0 0.0 0.2 0.0 0.8 0.7 0.0 0.7 0.0 0.0 0.0 0.0 0.2 0.0 
+>Transposon358
+SINE,Non-LTR,Retrotransposon 1/2/2  0.7 0.4 0.2 0.5 0.1 0.8 0.2 0.9 0.0 0.9 0.0 0.4 0.1 0.1 0.4 0.1 0.3 0.1 
+>Transposon359
+Copia,LTR,Retrotransposon 1/1/1  0.8 0.9 0.8 0.2 0.0 0.0 0.4 0.5 0.2 0.8 0.1 0.2 0.1 0.1 0.4 0.2 0.1 0.0 
+>Transposon360
+Gypsy,LTR,Retrotransposon 1/1/2  1.0 1.0 0.1 1.0 0.0 0.0 0.6 0.0 0.0 0.2 0.4 0.4 0.2 0.0 0.0 0.0 1.0 0.0 
+>Transposon361
+Copia,LTR,Retrotransposon 1/1/1  0.5 1.0 0.9 0.3 0.0 0.0 0.7 0.1 0.4 0.8 0.6 0.0 0.0 0.4 0.3 0.1 0.0 0.5 
+>Transposon362
+hAT,TIR,DNATransposon 2/1/2  0.1 1.0 0.0 0.1 0.0 0.0 0.1 0.0 0.9 0.6 0.0 0.8 0.0 0.0 0.0 0.0 0.2 0.0 
+>Transposon363
+Copia,LTR,Retrotransposon 1/1/1  0.8 0.9 1.0 0.1 0.0 0.1 0.8 0.2 0.1 0.9 0.6 0.0 0.0 0.0 0.6 0.0 0.0 0.2 
+>Transposon364
+Novosib,TIR,DNATransposon 2/1/6  0.1 1.0 0.4 0.4 0.0 0.0 0.4 0.0 0.9 0.9 0.0 0.1 0.0 0.0 0.0 0.8 0.2 0.0 
+>Transposon365
+Gypsy,LTR,Retrotransposon 1/1/2  0.9 1.0 0.0 0.9 0.0 0.0 0.6 0.0 0.0 0.4 0.0 0.2 0.5 0.1 0.2 0.2 0.5 0.0 
+>Transposon366
+Copia,LTR,Retrotransposon 1/1/1  0.6 1.0 0.7 0.4 0.0 0.0 0.6 0.4 0.3 0.8 0.2 0.1 0.0 0.0 0.6 0.0 0.1 0.1 
+>Transposon367
+Copia,LTR,Retrotransposon 1/1/1  0.8 0.9 1.0 0.0 0.0 0.0 0.9 0.0 0.0 0.3 0.0 0.1 0.2 0.1 0.2 0.0 0.6 0.0 
+>Transposon368
+LINE,Non-LTR,Retrotransposon 1/2/1  1.0 0.1 0.4 0.2 0.0 0.9 1.0 0.0 0.1 0.7 0.0 0.4 0.0 0.0 0.1 0.1 0.5 0.0 
+>Transposon369
+Gypsy,LTR,Retrotransposon 1/1/2  1.0 1.0 0.0 1.0 0.2 0.0 0.3 0.0 0.2 0.3 0.5 0.5 0.1 0.0 0.0 0.1 0.5 0.0 
+>Transposon370
+Copia,LTR,Retrotransposon 1/1/1  0.6 1.0 0.8 0.2 0.0 0.1 0.6 0.1 0.5 0.7 0.8 0.0 0.0 0.3 0.3 0.3 0.0 0.1 
+>Transposon371
+Copia,LTR,Retrotransposon 1/1/1  0.9 1.0 0.8 0.0 0.0 0.1 0.6 0.5 0.2 0.7 0.1 0.4 0.2 0.2 0.6 0.2 0.2 0.5 
+>Transposon372
+Gypsy,LTR,Retrotransposon 1/1/2  0.9 1.0 0.0 0.5 0.0 0.0 0.3 0.1 0.0 0.2 0.1 0.5 0.2 0.0 0.0 0.0 0.6 0.1 
+>Transposon373
+Copia,LTR,Retrotransposon 1/1/1  1.0 1.0 1.0 0.0 0.0 0.0 0.2 0.0 0.0 0.3333333333333333 0.0 0.5 0.1 0.0 0.1 0.3 0.8 0.0 
+>Transposon374
+Copia,LTR,Retrotransposon 1/1/1  0.9 1.0 1.0 0.0 0.0 0.0 0.8 0.0 0.2 0.2 0.2 0.3 0.2 0.0 0.3 0.1 0.7 0.0 
+>Transposon375
+hAT,TIR,DNATransposon 2/1/2  0.2 1.0 0.1 0.2 0.0 0.0 0.4 0.0 0.7 0.5 0.0 0.9 0.0 0.0 0.0 0.0 0.2 0.0 
+>Transposon376
+Copia,LTR,Retrotransposon 1/1/1  1.0 1.0 1.0 0.0 0.0 0.1 0.9 0.0 0.0 0.1 0.4 0.3 0.6 0.0 0.3 0.1 0.4 0.0 
+>Transposon377
+CMC,TIR,DNATransposon 2/1/3  0.2 0.9 0.1 0.3 0.0 0.0 0.2 0.0 0.8 0.4 0.0 0.0 0.1 0.0 0.0 0.1 0.1 0.0 
+>Transposon378
+Copia,LTR,Retrotransposon 1/1/1  1.0 1.0 0.9 0.0 0.0 0.0 0.9 0.0 0.0 0.4 0.0 0.3 0.3 0.1 0.2 0.4 0.6 0.1 
+>Transposon379
+hAT,TIR,DNATransposon 2/1/2  0.0 1.0 0.0 0.1 0.1 0.0 0.4 0.0 1.0 0.7 0.0 0.8 0.0 0.0 0.0 0.1 0.1 0.0 
+>Transposon380
+Gypsy,LTR,Retrotransposon 1/1/2  0.9 0.9 0.1 0.8 0.0 0.0 0.7 0.1 0.0 0.8 0.0 0.4 0.3 0.0 0.2 0.1 0.2 0.0 
+>Transposon381
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.6 1.0 0.4 0.3 0.0 0.0 0.5 0.0 0.9 1.0 0.7 0.0 0.0 0.0 0.0 0.0 0.2 0.0 
+>Transposon382
+hAT,TIR,DNATransposon 2/1/2  0.0 0.9 0.2 0.7 0.0 0.0 0.5 0.0 0.5 1.0 0.0 0.8 0.0 0.1 0.0 0.0 0.1 0.0 
+>Transposon383
+Copia,LTR,Retrotransposon 1/1/1  0.9 1.0 0.7 0.0 0.1 0.0 0.5 0.2 0.0 0.8 0.2 0.1 0.0 0.2 0.5 0.0 0.0 0.5 
+>Transposon384
+SINE,Non-LTR,Retrotransposon 1/2/2  0.9 0.3 0.1 0.6 0.0 0.9 0.2 0.9 0.2 0.7 0.0 0.3 0.2 0.0 0.6 0.2 0.1 0.1 
+>Transposon385
+Copia,LTR,Retrotransposon 1/1/1  0.8 0.9 0.8 0.3 0.0 0.1 0.5 0.4 0.3 0.9 0.0 0.1 0.1 0.1 0.4 0.0 0.0 0.1 
+>Transposon386
+Copia,LTR,Retrotransposon 1/1/1  0.8 1.0 0.7 0.0 0.0 0.0 0.9 0.3 0.3 0.6 0.0 0.1 0.1 0.2 0.7 0.0 0.3 0.0 
+>Transposon387
+Copia,LTR,Retrotransposon 1/1/1  1.0 1.0 0.8 0.0 0.0 0.0 1.0 0.0 0.0 0.3 0.0 0.4 0.1 0.0 0.1 0.4 0.8 0.1 
+>Transposon388
+Gypsy,LTR,Retrotransposon 1/1/2  1.0 0.5 0.0 0.3 0.0 0.5 0.5 0.7 0.1 0.6 0.0 0.2 0.1 0.0 0.3 0.0 0.2 0.0 
+>Transposon389
+Copia,LTR,Retrotransposon 1/1/1  1.0 0.9 0.7 0.0 0.1 0.0 0.6 0.3 0.2 0.6 0.0 0.3 0.1 0.0 0.1 0.3 0.4 0.4 
+>Transposon390
+Copia,LTR,Retrotransposon 1/1/1  1.0 1.0 1.0 0.0 0.0 0.0 0.4 0.0 0.0 0.5 0.0 0.3 0.0 0.0 0.1 0.3 0.3 0.0 
+>Transposon391
+Gypsy,LTR,Retrotransposon 1/1/2  1.0 1.0 0.0 0.9 0.0 0.0 0.5 0.0 0.0 0.6 0.3 0.4 0.0 0.1 0.1 0.0 0.7 0.0 
+>Transposon392
+hAT,TIR,DNATransposon 2/1/2  0.1 1.0 0.4 0.3 0.0 0.1 0.4 0.1 0.9 0.475 0.0 0.675 0.0 0.0 0.2 0.0 0.0 0.0 
+>Transposon393
+Copia,LTR,Retrotransposon 1/1/1  1.0 1.0 0.9 0.0 0.0 0.0 1.0 0.0 0.0 0.4 0.0 0.4 0.3 0.0 0.0 0.1 0.7 0.0 
+>Transposon394
+Copia,LTR,Retrotransposon 1/1/1  1.0 0.9 0.9 0.0 0.0 0.0 0.7 0.0 0.0 0.3 0.1 0.3 0.0 0.0 0.2 0.0 0.7 0.0 
+>Transposon395
+Copia,LTR,Retrotransposon 1/1/1  0.6 0.9 0.5 0.4 0.0 0.0 0.6 0.7 0.4 1.0 0.6 0.1 0.0 0.1 0.4 0.0 0.0 0.0 
+>Transposon396
+Gypsy,LTR,Retrotransposon 1/1/2  0.7 1.0 0.2 0.7 0.0 0.0 0.6 0.7 0.4 0.8 0.0 0.4 0.1 0.0 0.7 0.0 0.1 0.0 
+>Transposon397
+Gypsy,LTR,Retrotransposon 1/1/2  1.0 1.0 0.0 0.9 0.0 0.0 0.4 0.0 0.1 0.5 0.1 0.2 0.1 0.0 0.0 0.0 0.7 0.0 
+>Transposon398
+Copia,LTR,Retrotransposon 1/1/1  0.9 1.0 1.0 0.0 0.0 0.0 0.5 0.0 0.0 0.4 0.0 0.3 0.1 0.1 0.1 0.1 0.8 0.0 
+>Transposon399
+Copia,LTR,Retrotransposon 1/1/1  0.8 1.0 0.7 0.2 0.0 0.0 0.5 0.2 0.2 0.5 0.0 0.2 0.0 0.0 0.4 0.2 0.1 0.1 
+>Transposon400
+SINE,Non-LTR,Retrotransposon 1/2/2  0.8 0.3 0.4 0.5 0.0 0.7 0.1 0.8 0.4 0.9 0.2 0.7 0.2 0.1 0.1 0.3 0.3 0.0 
+>Transposon401
+CMC,TIR,DNATransposon 2/1/3  0.2 1.0 0.2 0.3 0.0 0.0 0.3 0.0 0.9 1.0 0.0 0.0 0.9 0.0 0.0 0.1 0.1 0.0 
+>Transposon402
+CMC,TIR,DNATransposon 2/1/3  0.0 0.8 0.5 0.4 0.1 0.3 0.5 0.8 0.9 0.9 0.0 0.1 0.8 0.0 0.2 0.0 0.1 0.0 
+>Transposon403
+hAT,TIR,DNATransposon 2/1/2  0.2 1.0 0.0 0.3 0.0 0.1 0.5 0.0 0.8 1.0 0.0 0.9 0.2 0.1 0.0 0.0 0.0 0.0 
+>Transposon404
+Copia,LTR,Retrotransposon 1/1/1  1.0 1.0 1.0 0.0 0.0 0.0 0.5 0.0 0.0 0.7 0.0 0.4 0.0 0.1 0.2 0.1 0.3 0.0 
+>Transposon405
+CMC,TIR,DNATransposon 2/1/3  0.0 0.7 0.1 0.5 0.2 0.3 0.2 0.9 0.8 0.9 0.0 0.0 1.0 0.0 0.3 0.1 0.0 0.0 
+>Transposon406
+Copia,LTR,Retrotransposon 1/1/1  1.0 1.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.4 0.0 0.2 0.4 0.0 0.1 0.1 0.5 0.2 
+>Transposon407
+hAT,TIR,DNATransposon 2/1/2  0.1 0.9 0.1 0.4 0.0 0.0 0.7 0.3 1.0 0.9 0.0 0.8 0.0 0.0 0.0 0.0 0.0 0.0 
+>Transposon408
+Copia,LTR,Retrotransposon 1/1/1  0.8 0.9 0.7 0.0 0.0 0.0 0.7 0.3 0.1 0.9 0.4 0.0 0.0 0.4 0.3 0.3 0.0 0.1 
+>Transposon409
+Gypsy,LTR,Retrotransposon 1/1/2  1.0 1.0 0.0 0.8 0.0 0.0 0.8 0.0 0.0 0.1 0.1 0.1 0.0 0.0 0.1 0.2 1.0 0.0 
+>Transposon410
+Copia,LTR,Retrotransposon 1/1/1  0.4 1.0 0.9 0.1 0.2 0.0 0.3 0.5 0.2 0.9 0.2 0.0 0.1 0.0 0.8 0.0 0.1 0.0 
+>Transposon411
+Copia,LTR,Retrotransposon 1/1/1  1.0 1.0 0.9 0.1 0.0 0.0 0.7 0.0 0.0 0.5 0.0 0.6 0.3 0.0 0.0 0.0 0.4 0.0 
+>Transposon412
+SINE,Non-LTR,Retrotransposon 1/2/2  1.0 0.0 0.4 0.5 0.2 1.0 0.0 1.0 0.0 0.5 0.0 0.1 0.6 0.1 0.2 0.1 0.0 0.3 
+>Transposon413
+Copia,LTR,Retrotransposon 1/1/1  0.9 0.9 0.7 0.3 0.1 0.0 0.4 0.6 0.2 0.8 0.1 0.2 0.1 0.1 0.4 0.0 0.5 0.3 
+>Transposon414
+hAT,TIR,DNATransposon 2/1/2  0.2 1.0 0.2 0.3 0.1 0.1 0.6 0.3 1.0 1.0 0.0 0.7 0.0 0.0 0.1 0.0 0.0 0.0 
+>Transposon415
+Copia,LTR,Retrotransposon 1/1/1  0.9 1.0 0.9 0.1 0.0 0.0 0.8 0.0 0.0 0.2 0.1 0.1 0.2 0.0 0.2 0.4 0.6 0.1 
+>Transposon416
+Gypsy,LTR,Retrotransposon 1/1/2  0.9 1.0 0.2 0.8 0.0 0.0 0.5 0.0 0.1 0.5 0.0 0.6 0.5 0.1 0.3 0.2 0.5 0.0 
+>Transposon417
+Copia,LTR,Retrotransposon 1/1/1  1.0 1.0 1.0 0.0 0.0 0.0 0.8 0.0 0.0 0.5 0.1 0.2 0.1 0.0 0.6 0.3 0.3 0.0 
+>Transposon418
+Copia,LTR,Retrotransposon 1/1/1  0.8 1.0 0.7 0.0 0.0 0.1 0.6 0.3 0.2 0.8 0.1 0.0 0.1 0.1 0.5 0.1 0.2 0.3 
+>Transposon419
+CMC,TIR,DNATransposon 2/1/3  0.0 0.8 0.3 0.5 0.0 0.0 0.3 0.8 1.0 1.0 0.1 0.0 0.7 0.1 0.1 0.0 0.1 0.0 
+>Transposon420
+Copia,LTR,Retrotransposon 1/1/1  1.0 1.0 0.9 0.1 0.0 0.0 0.9 0.0 0.0 0.1 0.0 0.3 0.2 0.2 0.2 0.3 0.4 0.0 
+>Transposon421
+Gypsy,LTR,Retrotransposon 1/1/2  1.0 1.0 0.0 0.8 0.0 0.0 0.3 0.5 0.2 0.9 0.0 0.1 0.2 0.0 0.2 0.0 0.0 0.0 
+>Transposon422
+Copia,LTR,Retrotransposon 1/1/1  1.0 1.0 1.0 0.0 0.0 0.0 0.9 0.0 0.0 0.4 0.0 0.2 0.3 0.0 0.1 0.3 0.5 0.0 
+>Transposon423
+Gypsy,LTR,Retrotransposon 1/1/2  1.0 0.9 0.2 0.9 0.1 0.0 0.7 0.2 0.2 0.8 0.0 0.3 0.1 0.1 0.3 0.0 0.0 0.2 
+>Transposon424
+Helitron,DNATransposon 2/2  0.0 1.0 0.6 0.3 0.0 0.0 0.6 0.4 1.0 0.2 0.3 0.3 0.0 0.2 0.1 0.1 0.6 0.0 
+>Transposon425
+hAT,TIR,DNATransposon 2/1/2  0.1 1.0 0.1 0.4 0.1 0.0 0.5 0.0 0.9 0.7 0.1 0.8 0.0 0.0 0.0 0.0 0.1 0.0 
+>Transposon426
+Copia,LTR,Retrotransposon 1/1/1  0.8 1.0 1.0 0.3 0.0 0.1 0.8 0.2 0.2 0.8 0.4 0.0 0.0 0.2 0.5 0.0 0.0 0.2 
+>Transposon427
+CMC,TIR,DNATransposon 2/1/3  0.2 1.0 0.1 0.4 0.1 0.0 0.4 0.0 0.8 1.0 0.0 0.1 0.8 0.0 0.0 0.1 0.0 0.0 
+>Transposon428
+Copia,LTR,Retrotransposon 1/1/1  1.0 1.0 0.9 0.0 0.0 0.0 1.0 0.0 0.0 0.1 0.0 0.6 0.4 0.0 0.1 0.2 0.6 0.0 
+>Transposon429
+Copia,LTR,Retrotransposon 1/1/1  0.7 1.0 1.0 0.2 0.0 0.0 0.3 0.4 0.2 1.0 0.1 0.1 0.1 0.1 0.5 0.0 0.0 0.1 
+>Transposon430
+Gypsy,LTR,Retrotransposon 1/1/2  0.8 1.0 0.0 0.8 0.1 0.0 0.4 0.6 0.2 0.8 0.0 0.2 0.3 0.1 0.4 0.0 0.2 0.4 
+>Transposon431
+Copia,LTR,Retrotransposon 1/1/1  0.9 1.0 1.0 0.0 0.0 0.0 0.2 0.1 0.1 0.3 0.1 0.2 0.1 0.1 0.0 0.0 0.5 0.0 
+>Transposon432
+Copia,LTR,Retrotransposon 1/1/1  1.0 1.0 0.9 0.0 0.0 0.0 0.8 0.0 0.0 0.7 0.0 0.8 0.0 0.0 0.0 0.0 0.3 0.0 
+>Transposon433
+Copia,LTR,Retrotransposon 1/1/1  1.0 1.0 1.0 0.0 0.0 0.0 0.4 0.1 0.0 0.1 0.1 0.2 0.3 0.2 0.0 0.3 0.4 0.0 
+>Transposon434
+Copia,LTR,Retrotransposon 1/1/1  0.8 1.0 0.9 0.3 0.0 0.0 0.4 0.2 0.5 1.0 0.4 0.1 0.1 0.2 0.2 0.1 0.0 0.2 
+>Transposon435
+Helitron,DNATransposon 2/2  0.3 1.0 0.0 0.1 0.1 0.0 0.5 0.0 0.6 0.1 0.0 0.2 0.3 0.0 0.1 0.0 0.8 0.0 
+>Transposon436
+Copia,LTR,Retrotransposon 1/1/1  1.0 1.0 1.0 0.0 0.0 0.0 0.7 0.0 0.0 0.5 0.0 0.2 0.4 0.1 0.1 0.2 0.7 0.0 
+>Transposon437
+hAT,TIR,DNATransposon 2/1/2  0.1 0.9 0.1 0.9 0.0 0.0 0.3 0.2 0.8 0.8 0.0 0.4 0.3 0.1 0.2 0.0 0.2 0.0 
+>Transposon438
+Copia,LTR,Retrotransposon 1/1/1  0.8 0.9 0.9 0.4 0.1 0.1 0.3 0.6 0.1 0.7 0.3 0.1 0.2 0.1 0.5 0.0 0.0 0.3 
+>Transposon439
+Copia,LTR,Retrotransposon 1/1/1  0.8 1.0 0.6 0.3 0.1 0.0 0.4 0.0 0.4 0.7 0.0 0.1 0.0 0.1 0.3 0.0 0.1 0.1 
+>Transposon440
+hAT,TIR,DNATransposon 2/1/2  0.1 1.0 0.2 0.6 0.0 0.2 0.6 0.3 0.8 0.9 0.0 0.9 0.2 0.0 0.1 0.0 0.0 0.0 
+>Transposon441
+Copia,LTR,Retrotransposon 1/1/1  0.6 1.0 0.9 0.2 0.0 0.1 0.5 0.3 0.2 0.8 0.3 0.1 0.1 0.2 0.4 0.0 0.0 0.1 
+>Transposon442
+CMC,TIR,DNATransposon 2/1/3  0.2 1.0 0.3 0.7 0.0 0.0 0.7 0.0 0.9 0.8 0.0 0.0 1.0 0.0 0.0 0.1 0.1 0.0 
+>Transposon443
+CMC,TIR,DNATransposon 2/1/3  0.0 0.9 0.3 0.6 0.2 0.1 0.4 0.4 0.9 0.9 0.0 0.1 0.5 0.0 0.3 0.0 0.0 0.0 
+>Transposon444
+Copia,LTR,Retrotransposon 1/1/1  0.6 1.0 0.8 0.0 0.0 0.0 0.4 0.6 0.2 0.9 0.3 0.4 0.0 0.7 0.2 0.0 0.1 0.4 
+>Transposon445
+Copia,LTR,Retrotransposon 1/1/1  0.7 0.8 0.8 0.1 0.1 0.0 0.7 0.0 0.1 0.5 0.1 0.2 0.1 0.0 0.5 0.0 0.3 0.2 
+>Transposon446
+SINE,Non-LTR,Retrotransposon 1/2/2  0.7 0.3 0.2 0.5 0.0 0.9 0.3 0.9 0.1 0.9 0.0 0.5 0.0 0.0 0.3 0.0 0.2 0.1 
+>Transposon447
+hAT,TIR,DNATransposon 2/1/2  0.0 0.7 0.1 0.7 0.0 0.3 0.6 0.5 1.0 1.0 0.0 0.8 0.0 0.1 0.0 0.0 0.0 0.0 
+>Transposon448
+Copia,LTR,Retrotransposon 1/1/1  1.0 1.0 0.9 0.0 0.0 0.0 0.9 0.0 0.1 0.4 0.0 0.4 0.1 0.0 0.0 0.1 0.3 0.0 
+>Transposon449
+Copia,LTR,Retrotransposon 1/1/1  0.6 0.9 0.9 0.2 0.0 0.1 0.4 0.3 0.3 0.8 0.0 0.0 0.0 0.0 0.7 0.0 0.1 0.2 
+>Transposon450
+hAT,TIR,DNATransposon 2/1/2  0.4 1.0 0.0 0.5 0.0 0.0 0.3 0.0 0.9 0.7 0.0 0.7 0.0 0.0 0.0 0.0 0.1 0.0 
+>Transposon451
+Gypsy,LTR,Retrotransposon 1/1/2  0.9 0.9 0.1 0.9 0.0 0.0 0.6 0.4 0.1 0.6 0.0 0.4 0.3 0.0 0.3 0.2 0.4 0.1 
+>Transposon452
+Copia,LTR,Retrotransposon 1/1/1  0.6 1.0 0.9 0.4 0.0 0.0 0.8 0.1 0.3 0.7 0.4 0.1 0.0 0.2 0.9 0.0 0.0 0.0 
+>Transposon453
+hAT,TIR,DNATransposon 2/1/2  0.0 1.0 0.2 0.2 0.0 0.1 0.5 0.6 1.0 0.1 0.0 0.1 0.0 0.0 0.1 0.0 0.1 0.0 
+>Transposon454
+Copia,LTR,Retrotransposon 1/1/1  0.9 0.7 0.7 0.3 0.0 0.2 0.2 0.4 0.3 0.5 0.0 0.2 0.5 0.1 0.4 0.1 0.0 0.5 
+>Transposon455
+Copia,LTR,Retrotransposon 1/1/1  1.0 1.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.5 0.0 0.2 0.3 0.0 0.0 0.1 0.7 0.0 
+>Transposon456
+Copia,LTR,Retrotransposon 1/1/1  1.0 1.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.3 0.1 0.1 0.6 0.0 0.2 0.2 0.7 0.1 
+>Transposon457
+Copia,LTR,Retrotransposon 1/1/1  0.7 1.0 0.7 0.1 0.0 0.0 0.7 0.6 0.4 0.9 0.5 0.3 0.0 0.2 0.1 0.0 0.1 0.1 
+>Transposon458
+CMC,TIR,DNATransposon 2/1/3  0.1 0.8 0.3 0.7 0.0 0.1 0.3 0.8 0.9 1.0 0.0 0.1 1.0 0.0 0.0 0.0 0.0 0.0 
+>Transposon459
+Gypsy,LTR,Retrotransposon 1/1/2  0.9 0.9 0.2 0.8 0.0 0.0 0.7 0.0 0.1 0.5 0.0 0.5 0.1 0.0 0.1 0.0 0.7 0.1 
+>Transposon460
+Copia,LTR,Retrotransposon 1/1/1  0.6 1.0 0.8 0.2 0.0 0.0 0.4 0.6 0.0 0.9 0.3 0.2 0.1 0.2 0.4 0.0 0.0 0.2 
+>Transposon461
+Gypsy,LTR,Retrotransposon 1/1/2  0.8 1.0 0.1 0.2 0.0 0.1 0.2 0.5 0.2 0.6 0.0 0.2 0.5 0.2 0.2 0.0 0.1 0.3 
+>Transposon462
+hAT,TIR,DNATransposon 2/1/2  0.2 0.9 0.5 0.1 0.2 0.0 0.3 0.0 0.5 0.6 0.0 0.8 0.2 0.0 0.0 0.2 0.1 0.0 
+>Transposon463
+Gypsy,LTR,Retrotransposon 1/1/2  1.0 1.0 0.1 0.9 0.0 0.0 0.6 0.0 0.0 0.7 0.1 0.4 0.0 0.1 0.0 0.1 0.2 0.0 
+>Transposon464
+Copia,LTR,Retrotransposon 1/1/1  1.0 0.9 0.9 0.0 0.0 0.1 0.8 0.0 0.0 0.3 0.1 0.2 0.2 0.1 0.2 0.4 0.6 0.0 
+>Transposon465
+Copia,LTR,Retrotransposon 1/1/1  0.9 1.0 0.1 0.1 0.0 0.0 0.4 0.8 0.2 1.0 0.2 0.5 0.2 0.0 0.3 0.0 0.1 0.1 
+>Transposon466
+Copia,LTR,Retrotransposon 1/1/1  0.8 0.9 0.7 0.3 0.0 0.1 0.6 0.6 0.2 0.6 0.1 0.2 0.3 0.3 0.8 0.0 0.1 0.1 
+>Transposon467
+Copia,LTR,Retrotransposon 1/1/1  1.0 1.0 0.9 0.2 0.0 0.1 0.6 0.8 0.4 0.5 0.2 0.1 0.0 0.3 0.4 0.0 0.0 0.3 
+>Transposon468
+Novosib,TIR,DNATransposon 2/1/6  0.4 1.0 0.3 0.2 0.0 0.0 0.2 0.0 0.8 0.7 0.0 0.1 0.1 0.0 0.0 1.0 0.0 0.0 
+>Transposon469
+Gypsy,LTR,Retrotransposon 1/1/2  1.0 1.0 0.0 0.7 0.0 0.0 0.5 0.0 0.0 0.0 0.1 0.5 0.2 0.0 0.0 0.2 1.0 0.0 
+>Transposon470
+Copia,LTR,Retrotransposon 1/1/1  1.0 1.0 0.9 0.1 0.0 0.0 0.9 0.0 0.0 0.1 0.0 0.3 0.5 0.0 0.1 0.2 0.7 0.0 
+>Transposon471
+Novosib,TIR,DNATransposon 2/1/6  0.1 1.0 0.0 0.3 0.1 0.0 0.6 0.0 0.9 0.9 0.0 0.1 0.2 0.0 0.0 0.9 0.0 0.0 
+>Transposon472
+Gypsy,LTR,Retrotransposon 1/1/2  0.7 1.0 0.1 0.9 0.0 0.0 0.3 0.0 0.1 0.5 0.1 0.2 0.1 0.0 0.7 0.2 0.3 0.0 
+>Transposon473
+Copia,LTR,Retrotransposon 1/1/1  0.6 1.0 0.9 0.3 0.0 0.0 0.2 0.6 0.3 1.0 0.1 0.3 0.0 0.2 0.6 0.0 0.0 0.0 
+>Transposon474
+Copia,LTR,Retrotransposon 1/1/1  1.0 1.0 1.0 0.1 0.0 0.0 0.6 0.0 0.0 0.1 0.1 0.2 0.3 0.2 0.2 0.3 0.5 0.0 
+>Transposon475
+Copia,LTR,Retrotransposon 1/1/1  0.8 1.0 0.7 0.3 0.1 0.0 0.5 0.8 0.1 0.7 0.0 0.2 0.4 0.0 0.5 0.0 0.0 0.1 
+>Transposon476
+Copia,LTR,Retrotransposon 1/1/1  1.0 1.0 1.0 0.0 0.0 0.0 0.7 0.0 0.0 0.5 0.0 0.3 0.1 0.1 0.1 0.0 0.5 0.0 
+>Transposon477
+Copia,LTR,Retrotransposon 1/1/1  1.0 1.0 1.0 0.0 0.0 0.0 0.7 0.0 0.0 0.5 0.1 0.3 0.2 0.0 0.1 0.1 0.7 0.0 
+>Transposon478
+Copia,LTR,Retrotransposon 1/1/1  0.6 1.0 0.8 0.1 0.0 0.0 0.9 0.3 0.2 1.0 0.7 0.0 0.0 0.3 0.5 0.0 0.1 0.1 
+>Transposon479
+Novosib,TIR,DNATransposon 2/1/6  0.2 1.0 0.1 0.1 0.0 0.0 0.1 0.0 0.8 0.9 0.0 0.0 0.2 0.0 0.0 0.8 0.0 0.0 
+>Transposon480
+Copia,LTR,Retrotransposon 1/1/1  1.0 1.0 1.0 0.0 0.0 0.0 0.4 0.0 0.2 0.2 0.2 0.3 0.0 0.0 0.2 0.0 0.7 0.0 
+>Transposon481
+Novosib,TIR,DNATransposon 2/1/6  0.2 0.8 0.1 0.3 0.0 0.0 0.5 0.0 1.0 0.7 0.0 0.0 0.1 0.0 0.0 0.8 0.0 0.0 
+>Transposon482
+hAT,TIR,DNATransposon 2/1/2  0.3 1.0 0.1 0.5 0.0 0.0 0.1 0.0 0.8 0.8 0.0 0.9 0.0 0.0 0.0 0.1 0.0 0.0 
+>Transposon483
+LINE,Non-LTR,Retrotransposon 1/2/1  1.0 0.0 0.3 0.1 0.1 1.0 1.0 0.0 0.0 0.6 0.1 0.5 0.0 0.1 0.1 0.1 0.4 0.0 
+>Transposon484
+Copia,LTR,Retrotransposon 1/1/1  0.7 1.0 0.8 0.2 0.0 0.0 0.6 0.4 0.2 0.5 0.2 0.1 0.2 0.0 0.8 0.0 0.0 0.4 
+>Transposon485
+Copia,LTR,Retrotransposon 1/1/1  1.0 1.0 1.0 0.0 0.0 0.0 0.6 0.0 0.0 0.6 0.2 0.4 0.2 0.0 0.1 0.2 0.8 0.0 
+>Transposon486
+Copia,LTR,Retrotransposon 1/1/1  0.8 1.0 0.9 0.0 0.0 0.1 0.5 0.4 0.3 0.3 0.2 0.4 0.1 0.1 0.7 0.2 0.0 0.3 
+>Transposon487
+Copia,LTR,Retrotransposon 1/1/1  0.6 1.0 0.9 0.1 0.1 0.0 0.7 0.2 0.2 0.6 0.2 0.0 0.0 0.1 0.4 0.0 0.0 0.0 
+>Transposon488
+Copia,LTR,Retrotransposon 1/1/1  0.8 1.0 1.0 0.1 0.0 0.0 0.8 0.1 0.5 0.7 0.9 0.0 0.1 0.3 0.4 0.0 0.0 0.3 
+>Transposon489
+Gypsy,LTR,Retrotransposon 1/1/2  0.8 1.0 0.0 0.7 0.0 0.0 0.3 0.0 0.0 0.5 0.1 0.6 0.5 0.1 0.0 0.1 0.6 0.0 
+>Transposon490
+Gypsy,LTR,Retrotransposon 1/1/2  0.8 1.0 0.0 0.8 0.2 0.0 0.5 0.1 0.2 0.4 0.1 0.6 0.2 0.0 0.0 0.2 0.4 0.0 
+>Transposon491
+Helitron,DNATransposon 2/2  0.0 0.9 0.0 0.3 0.0 0.0 0.3 0.4 0.9 0.2 0.0 0.3 0.0 0.2 0.5 0.0 0.8 0.0 
+>Transposon492
+Copia,LTR,Retrotransposon 1/1/1  1.0 1.0 0.9 0.0 0.0 0.0 0.6 0.0 0.0 0.3 0.2 0.2 0.2 0.1 0.3 0.3 0.6 0.0 
+>Transposon493
+Copia,LTR,Retrotransposon 1/1/1  1.0 1.0 1.0 0.0 0.0 0.0 0.9 0.0 0.1 0.4 0.1 0.3 0.4 0.0 0.1 0.1 0.6 0.0 
+>Transposon494
+Copia,LTR,Retrotransposon 1/1/1  0.9 1.0 0.9 0.3 0.0 0.0 0.7 0.3 0.1 0.6 0.1 0.2 0.1 0.1 0.6 0.1 0.3 0.3 
+>Transposon495
+Copia,LTR,Retrotransposon 1/1/1  1.0 1.0 1.0 0.0 0.0 0.1 0.8 0.0 0.0 0.4 0.2 0.1 0.2 0.0 0.1 0.2 0.4 0.3 
+>Transposon496
+Copia,LTR,Retrotransposon 1/1/1  0.7 0.7 0.9 0.3 0.0 0.0 0.6 0.5 0.2 0.8 0.1 0.0 0.1 0.3 0.8 0.0 0.0 0.2 
+>Transposon497
+Copia,LTR,Retrotransposon 1/1/1  0.8 1.0 0.8 0.1 0.0 0.1 0.3 0.6 0.7 0.7 0.4 0.2 0.0 0.4 0.0 0.1 0.0 0.3 
+>Transposon498
+hAT,TIR,DNATransposon 2/1/2  0.3 1.0 0.1 0.4 0.0 0.1 0.5 0.0 0.7 0.9 0.1 0.8 0.0 0.0 0.0 0.1 0.3 0.0 
+>Transposon499
+Novosib,TIR,DNATransposon 2/1/6  0.3 0.9 0.1 0.5 0.0 0.1 0.4 0.0 0.8 0.8 0.0 0.0 0.1 0.0 0.0 1.0 0.0 0.0 
+>Transposon500
+SINE,Non-LTR,Retrotransposon 1/2/2  0.8 0.4 0.3 0.3 0.0 0.6 0.2 0.6 0.2 0.8 0.1 0.2 0.1 0.0 0.2 0.0 0.3 0.2 
+>Transposon501
+hAT,TIR,DNATransposon 2/1/2  0.4 0.8 0.1 0.5 0.0 0.0 0.3 0.0 1.0 0.9 0.0 0.9 0.0 0.0 0.2 0.0 0.2 0.0 
+>Transposon502
+Copia,LTR,Retrotransposon 1/1/1  1.0 1.0 1.0 0.0 0.0 0.0 0.6 0.0 0.0 0.3 0.0 0.3 0.2 0.0 0.0 0.0 0.8 0.0 
+>Transposon503
+hAT,TIR,DNATransposon 2/1/2  0.0 0.8 0.1 0.5 0.0 0.0 0.7 0.1 0.9 1.0 0.0 0.6 0.0 0.0 0.1 0.0 0.2 0.0 
+>Transposon504
+hAT,TIR,DNATransposon 2/1/2  0.2 1.0 0.2 0.4 0.1 0.0 0.3 0.0 0.9 0.9 0.0 1.0 0.0 0.0 0.0 0.0 0.0 0.0 
+>Transposon505
+Copia,LTR,Retrotransposon 1/1/1  0.9 1.0 0.9 0.1 0.0 0.0 0.7 0.0 0.1 0.4 0.0 0.4 0.2 0.0 0.2 0.4 0.6 0.0 
+>Transposon506
+Copia,LTR,Retrotransposon 1/1/1  1.0 1.0 0.9 0.0 0.0 0.0 0.7 0.0 0.0 0.4 0.1 0.1 0.2 0.2 0.0 0.0 0.7 0.0 
+>Transposon507
+Copia,LTR,Retrotransposon 1/1/1  0.7 1.0 0.7 0.2 0.0 0.1 0.8 0.2 0.3 1.0 0.3 0.0 0.0 0.4 0.6 0.1 0.0 0.6 
+>Transposon508
+Gypsy,LTR,Retrotransposon 1/1/2  1.0 1.0 0.0 0.8 0.0 0.0 0.3 0.0 0.0 0.2 0.0 0.4 0.1 0.1 0.0 0.4 0.9 0.0 
+>Transposon509
+Copia,LTR,Retrotransposon 1/1/1  1.0 1.0 0.9 0.0 0.0 0.0 0.9 0.0 0.0 0.7 0.4 0.5 0.1 0.0 0.0 0.2 0.2 0.0 
+>Transposon510
+Gypsy,LTR,Retrotransposon 1/1/2  0.8 1.0 0.1 0.9 0.1 0.0 0.5 0.0 0.3 0.7 0.1 0.6 0.3 0.1 0.4 0.0 0.8 0.2 
+>Transposon511
+Helitron,DNATransposon 2/2  0.1 0.9 0.2 0.2 0.0 0.1 0.5 0.7 1.0 0.2 0.0 0.1 0.0 0.1 0.4 0.1 0.7 0.0 
+>Transposon512
+Helitron,DNATransposon 2/2  0.1 1.0 0.2 0.3 0.0 0.0 0.4 0.0 0.8 0.2 0.1 0.5 0.3 0.0 0.0 0.1 0.9 0.0 
+>Transposon513
+Copia,LTR,Retrotransposon 1/1/1  0.8 1.0 0.8 0.1 0.0 0.0 0.5 0.6 0.4 0.9 0.3 0.0 0.0 0.1 0.3 0.0 0.0 0.4 
+>Transposon514
+SINE,Non-LTR,Retrotransposon 1/2/2  0.7 0.5 0.5 0.5 0.0 0.9 0.0 1.0 0.3 0.9 0.1 0.4 0.1 0.0 0.5 0.1 0.0 0.0 
+>Transposon515
+Copia,LTR,Retrotransposon 1/1/1  1.0 1.0 1.0 0.0 0.0 0.0 0.7 0.0 0.0 0.7 0.0 0.6 0.0 0.0 0.2 0.1 0.3 0.0 
+>Transposon516
+Gypsy,LTR,Retrotransposon 1/1/2  1.0 1.0 0.0 1.0 0.0 0.0 0.6 0.0 0.0 0.0 0.1 0.4 0.2 0.0 0.1 0.0 0.8 0.0 
+>Transposon517
+Copia,LTR,Retrotransposon 1/1/1  0.7 1.0 0.7 0.2 0.0 0.3 0.5 0.2 0.5 0.8 0.4 0.1 0.1 0.3 0.3 0.0 0.0 0.3 
+>Transposon518
+LINE,Non-LTR,Retrotransposon 1/2/1  1.0 0.0 0.5 0.5 0.0 0.9 1.0 0.0 0.0 0.3 0.0 0.3 0.2 0.1 0.1 0.0 0.9 0.0 
+>Transposon519
+Copia,LTR,Retrotransposon 1/1/1  1.0 1.0 1.0 0.0 0.0 0.0 0.9 0.0 0.0 0.2 0.0 0.5 0.2 0.1 0.0 0.2 0.7 0.0 
+>Transposon520
+Gypsy,LTR,Retrotransposon 1/1/2  1.0 1.0 0.0 0.8 0.0 0.0 0.6 0.0 0.0 0.0 0.0 0.4 0.0 0.0 0.1 0.1 1.0 0.0 
+>Transposon521
+Copia,LTR,Retrotransposon 1/1/1  1.0 1.0 0.8 0.2 0.2 0.1 0.9 0.0 0.2 0.4 0.0 0.1 0.3 0.0 0.0 0.0 0.8 0.0 
+>Transposon522
+Copia,LTR,Retrotransposon 1/1/1  1.0 1.0 1.0 0.0 0.0 0.0 0.6 0.0 0.0 0.3 0.3 0.2 0.0 0.1 0.4 0.0 0.5 0.0 
+>Transposon523
+SINE,Non-LTR,Retrotransposon 1/2/2  1.0 0.2 0.4 0.5 0.0 0.9 0.3 0.9 0.0 0.8333333333333333 0.0 0.64 0.1 0.0 0.1 0.1 0.1 0.1 
+>Transposon524
+hAT,TIR,DNATransposon 2/1/2  0.3 0.9 0.2 0.4 0.0 0.0 0.5 0.3 0.7 0.8 0.0 0.8 0.0 0.1 0.0 0.0 0.0 0.0 
+>Transposon525
+Copia,LTR,Retrotransposon 1/1/1  1.0 0.9 1.0 0.0 0.0 0.0 0.5 0.0 0.0 0.1 0.2 0.2 0.2 0.0 0.0 0.3 0.7 0.0 
+>Transposon526
+Gypsy,LTR,Retrotransposon 1/1/2  1.0 1.0 0.0 0.9 0.0 0.0 0.9 0.0 0.0 0.6 0.0 0.3 0.2 0.0 0.0 0.2 0.6 0.0 
+>Transposon527
+Copia,LTR,Retrotransposon 1/1/1  0.6 1.0 0.8 0.2 0.0 0.0 0.9 0.3 0.3 0.5 0.3 0.2 0.0 0.5 0.4 0.0 0.2 0.5 
+>Transposon528
+Helitron,DNATransposon 2/2  0.2 1.0 0.1 0.3 0.0 0.0 0.2 0.0 0.9 0.1 0.0 0.0 0.1 0.1 0.0 0.2 0.9 0.0 
+>Transposon529
+Copia,LTR,Retrotransposon 1/1/1  0.7 1.0 0.7 0.1 0.0 0.0 0.6 0.3 0.3 0.5 0.3 0.2 0.1 0.1 0.8 0.0 0.4 0.2 
+>Transposon530
+SINE,Non-LTR,Retrotransposon 1/2/2  0.9 0.3 0.3 0.5 0.0 0.7 0.1 0.9 0.0 0.8 0.0 0.5 0.3 0.1 0.3 0.2 0.1 0.1 
+>Transposon531
+LINE,Non-LTR,Retrotransposon 1/2/1  0.9 0.2 0.2 0.4 0.0 1.0 1.0 0.0 0.0 0.3 0.0 0.3 0.1 0.1 0.4 0.3 0.7 0.0 
+>Transposon532
+Copia,LTR,Retrotransposon 1/1/1  0.9 1.0 0.8 0.2 0.1 0.0 0.8 0.2 0.2 0.8 0.5 0.1 0.0 0.2 0.5 0.0 0.0 0.2 
+>Transposon533
+Copia,LTR,Retrotransposon 1/1/1  0.7 1.0 0.8 0.1 0.0 0.0 0.3 0.4 0.1 0.5 0.2 0.1 0.0 0.1 0.3 0.0 0.2 0.2 
+>Transposon534
+SINE,Non-LTR,Retrotransposon 1/2/2  0.9 0.1 0.2 0.65 0.1 1.0 0.0 0.9 0.0 0.5333333333333333 0.0 0.7 0.1 0.0 0.1 0.0 0.3 0.0 
+>Transposon535
+Copia,LTR,Retrotransposon 1/1/1  0.7 1.0 0.8 0.2 0.0 0.1 0.7 0.1 0.3 0.6 0.1 0.1 0.2 0.1 0.4 0.1 0.4 0.3 
+>Transposon536
+hAT,TIR,DNATransposon 2/1/2  0.4 1.0 0.0 0.3 0.0 0.0 0.2 0.0 0.8 0.6 0.0 0.7 0.0 0.1 0.0 0.0 0.2 0.0 
+>Transposon537
+Helitron,DNATransposon 2/2  0.0 0.9 0.1 0.1 0.0 0.0 0.5 0.0 1.0 0.3 0.0 0.1 0.1 0.0 0.0 0.0 0.7 0.0 
+>Transposon538
+hAT,TIR,DNATransposon 2/1/2  0.3 1.0 0.2 0.4 0.0 0.0 0.4 0.0 0.7 1.0 0.0 0.5 0.0 0.0 0.0 0.1 0.2 0.0 
+>Transposon539
+Copia,LTR,Retrotransposon 1/1/1  0.9 0.8 0.1 0.0 0.1 0.2 0.1 0.9 0.3 0.4 0.1 0.1 0.4 0.2 0.1 0.2 0.1 0.3 
+>Transposon540
+Copia,LTR,Retrotransposon 1/1/1  0.9 1.0 0.7 0.1 0.0 0.0 0.6 0.4 0.1 0.9 0.3 0.0 0.0 0.2 0.4 0.0 0.0 0.0 
+>Transposon541
+Gypsy,LTR,Retrotransposon 1/1/2  0.8 1.0 0.2 0.8 0.1 0.0 0.4 0.1 0.3 0.3 0.0 0.2 0.0 0.0 0.4 0.2 0.1 0.4 
+>Transposon542
+Copia,LTR,Retrotransposon 1/1/1  0.9 1.0 0.8 0.1 0.0 0.1 0.8 0.4 0.1 0.7 0.7 0.1 0.0 0.1 0.7 0.0 0.0 0.3 
+>Transposon543
+LINE,Non-LTR,Retrotransposon 1/2/1  1.0 0.0 0.1 0.3 0.0 0.9 1.0 0.0 0.0 0.1 0.1 0.5 0.1 0.2 0.1 0.1 0.9 0.0 
+>Transposon544
+Copia,LTR,Retrotransposon 1/1/1  0.7 0.8 0.8 0.0 0.0 0.1 0.1 0.5 0.4 0.9 0.3 0.0 0.1 0.1 0.8 0.0 0.1 0.3 
+>Transposon545
+Copia,LTR,Retrotransposon 1/1/1  0.5 1.0 0.6 0.0 0.0 0.0 0.6 0.3 0.2 0.9 0.1 0.0 0.0 0.2 0.5 0.1 0.0 0.1 
+>Transposon546
+Copia,LTR,Retrotransposon 1/1/1  0.5 1.0 0.8 0.1 0.0 0.0 0.6 0.3 0.1 0.9 0.1 0.0 0.0 0.1 0.7 0.0 0.0 0.0 
+>Transposon547
+Copia,LTR,Retrotransposon 1/1/1  0.6 0.9 0.9 0.0 0.0 0.1 0.5 0.7 0.5 0.9 0.2 0.0 0.1 0.1 0.3 0.0 0.1 0.2 
+>Transposon548
+Gypsy,LTR,Retrotransposon 1/1/2  0.9 1.0 0.3 0.7 0.0 0.0 0.4 0.1 0.0 0.5 0.1 0.5 0.1 0.2 0.4 0.0 0.5 0.0 
+>Transposon549
+Gypsy,LTR,Retrotransposon 1/1/2  1.0 1.0 0.0 0.9333333333333332 0.0 0.1 0.5 0.0 0.0 0.4 0.0 0.4 0.2 0.0 0.2 0.0 0.6 0.1 
+>Transposon550
+Copia,LTR,Retrotransposon 1/1/1  0.8 0.9 0.9 0.2 0.1 0.1 0.4 0.2 0.2 0.8 0.4 0.1 0.0 0.2 0.1 0.0 0.0 0.1 
+>Transposon551
+Novosib,TIR,DNATransposon 2/1/6  0.3 0.9 0.2 0.5 0.0 0.1 0.3 0.0 0.6 0.9 0.0 0.2 0.1 0.0 0.0 0.9 0.1 0.0 
+>Transposon552
+Copia,LTR,Retrotransposon 1/1/1  0.8 1.0 0.7 0.1 0.0 0.1 0.7 0.4 0.2 0.7 0.3 0.2 0.1 0.0 0.8 0.0 0.0 0.0 
+>Transposon553
+CMC,TIR,DNATransposon 2/1/3  0.0 0.9 0.2 0.6 0.0 0.0 0.4 0.7 1.0 1.0 0.0 0.0 0.9 0.1 0.1 0.0 0.1 0.0 
+>Transposon554
+Copia,LTR,Retrotransposon 1/1/1  1.0 1.0 1.0 0.0 0.0 0.0 0.9 0.0 0.0 0.4 0.0 0.2 0.2 0.2 0.1 0.1 0.6 0.0 
+>Transposon555
+Helitron,DNATransposon 2/2  0.1 1.0 0.3 0.0 0.1 0.0 0.6 0.0 0.9 0.0 0.0 0.0 0.1 0.0 0.0 0.1 0.2 0.0 
+>Transposon556
+CMC,TIR,DNATransposon 2/1/3  0.4 1.0 0.1 0.3 0.1 0.0 0.5 0.1 0.7 0.9 0.0 0.1 0.7 0.0 0.1 0.1 0.1 0.0 
+>Transposon557
+Copia,LTR,Retrotransposon 1/1/1  1.0 1.0 1.0 0.0 0.1 0.0 0.7 0.0 0.1 0.4 0.5 0.3 0.4 0.0 0.2 0.3 1.0 0.0 
+>Transposon558
+Copia,LTR,Retrotransposon 1/1/1  1.0 1.0 1.0 0.0 0.0 0.0 0.9 0.0 0.0 0.4 0.2 0.2 0.1 0.0 0.2 0.2 0.4 0.0 
+>Transposon559
+hAT,TIR,DNATransposon 2/1/2  0.5 0.9 0.1 0.1 0.0 0.0 0.5 0.0 0.9 1.0 0.0 0.6 0.0 0.0 0.0 0.1 0.2 0.0 
+>Transposon560
+Copia,LTR,Retrotransposon 1/1/1  1.0 1.0 1.0 0.0 0.0 0.0 0.6 0.1 0.0 0.4 0.2 0.1 0.2 0.1 0.1 0.3 0.7 0.2 
+>Transposon561
+Copia,LTR,Retrotransposon 1/1/1  0.7 1.0 1.0 0.1 0.0 0.0 0.6 0.5 0.5 0.8 0.2 0.3 0.0 0.3 0.0 0.0 0.0 0.1 
+>Transposon562
+Copia,LTR,Retrotransposon 1/1/1  1.0 1.0 0.9 0.0 0.0 0.0 0.3 0.0 0.0 0.4 0.0 0.1 0.4 0.1 0.3 0.2 0.4 0.0 
+>Transposon563
+Copia,LTR,Retrotransposon 1/1/1  0.8 1.0 0.7 0.2 0.0 0.0 0.2 0.6 0.2 0.9 0.3 0.3 0.1 0.3 0.4 0.2 0.2 0.2 
+>Transposon564
+CMC,TIR,DNATransposon 2/1/3  0.4 0.9 0.2 0.2 0.0 0.0 0.5 0.0 0.8 1.0 0.0 0.1 0.8 0.0 0.0 0.0 0.1 0.0 
+>Transposon565
+Gypsy,LTR,Retrotransposon 1/1/2  1.0 1.0 0.2 0.8 0.0 0.0 0.4 0.0 0.1 0.1 0.0 0.4 0.1 0.0 0.0 0.1 0.7 0.0 
+>Transposon566
+Copia,LTR,Retrotransposon 1/1/1  1.0 1.0 0.9 0.0 0.0 0.0 1.0 0.0 0.0 0.5 0.1 0.7 0.1 0.0 0.0 0.1 0.5 0.0 
+>Transposon567
+Copia,LTR,Retrotransposon 1/1/1  1.0 1.0 1.0 0.0 0.0 0.0 0.5 0.0 0.0 0.6 0.1 0.0 0.0 0.0 0.0 0.1 0.6 0.0 
+>Transposon568
+Copia,LTR,Retrotransposon 1/1/1  1.0 1.0 1.0 0.0 0.0 0.0 0.7 0.0 0.0 0.2 0.0 0.2 0.4 0.1 0.0 0.1 0.8 0.1 
+>Transposon569
+Copia,LTR,Retrotransposon 1/1/1  1.0 1.0 1.0 0.1 0.0 0.0 0.9 0.0 0.0 0.5 0.0 0.6 0.0 0.0 0.0 0.1 0.4 0.0 
+>Transposon570
+Helitron,DNATransposon 2/2  0.1 0.8 0.5 0.5 0.1 0.0 0.2 0.5 1.0 0.3 0.1 0.0 0.0 0.4 0.3 0.0 0.6 0.0 
+>Transposon571
+hAT,TIR,DNATransposon 2/1/2  0.4 1.0 0.1 0.2 0.0 0.0 0.2 0.0 0.6 0.9 0.0 0.8 0.1 0.0 0.0 0.0 0.0 0.0 
+>Transposon572
+Copia,LTR,Retrotransposon 1/1/1  0.5 1.0 0.6 0.1 0.0 0.0 0.4 0.4 0.4 0.8 0.3 0.0 0.0 0.2 0.3 0.0 0.0 0.2 
+>Transposon573
+Copia,LTR,Retrotransposon 1/1/1  0.5 0.3 0.1 0.0 0.0 0.0 0.2 0.0 0.5 0.9 0.0 0.0 0.4 0.0 0.8 0.0 0.3 0.0 
+>Transposon574
+SINE,Non-LTR,Retrotransposon 1/2/2  0.9 0.2 0.4 0.3 0.2 0.6 0.2 0.8 0.0 0.5 0.0 0.3 0.3 0.0 0.5 0.0 0.0 0.1 
+>Transposon575
+hAT,TIR,DNATransposon 2/1/2  0.1 0.9 0.2 0.4 0.0 0.0 0.4 0.0 1.0 0.6 0.0 0.4666666666666666 0.1 0.0 0.0 0.0 0.0 0.0 
+>Transposon576
+Copia,LTR,Retrotransposon 1/1/1  1.0 1.0 0.6 0.1 0.0 0.0 0.7 0.4 0.4 1.0 0.2 0.3 0.2 0.0 0.8 0.1 0.2 0.3 
+>Transposon577
+Copia,LTR,Retrotransposon 1/1/1  0.8 1.0 0.7 0.4 0.1 0.1 0.3 0.5 0.3 0.8 0.2 0.1 0.2 0.1 0.3 0.4 0.3 0.1 
+>Transposon578
+Copia,LTR,Retrotransposon 1/1/1  0.9 0.9 0.9 0.4 0.0 0.0 0.5 0.2 0.1 0.5 0.0 0.2 0.1 0.1 0.5 0.0 0.1 0.2 
+>Transposon579
+Copia,LTR,Retrotransposon 1/1/1  0.8 1.0 0.8 0.3 0.0 0.0 0.2 0.5 0.3 0.7 0.1 0.3 0.0 0.0 0.3 0.0 0.0 0.1 
+>Transposon580
+Copia,LTR,Retrotransposon 1/1/1  1.0 1.0 1.0 0.0 0.0 0.0 0.1 0.0 0.0 0.0 0.0 0.4 0.2 0.2 0.0 0.1 0.8 0.0 
+>Transposon581
+Copia,LTR,Retrotransposon 1/1/1  0.8 1.0 0.8 0.0 0.0 0.2 0.9 0.3 0.2 0.6 0.0 0.2 0.1 0.1 0.4 0.1 0.1 0.3 
+>Transposon582
+Gypsy,LTR,Retrotransposon 1/1/2  1.0 1.0 0.1 1.0 0.0 0.0 0.6 0.2 0.2 0.5 0.0 0.4 0.4 0.3 0.4 0.1 0.4 0.4 
+>Transposon583
+Copia,LTR,Retrotransposon 1/1/1  1.0 0.9 0.9 0.0 0.0 0.0 0.4 0.4 0.3 0.9 0.2 0.0 0.0 0.1 0.4 0.0 0.1 0.0 
+>Transposon584
+LINE,Non-LTR,Retrotransposon 1/2/1  1.0 0.0 0.1 0.2 0.0 1.0 1.0 0.0 0.0 0.2 0.1 0.4 0.2 0.1 0.1 0.1 0.8 0.0 
+>Transposon585
+Copia,LTR,Retrotransposon 1/1/1  1.0 1.0 1.0 0.0 0.0 0.0 0.8 0.0 0.0 0.6 0.1 0.8 0.1 0.0 0.0 0.1 0.4 0.1 
+>Transposon586
+Gypsy,LTR,Retrotransposon 1/1/2  0.6 0.4 0.0 0.2 0.0 0.0 0.3 0.1 0.6 0.1 0.0 0.2 0.0 0.0 0.1 0.0 0.1 0.0 
+>Transposon587
+Gypsy,LTR,Retrotransposon 1/1/2  1.0 1.0 0.0 0.7 0.0 0.0 0.5 0.0 0.0 0.5 0.0 0.5 0.0 0.0 0.0 0.2 0.7 0.0 
+>Transposon588
+Copia,LTR,Retrotransposon 1/1/1  1.0 1.0 1.0 0.0 0.0 0.0 0.8 0.0 0.0 0.6 0.1 0.3 0.0 0.1 0.1 0.1 0.4 0.0 
+>Transposon589
+Copia,LTR,Retrotransposon 1/1/1  1.0 1.0 0.9 0.0 0.0 0.0 0.6 0.0 0.0 0.4 0.0 0.3 0.2 0.0 0.1 0.2 0.4 0.0 
+>Transposon590
+Copia,LTR,Retrotransposon 1/1/1  0.8 1.0 0.8 0.0 0.1 0.0 0.6 0.4 0.2 0.7 0.3 0.2 0.1 0.2 0.3 0.0 0.0 0.3 
+>Transposon591
+Copia,LTR,Retrotransposon 1/1/1  0.7 1.0 1.0 0.2 0.0 0.0 0.3 0.4 0.3 0.7 0.2 0.2 0.0 0.2 0.4 0.0 0.0 0.4 
+>Transposon592
+Gypsy,LTR,Retrotransposon 1/1/2  0.8 1.0 0.1 0.875 0.0 0.0 0.7 0.0 0.0 0.4 0.2 0.3 0.3 0.1 0.1 0.1 0.6 0.0 
+>Transposon593
+Copia,LTR,Retrotransposon 1/1/1  1.0 1.0 1.0 0.0 0.0 0.0 0.9 0.0 0.0 0.6 0.2 0.2 0.2 0.1 0.0 0.0 0.6 0.0 
+>Transposon594
+Copia,LTR,Retrotransposon 1/1/1  0.8 1.0 1.0 0.1 0.0 0.0 0.3 0.0 0.2 0.4 0.2 0.1 0.1 0.0 0.3 0.1 0.5 0.3 
+>Transposon595
+SINE,Non-LTR,Retrotransposon 1/2/2  0.9 0.1 0.0 1.0 0.1 1.0 0.0 1.0 0.0 0.9 0.0 0.1 0.5 0.2 0.3 0.0 0.0 0.1 
+>Transposon596
+Copia,LTR,Retrotransposon 1/1/1  0.9 0.9 0.5 0.3 0.0 0.0 0.4 0.3 0.0 0.8 0.2 0.2 0.3 0.1 0.6 0.0 0.1 0.0 
+>Transposon597
+Copia,LTR,Retrotransposon 1/1/1  0.8 1.0 0.7 0.0 0.0 0.0 0.6 0.0 0.1 0.6 0.3 0.4 0.4 0.1 0.1 0.2 0.4 0.0 
+>Transposon598
+Copia,LTR,Retrotransposon 1/1/1  0.8 1.0 0.8 0.0 0.0 0.1 0.3 0.5 0.1 0.6 0.6 0.2 0.0 0.6 0.1 0.1 0.1 0.2 
+>Transposon599
+Gypsy,LTR,Retrotransposon 1/1/2  1.0 1.0 0.4 0.6 0.0 0.0 0.4 0.1 0.1 0.4 0.0 0.2 0.3 0.1 0.5 0.1 0.5 0.0 
+>Transposon600
+CMC,TIR,DNATransposon 2/1/3  0.4 1.0 0.3 0.1 0.0 0.0 0.1 0.0 0.7 0.9 0.0 0.1 1.0 0.0 0.0 0.0 0.2 0.0 
+>Transposon601
+Copia,LTR,Retrotransposon 1/1/1  0.9 1.0 0.7 0.2 0.0 0.0 0.3 0.6 0.0 0.4 0.0 0.5 0.0 0.3 0.6 0.2 0.0 0.4 
+>Transposon602
+Gypsy,LTR,Retrotransposon 1/1/2  0.8 1.0 0.0 0.8 0.0 0.1 0.3 0.3 0.0 0.5 0.0 0.0 0.3 0.0 0.2 0.1 0.5 0.1 
+>Transposon603
+Copia,LTR,Retrotransposon 1/1/1  0.9 1.0 0.9 0.0 0.0 0.0 0.6 0.0 0.0 0.1 0.1 0.4 0.4 0.0 0.1 0.2 0.6 0.0 
+>Transposon604
+Copia,LTR,Retrotransposon 1/1/1  1.0 1.0 1.0 0.0 0.0 0.0 0.3 0.0 0.0 0.5 0.0 0.4 0.1 0.0 0.1 0.2 0.7 0.0 
+>Transposon605
+Copia,LTR,Retrotransposon 1/1/1  0.7 0.9 0.8 0.1 0.0 0.0 0.5 0.2 0.3 0.7 0.3 0.2 0.0 0.3 0.2 0.1 0.0 0.1 
+>Transposon606
+Copia,LTR,Retrotransposon 1/1/1  1.0 1.0 1.0 0.2 0.0 0.0 0.7 0.0 0.1 0.2 0.0 0.4 0.1 0.0 0.1 0.1 0.7 0.0 
+>Transposon607
+Copia,LTR,Retrotransposon 1/1/1  1.0 1.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.1 0.0 0.2 0.3 0.0 0.0 0.3 0.8 0.0 
+>Transposon608
+Gypsy,LTR,Retrotransposon 1/1/2  0.8 1.0 0.1 0.4750000000000001 0.0 0.0 0.4 0.1 0.0 0.6 0.0 0.1 0.4 0.0 0.2 0.2 0.3 0.1 
+>Transposon609
+Copia,LTR,Retrotransposon 1/1/1  0.9 1.0 0.8 0.0 0.1 0.0 0.8 0.4 0.2 0.7 0.5 0.0 0.1 0.3 0.7 0.0 0.0 0.4 
+>Transposon610
+Copia,LTR,Retrotransposon 1/1/1  0.5 1.0 1.0 0.0 0.0 0.1 0.5 0.2 0.3 1.0 0.4 0.2 0.0 0.3 0.5 0.0 0.1 0.0 
+>Transposon611
+Copia,LTR,Retrotransposon 1/1/1  1.0 1.0 1.0 0.0 0.0 0.0 0.9 0.0 0.0 0.7 0.0 0.1 0.1 0.3 0.1 0.1 0.7 0.0 
+>Transposon612
+Copia,LTR,Retrotransposon 1/1/1  1.0 0.9 0.8 0.0 0.0 0.0 0.7 0.0 0.1 0.6 0.1 0.1 0.1 0.0 0.1 0.1 0.6 0.0 
+>Transposon613
+Gypsy,LTR,Retrotransposon 1/1/2  1.0 1.0 0.0 1.0 0.0 0.0 0.7 0.0 0.0 0.5 0.1 0.4 0.1 0.2 0.3 0.3 0.6 0.0 
+>Transposon614
+Copia,LTR,Retrotransposon 1/1/1  0.9 1.0 0.6 0.1 0.0 0.0 0.4 0.4 0.1 0.8 0.2 0.3 0.1 0.0 0.7 0.0 0.3 0.1 
+>Transposon615
+Copia,LTR,Retrotransposon 1/1/1  0.5 0.9 0.9 0.2 0.0 0.1 0.6 0.4 0.3 0.9 0.0 0.1 0.0 0.0 0.9 0.0 0.1 0.0 
+>Transposon616
+Copia,LTR,Retrotransposon 1/1/1  0.5 1.0 0.8 0.2 0.0 0.0 0.4 0.5 0.1 0.8 0.6 0.1 0.0 0.3 0.2 0.1 0.0 0.5 
+>Transposon617
+SINE,Non-LTR,Retrotransposon 1/2/2  1.0 0.2 0.4 0.9 0.1 0.6 0.1 0.9 0.0 0.9 0.0 0.6 0.2 0.0 0.2 0.1 0.0 0.0 
+>Transposon618
+Copia,LTR,Retrotransposon 1/1/1  1.0 1.0 0.9 0.0 0.0 0.0 0.8 0.0 0.0 0.2 0.0 0.3 0.2 0.0 0.1 0.1 0.8 0.0 
+>Transposon619
+Gypsy,LTR,Retrotransposon 1/1/2  0.9 1.0 0.0 1.0 0.0 0.1 0.5 0.4 0.3 0.8 0.0 0.3 0.0 0.0 0.1 0.2 0.2 0.2 
+>Transposon620
+Novosib,TIR,DNATransposon 2/1/6  0.3 1.0 0.4 0.1 0.0 0.0 0.2 0.0 0.8 0.7 0.0 0.0 0.1 0.0 0.0 0.5 0.3 0.0 
+>Transposon621
+Copia,LTR,Retrotransposon 1/1/1  1.0 1.0 1.0 0.0 0.0 0.0 0.3 0.0 0.0 0.3 0.0 0.3 0.3 0.0 0.0 0.3 0.5 0.0 
+>Transposon622
+Gypsy,LTR,Retrotransposon 1/1/2  1.0 1.0 0.0 1.0 0.0 0.0 0.8 0.0 0.0 0.5 0.0 0.3 0.1 0.2 0.0 0.3 0.4 0.0 
+>Transposon623
+Copia,LTR,Retrotransposon 1/1/1  0.6 1.0 0.9 0.2 0.0 0.0 0.5 0.4 0.3 0.7 0.2 0.2 0.2 0.1 0.3 0.2 0.0 0.0 
+>Transposon624
+LINE,Non-LTR,Retrotransposon 1/2/1  1.0 0.2 0.0 0.2 0.0 0.9 1.0 0.0 0.0 0.5 0.0 0.3 0.0 0.0 0.1 0.0 0.6 0.0 
+>Transposon625
+Copia,LTR,Retrotransposon 1/1/1  0.8 1.0 0.8 0.0 0.0 0.0 0.5 0.0 0.1 0.5 0.1 0.2 0.3 0.0 0.4 0.0 0.3 0.3 
+>Transposon626
+Gypsy,LTR,Retrotransposon 1/1/2  1.0 1.0 0.0 1.0 0.0 0.0 0.8 0.0 0.0 0.3 0.2 0.5 0.4 0.0 0.1 0.3 0.8 0.0 
+>Transposon627
+hAT,TIR,DNATransposon 2/1/2  0.0 0.7 0.3 0.5 0.0 0.0 0.5 0.5 1.0 1.0 0.2 0.7 0.0 0.0 0.0 0.0 0.0 0.0 
+>Transposon628
+Copia,LTR,Retrotransposon 1/1/1  1.0 0.7 1.0 0.0 0.0 0.0 0.9 0.0 0.0 0.1 0.1 0.1 0.0 0.0 0.1 0.4 0.7 0.0 
+>Transposon629
+hAT,TIR,DNATransposon 2/1/2  0.5 1.0 0.0 0.1 0.0 0.0 0.6 0.0 0.7 0.9 0.0 0.8 0.0 0.0 0.0 0.1 0.4 0.0 
+>Transposon630
+Gypsy,LTR,Retrotransposon 1/1/2  0.9 1.0 0.2 0.7 0.1 0.2 1.0 0.5 0.2 0.9 0.0 0.0 0.0 0.1 0.3 0.0 0.1 0.4 
+>Transposon631
+Copia,LTR,Retrotransposon 1/1/1  0.9 0.9 0.7 0.4 0.0 0.1 0.6 0.4 0.3 0.6 0.3 0.1 0.0 0.1 0.6 0.1 0.1 0.2 
+>Transposon632
+hAT,TIR,DNATransposon 2/1/2  0.0 1.0 0.1 0.3 0.0 0.0 0.5 0.0 1.0 0.8 0.0 0.8 0.0 0.0 0.0 0.0 0.1 0.0 
+>Transposon633
+hAT,TIR,DNATransposon 2/1/2  0.3 0.9 0.0 0.3 0.0 0.1 0.5 0.0 0.6 0.8 0.0 0.5 0.0 0.0 0.0 0.0 0.1 0.0 
+>Transposon634
+Copia,LTR,Retrotransposon 1/1/1  1.0 1.0 0.8 0.1 0.0 0.0 0.5 0.0 0.0 0.9 0.0 0.3 0.0 0.1 0.0 0.2 0.3 0.0 
+>Transposon635
+Copia,LTR,Retrotransposon 1/1/1  1.0 1.0 0.9 0.1 0.0 0.0 0.4 0.0 0.0 0.2 0.2 0.2 0.3 0.1 0.1 0.1 0.5 0.0 
+>Transposon636
+hAT,TIR,DNATransposon 2/1/2  0.2 0.8 0.3 0.4 0.1 0.1 0.2 0.7 0.9 0.2 0.1 0.2 0.2 0.0 0.0 0.0 0.0 0.1 
+>Transposon637
+CMC,TIR,DNATransposon 2/1/3  0.0 0.8 0.3 0.8 0.2 0.0 0.2 0.7 0.9 0.6 0.0 0.2 0.8 0.2 0.2 0.0 0.0 0.0 
+>Transposon638
+Zator,TIR,DNATransposon 2/1/5  0.1 0.9 0.3 0.7 0.1 0.3 0.4 0.7 1.0 0.2 0.0 0.1 0.2 0.0 0.4 0.0 0.0 0.0 
+>Transposon639
+Helitron,DNATransposon 2/2  0.1 0.9 0.5 0.5 0.1 0.1 0.6 0.4 1.0 0.1 0.0 0.3 0.3 0.1 0.4 0.0 0.6 0.0 
+>Transposon640
+Helitron,DNATransposon 2/2  0.2 0.9 0.2 0.5 0.0 0.1 0.3 0.2 0.9 0.0 0.0 0.3 0.1 0.0 0.4 0.0 0.9 0.0 
+>Transposon641
+Helitron,DNATransposon 2/2  0.1 1.0 0.3 0.8 0.0 0.1 0.7 0.1 0.9 0.3 0.0 0.3 0.2 0.1 0.4 0.0 0.8 0.0 
+>Transposon642
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.0 0.9 0.3 1.0 0.0 0.0 0.5 0.5 1.0 0.9 0.8 0.0 0.1 0.1 0.1 0.0 0.0 0.0 
+>Transposon643
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.2 0.9 0.1 0.6 0.1 0.3 0.5 0.5 0.9 0.8 0.4 0.0 0.0 0.0 0.3 0.0 0.0 0.0 
+>Transposon644
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.0 0.9 0.2 0.4 0.1 0.0 0.3 0.0 0.8 0.9 0.8 0.1 0.0 0.0 0.2 0.1 0.0 0.0 
+>Transposon645
+hAT,TIR,DNATransposon 2/1/2  0.0 0.6 0.4 0.6 0.3 0.5 0.4 0.7 0.8 0.1 0.0 0.2 0.0 0.0 0.2 0.0 0.0 0.0 
+>Transposon646
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.2 1.0 0.1 0.3 0.0 0.1 0.4 0.0 1.0 0.9 0.9 0.0 0.1 0.0 0.0 0.1 0.1 0.0 
+>Transposon647
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.2 0.9 0.3 0.5 0.0 0.0 0.2 0.9 1.0 1.0 0.7 0.0 0.2 0.0 0.0 0.0 0.0 0.0 
+>Transposon648
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.1 1.0 0.5 0.1 0.0 0.1 0.6 0.0 0.9 0.9 0.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 
+>Transposon649
+CMC,TIR,DNATransposon 2/1/3  0.0 0.8 0.6 0.7 0.2 0.5 0.3 0.8 0.9 1.0 0.0 0.0 0.7 0.1 0.3 0.0 0.0 0.0 
+>Transposon650
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.1 0.9 0.1 0.9 0.1 0.1 0.4 0.5 0.8 0.9 0.6 0.3 0.0 0.0 0.2 0.0 0.1 0.0 
+>Transposon651
+Zator,TIR,DNATransposon 2/1/5  0.0 1.0 0.3 0.5 0.0 0.0 0.4 0.7 0.9 0.4 0.0 0.0 0.1 0.0 0.3 0.0 0.0 0.0 
+>Transposon652
+Helitron,DNATransposon 2/2  0.1 1.0 0.2 0.6 0.1 0.2 0.4 0.3 0.9 0.3 0.0 0.0 0.2 0.0 0.0 0.1 0.8 0.0 
+>Transposon653
+CMC,TIR,DNATransposon 2/1/3  0.1 0.9 0.1 0.7 0.3 0.2 0.3 0.5 0.9 0.8 0.0 0.0 0.8 0.0 0.3 0.0 0.0 0.0 
+>Transposon654
+hAT,TIR,DNATransposon 2/1/2  0.1 1.0 0.3 0.4 0.0 0.0 0.6 0.0 0.8 0.9 0.0 0.7 0.1 0.0 0.0 0.0 0.0 0.0 
+>Transposon655
+hAT,TIR,DNATransposon 2/1/2  0.2 0.7 0.3 0.6 0.0 0.1 0.3 0.7 1.0 0.7 0.2 0.7 0.2 0.2 0.0 0.0 0.0 0.0 
+>Transposon656
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.0 0.8 0.4 0.6 0.1 0.2 0.5 0.5 1.0 0.9 1.0 0.0 0.1 0.0 0.3 0.0 0.0 0.0 
+>Transposon657
+hAT,TIR,DNATransposon 2/1/2  0.1 0.7 0.4 0.2 0.2 0.5 0.4 0.6 0.8 0.9 0.0 0.3 0.3 0.0 0.2 0.0 0.0 0.1 
+>Transposon658
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.2 0.9 0.0 0.3 0.1 0.0 0.3 0.0 0.6 0.9 0.7 0.1 0.1 0.0 0.0 0.0 0.0 0.0 
+>Transposon659
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.2 0.9 0.0 0.6 0.1 0.1 0.6 0.0 1.0 1.0 1.0 0.2 0.1 0.0 0.0 0.0 0.1 0.0 
+>Transposon660
+CMC,TIR,DNATransposon 2/1/3  0.0 0.8 0.3 0.3 0.1 0.2 0.5 0.4 1.0 0.5 0.0 0.0 0.1 0.0 0.0 0.0 0.1 0.0 
+>Transposon661
+Gypsy,LTR,Retrotransposon 1/1/2  1.0 1.0 0.1 1.0 0.0 0.0 0.9 0.0 0.0 0.9 0.5 0.4 0.2 0.0 0.0 0.1 0.2 0.0 
+>Transposon662
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.1 0.8 0.1 0.7 0.0 0.3 0.8 0.1 1.0 0.9 0.6 0.1 0.0 0.0 0.1 0.0 0.0 0.0 
+>Transposon663
+hAT,TIR,DNATransposon 2/1/2  0.1 0.8 0.1 0.6 0.1 0.3 0.6 0.3 1.0 0.7 0.0 0.4 0.1 0.0 0.0 0.0 0.0 0.0 
+>Transposon664
+Helitron,DNATransposon 2/2  0.1 1.0 0.1 0.4 0.1 0.1 0.3 0.2 0.8 0.3 0.2 0.2 0.0 0.0 0.0 0.0 0.9 0.0 
+>Transposon665
+hAT,TIR,DNATransposon 2/1/2  0.1 0.8 0.2 0.8 0.0 0.2 0.2 0.5 0.9 1.0 0.2 0.7 0.2 0.0 0.3 0.2 0.0 0.0 
+>Transposon666
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.2 0.9 0.3 0.7 0.1 0.1 0.5 0.6 0.9 0.9 0.5 0.0 0.0 0.0 0.1 0.0 0.0 0.0 
+>Transposon667
+hAT,TIR,DNATransposon 2/1/2  0.0 1.0 0.4 0.4 0.1 0.1 0.1 0.6 0.8 0.9 0.0 0.3 0.0 0.0 0.1 0.0 0.3 0.0 
+>Transposon668
+Helitron,DNATransposon 2/2  0.0 0.8 0.3 0.6 0.1 0.1 0.2 0.8 0.7 0.0 0.1 0.2 0.6 0.2 0.4 0.0 1.0 0.0 
+>Transposon669
+LINE,Non-LTR,Retrotransposon 1/2/1  1.0 0.1 0.0 0.6 0.0 0.5 0.2 0.0 0.0 0.6 0.2 0.4 0.1 0.1 0.0 0.2 0.2 0.0 
+>Transposon670
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.0 1.0 0.2 0.5 0.0 0.0 0.2 0.4 1.0 0.9 0.3 0.1 0.1 0.0 0.1 0.0 0.0 0.0 
+>Transposon671
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.3 1.0 0.5 0.8 0.0 0.0 0.7 0.0 0.9 0.8 0.6 0.0 0.0 0.0 0.0 0.0 0.1 0.0 
+>Transposon672
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.1 1.0 0.2 0.5 0.0 0.0 0.3 0.0 1.0 1.0 0.7 0.2 0.2 0.0 0.0 0.0 0.0 0.0 
+>Transposon673
+Novosib,TIR,DNATransposon 2/1/6  0.3 1.0 0.1 0.5 0.0 0.0 0.7 0.2 0.9 1.0 0.1 0.0 0.1 0.0 0.0 0.8 0.1 0.0 
+>Transposon674
+hAT,TIR,DNATransposon 2/1/2  0.1 0.7 0.1 0.6 0.1 0.0 0.7 0.7 0.8 0.3 0.1 0.2 0.0 0.0 0.1 0.0 0.2 0.0 
+>Transposon675
+hAT,TIR,DNATransposon 2/1/2  0.0 0.6 0.5 0.4 0.1 0.2 0.7 0.6 1.0 0.2 0.0 0.1 0.1 0.1 0.0 0.0 0.0 0.0 
+>Transposon676
+CMC,TIR,DNATransposon 2/1/3  0.1 1.0 0.2 0.7 0.1 0.2 0.5 0.2 0.8 0.3 0.0 0.1 0.2 0.0 0.1 0.0 0.1 0.0 
+>Transposon677
+CMC,TIR,DNATransposon 2/1/3  0.4 0.6 0.3 0.7 0.1 0.1 0.4 0.7 0.8 0.3 0.0 0.0 0.1 0.0 0.1 0.1 0.0 0.1 
+>Transposon678
+Gypsy,LTR,Retrotransposon 1/1/2  1.0 1.0 0.0 0.9 0.0 0.1 0.7 0.0 0.0 0.7 0.0 0.3 0.0 0.0 0.3 0.1 0.4 0.0 
+>Transposon679
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.1 0.8 0.2 0.1 0.1 0.0 0.3 0.5 0.8 0.8 0.6 0.0 0.0 0.0 0.3 0.0 0.0 0.0 
+>Transposon680
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.1 0.8 0.1 0.7 0.0 0.3 0.6 0.4 0.8 1.0 0.1 0.1 0.0 0.0 0.1 0.0 0.0 0.0 
+>Transposon681
+Helitron,DNATransposon 2/2  0.2 0.9 0.3 0.2 0.0 0.0 0.2 0.1 0.9 0.2 0.1 0.6 0.0 0.0 0.0 0.0 0.3 0.0 
+>Transposon682
+hAT,TIR,DNATransposon 2/1/2  0.0 0.8 0.2 0.4 0.0 0.2 0.6 0.6 1.0 0.4 0.0 0.2 0.1 0.0 0.2 0.0 0.0 0.0 
+>Transposon683
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.2 0.8 0.4 0.3 0.1 0.2 0.3 0.7 0.8 1.0 0.8 0.3 0.1 0.0 0.0 0.0 0.0 0.1 
+>Transposon684
+Helitron,DNATransposon 2/2  0.0 0.9 0.0 0.5 0.0 0.1 0.5 0.3 0.8 0.3 0.1 0.3 0.0 0.1 0.1 0.0 0.7 0.0 
+>Transposon685
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.0 1.0 0.1 0.3 0.1 0.2 0.6 0.6 1.0 0.9 0.6 0.0 0.1 0.0 0.4 0.0 0.0 0.0 
+>Transposon686
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.3 1.0 0.3 0.4 0.0 0.1 1.0 0.0 0.9 1.0 1.0 0.1 0.0 0.0 0.0 0.1 0.0 0.0 
+>Transposon687
+CMC,TIR,DNATransposon 2/1/3  0.0 0.8 0.4 0.2 0.0 0.1 0.6 0.3 0.9 0.8 0.0 0.0 0.6 0.0 0.1 0.0 0.1 0.1 
+>Transposon688
+CMC,TIR,DNATransposon 2/1/3  0.0 0.9 0.3 0.8 0.0 0.0 0.2 0.6 1.0 1.0 0.0 0.1 0.8 0.0 0.1 0.0 0.1 0.1 
+>Transposon689
+Helitron,DNATransposon 2/2  0.0 1.0 0.4 0.5 0.0 0.0 0.9 0.3 0.9 0.3 0.0 0.2 0.3 0.0 0.4 0.0 0.9 0.0 
+>Transposon690
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.2 0.8 0.3 0.6 0.1 0.3 0.3 0.5 0.9 1.0 0.6 0.0 0.3 0.1 0.1 0.0 0.0 0.0 
+>Transposon691
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.1 0.9 0.1 0.5 0.0 0.0 0.3 0.0 1.0 0.8 0.7 0.1 0.1 0.0 0.0 0.0 0.1 0.0 
+>Transposon692
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.0 0.8 0.3 0.3 0.5 0.4 0.5 0.3 1.0 1.0 0.9 0.2 0.1 0.0 0.4 0.0 0.0 0.0 
+>Transposon693
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.0 1.0 0.4 0.6 0.0 0.0 0.4 0.1 1.0 1.0 0.8 0.1 0.2 0.0 0.0 0.0 0.3 0.0 
+>Transposon694
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.0 1.0 0.1 0.7 0.1 0.2 0.4 0.2 1.0 0.9 1.0 0.0 0.0 0.0 0.1 0.0 0.2 0.0 
+>Transposon695
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.2 0.9 0.1 0.4 0.1 0.0 0.6 0.0 0.9 0.9 0.9 0.1 0.0 0.0 0.0 0.0 0.0 0.0 
+>Transposon696
+LINE,Non-LTR,Retrotransposon 1/2/1  0.9 0.2 0.5 0.4 0.0 1.0 0.9 0.0 0.1 0.3 0.1 0.3 0.1 0.0 0.0 0.0 0.5 0.0 
+>Transposon697
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.1 0.9 0.5 0.5 0.0 0.2 0.5 0.2 0.8 0.5 0.6 0.1 0.0 0.0 0.1 0.0 0.2 0.0 
+>Transposon698
+hAT,TIR,DNATransposon 2/1/2  0.0 0.9 0.4 0.5 0.2 0.0 0.8 0.5 0.9 0.5 0.0 0.1 0.0 0.1 0.0 0.0 0.0 0.0 
+>Transposon699
+hAT,TIR,DNATransposon 2/1/2  0.2 0.9 0.5 0.2 0.0 0.0 0.4 0.1 0.9 0.8 0.1 0.2 0.0 0.0 0.0 0.1 0.1 0.0 
+>Transposon700
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.0 0.6 0.1 0.6 0.0 0.1 0.7 0.7 0.9 0.9 0.6 0.0 0.0 0.0 0.3 0.1 0.0 0.0 
+>Transposon701
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.2 0.9 0.0 0.6 0.0 0.0 0.6 0.0 0.6 0.9 0.5 0.0 0.0 0.0 0.0 0.1 0.0 0.0 
+>Transposon702
+Gypsy,LTR,Retrotransposon 1/1/2  1.0 1.0 0.0 0.8 0.0 0.0 0.7 0.0 0.2 0.8 0.2 0.3 0.2 0.0 0.2 0.2 0.4 0.0 
+>Transposon703
+hAT,TIR,DNATransposon 2/1/2  0.3 0.9 0.4 0.4 0.0 0.1 0.6 0.2 1.0 0.8 0.0 0.7 0.0 0.0 0.0 0.0 0.1 0.0 
+>Transposon704
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.1 1.0 0.3 0.5 0.1 0.1 0.5 0.1 0.7 0.9 0.6 0.0 0.1 0.0 0.2 0.0 0.1 0.0 
+>Transposon705
+hAT,TIR,DNATransposon 2/1/2  0.0 0.9 0.3 0.4 0.0 0.1 0.4 0.7 0.9 0.2 0.1 0.3 0.2 0.1 0.1 0.0 0.1 0.0 
+>Transposon706
+Helitron,DNATransposon 2/2  0.1 1.0 0.2 0.6 0.1 0.0 0.4 0.3 0.8 0.4 0.0 0.5 0.2 0.0 0.3 0.1 0.8 0.0 
+>Transposon707
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.1 0.8 0.2 0.4 0.1 0.0 0.4 0.0 0.9 0.9 0.5 0.1 0.0 0.0 0.0 0.0 0.1 0.0 
+>Transposon708
+hAT,TIR,DNATransposon 2/1/2  0.0 0.8 0.1 0.7 0.1 0.2 0.5 0.2 1.0 1.0 0.0 0.3 0.1 0.0 0.2 0.0 0.0 0.0 
+>Transposon709
+CMC,TIR,DNATransposon 2/1/3  0.0 1.0 0.3 0.8 0.0 0.2 0.3 0.6 1.0 0.1 0.0 0.0 0.1 0.0 0.1 0.0 0.1 0.0 
+>Transposon710
+CMC,TIR,DNATransposon 2/1/3  0.2 0.9 0.3 0.6 0.0 0.0 0.6 0.2 0.8 0.9 0.0 0.1 0.8 0.0 0.2 0.1 0.0 0.0 
+>Transposon711
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.1 0.9 0.2 0.4 0.0 0.0 0.7 0.1 0.8 1.0 0.8 0.0 0.0 0.0 0.1 0.1 0.0 0.0 
+>Transposon712
+Zator,TIR,DNATransposon 2/1/5  0.1 0.7 0.4 0.6 0.1 0.1 0.4 0.7 1.0 0.4 0.0 0.1 0.0 0.0 0.2 0.1 0.0 0.1 
+>Transposon713
+Zator,TIR,DNATransposon 2/1/5  0.0 0.8 0.5 0.6 0.0 0.0 0.7 0.7 0.9 0.9 0.0 0.0 0.1 0.0 0.4 0.0 0.1 0.1 
+>Transposon714
+CMC,TIR,DNATransposon 2/1/3  0.0 0.9 0.2 0.5 0.0 0.1 0.3 0.3 0.9 1.0 0.0 0.2 0.8 0.0 0.0 0.0 0.0 0.0 
+>Transposon715
+CMC,TIR,DNATransposon 2/1/3  0.0 1.0 0.4 0.5 0.0 0.0 0.6 0.5 0.9 1.0 0.0 0.1 0.8 0.0 0.1 0.0 0.1 0.0 
+>Transposon716
+Zator,TIR,DNATransposon 2/1/5  0.1 0.8 0.2 1.0 0.1 0.0 0.5 0.5 0.9 1.0 0.0 0.1 0.0 0.1 0.2 0.0 0.0 0.0 
+>Transposon717
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.2 1.0 0.2 0.7 0.0 0.0 0.6 0.3 0.9 1.0 0.7 0.2 0.1 0.0 0.0 0.0 0.0 0.0 
+>Transposon718
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.0 0.5 0.1 0.5 0.0 0.3 0.6 0.5 0.9 0.3 0.1 0.0 0.0 0.1 0.1 0.0 0.1 0.0 
+>Transposon719
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.0 0.7 0.2 0.5 0.1 0.1 0.5 0.4 1.0 1.0 0.3 0.0 0.1 0.1 0.1 0.0 0.0 0.0 
+>Transposon720
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.3 0.9 0.2 0.4 0.1 0.1 0.8 0.2 0.8 0.9 0.8 0.4 0.1 0.0 0.0 0.0 0.0 0.0 
+>Transposon721
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.1 1.0 0.4 0.5 0.0 0.1 0.3 0.1 0.8 0.9 1.0 0.1 0.0 0.0 0.0 0.1 0.0 0.0 
+>Transposon722
+CMC,TIR,DNATransposon 2/1/3  0.2 0.8 0.4 0.5 0.3 0.0 0.4 0.4 0.7 0.9 0.3 0.1 0.7 0.0 0.1 0.0 0.0 0.0 
+>Transposon723
+Novosib,TIR,DNATransposon 2/1/6  0.1 0.8 0.1 0.7 0.0 0.0 0.5 0.2 0.9 0.4 0.0 0.1 0.0 0.0 0.0 0.2 0.0 0.0 
+>Transposon724
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.2 1.0 0.1 0.6 0.0 0.0 0.4 0.0 1.0 0.9 0.6 0.2 0.0 0.0 0.0 0.0 0.0 0.0 
+>Transposon725
+Zator,TIR,DNATransposon 2/1/5  0.0 0.7 0.4 0.1 0.0 0.4 0.6 0.5 0.9 0.5 0.1 0.0 0.0 0.0 0.2 0.0 0.0 0.0 
+>Transposon726
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.3 1.0 0.2 0.5 0.1 0.0 0.4 0.2 0.8 0.8 0.7 0.2 0.0 0.0 0.2 0.0 0.0 0.0 
+>Transposon727
+Gypsy,LTR,Retrotransposon 1/1/2  0.7 1.0 0.3 0.8 0.0 0.0 0.6 0.4 0.1 0.9 0.3 0.1 0.1 0.4 0.3 0.0 0.0 0.5 
+>Transposon728
+hAT,TIR,DNATransposon 2/1/2  0.0 0.8 0.1 0.2 0.2 0.6 0.6 0.6 0.9 1.0 0.1 0.6 0.0 0.1 0.1 0.0 0.0 0.1 
+>Transposon729
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.0 1.0 0.4 0.4 0.1 0.2 0.5 0.7 1.0 1.0 0.7 0.3 0.0 0.0 0.3 0.0 0.0 0.0 
+>Transposon730
+CMC,TIR,DNATransposon 2/1/3  0.0 1.0 0.2 0.5 0.0 0.0 0.6 0.3 0.9 1.0 0.0 0.2 0.9 0.0 0.0 0.1 0.1 0.0 
+>Transposon731
+hAT,TIR,DNATransposon 2/1/2  0.0 0.7 0.2 0.5 0.0 0.2 0.3 0.9 0.9 0.8 0.0 0.7 0.2 0.1 0.1 0.1 0.0 0.0 
+>Transposon732
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.1 0.9 0.1 0.6 0.0 0.0 0.5 0.0 0.9 0.9 0.7 0.1 0.0 0.0 0.0 0.0 0.0 0.0 
+>Transposon733
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.2 0.9 0.0 0.7 0.1 0.0 0.9 0.1 0.8 1.0 0.7 0.2 0.1 0.0 0.0 0.1 0.1 0.0 
+>Transposon734
+LINE,Non-LTR,Retrotransposon 1/2/1  1.0 0.1 0.1 0.2 0.0 1.0 1.0 0.0 0.0 0.8 0.4 0.5 0.0 0.0 0.0 0.0 0.6 0.0 
+>Transposon735
+hAT,TIR,DNATransposon 2/1/2  0.0 0.7 0.1 0.2 0.4 0.3 0.4 0.575 1.0 0.9 0.0 0.2 0.1 0.0 0.0 0.0 0.0 0.1 
+>Transposon736
+Zator,TIR,DNATransposon 2/1/5  0.2 1.0 0.4 0.3 0.0 0.0 0.7 0.2 0.7 0.3 0.0 0.0 0.0 0.0 0.1 0.0 0.1 0.0 
+>Transposon737
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.1 1.0 0.2 0.5 0.0 0.0 0.6 0.0 0.8 0.9 0.8 0.2 0.1 0.0 0.0 0.1 0.0 0.0 
+>Transposon738
+Helitron,DNATransposon 2/2  0.1 0.8 0.4 0.7 0.0 0.2 0.4 0.6 0.5 0.2 0.1 0.0 0.4 0.2 0.6 0.0 0.5 0.1 
+>Transposon739
+Helitron,DNATransposon 2/2  0.0 1.0 0.4 0.5 0.0 0.2 0.7 0.2 0.9 0.1 0.0 0.2 0.3 0.0 0.2 0.0 0.3 0.0 
+>Transposon740
+CMC,TIR,DNATransposon 2/1/3  0.2 1.0 0.3 0.2 0.0 0.0 0.7 0.0 0.5 0.3 0.0 0.0 0.1 0.0 0.0 0.0 0.2 0.0 
+>Transposon741
+Helitron,DNATransposon 2/2  0.0 0.9 0.3 0.4 0.2 0.0 0.5 0.6 0.9 0.0 0.0 0.1 0.3 0.1 0.2 0.0 0.9 0.0 
+>Transposon742
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.0 0.8 0.4 0.1 0.1 0.1 0.6 0.2 1.0 0.9 0.9 0.0 0.1 0.1 0.3 0.0 0.1 0.0 
+>Transposon743
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.3 0.8 0.0 0.4 0.1 0.0 0.4 0.1 0.7 1.0 1.0 0.2 0.0 0.0 0.0 0.0 0.0 0.0 
+>Transposon744
+hAT,TIR,DNATransposon 2/1/2  0.3 0.9 0.4 0.5 0.0 0.1 0.3 0.3 0.9 0.6 0.0 0.7 0.1 0.0 0.0 0.0 0.3 0.0 
+>Transposon745
+hAT,TIR,DNATransposon 2/1/2  0.0 1.0 0.0 0.5 0.1 0.2 0.3 0.5 1.0 0.0 0.0 0.1 0.1 0.0 0.0 0.0 0.0 0.0 
+>Transposon746
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.1 1.0 0.2 0.6 0.1 0.1 0.3 0.5 1.0 1.0 0.4 0.0 0.0 0.0 0.1 0.0 0.0 0.1 
+>Transposon747
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.0 0.9 0.3 0.3 0.0 0.0 0.3 0.3 1.0 1.0 0.7 0.1 0.1 0.0 0.2 0.0 0.0 0.1 
+>Transposon748
+CMC,TIR,DNATransposon 2/1/3  0.1 0.7 0.5 0.5 0.2 0.5 0.5 0.5 0.9 0.2 0.0 0.1 0.2 0.1 0.1 0.1 0.0 0.0 
+>Transposon749
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.1 1.0 0.2 0.5 0.2 0.0 0.6 0.1 1.0 1.0 0.8 0.0 0.0 0.0 0.1 0.0 0.1 0.0 
+>Transposon750
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.1 1.0 0.2 0.5 0.0 0.0 0.6 0.1 1.0 0.9 0.6 0.1 0.0 0.0 0.0 0.0 0.1 0.1 
+>Transposon751
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.1 1.0 0.3 0.5 0.1 0.2 0.7 0.2 0.7 0.9 0.7 0.1 0.0 0.1 0.0 0.0 0.4 0.0 
+>Transposon752
+Helitron,DNATransposon 2/2  0.0 1.0 0.4 0.7 0.0 0.0 0.5 0.5 1.0 0.3 0.0 0.0 0.2 0.0 0.4 0.0 0.6 0.0 
+>Transposon753
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.4 1.0 0.2 0.4 0.0 0.1 0.6 0.1 0.7 0.9 0.7 0.2 0.0 0.0 0.0 0.1 0.1 0.0 
+>Transposon754
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.2 0.7 0.1 0.6 0.1 0.1 0.4 0.2 1.0 1.0 0.8 0.0 0.1 0.0 0.2 0.0 0.0 0.0 
+>Transposon755
+hAT,TIR,DNATransposon 2/1/2  0.1 0.9 0.4 0.6 0.1 0.1 0.6 0.5 0.9 1.0 0.0 0.1 0.0 0.0 0.1 0.0 0.0 0.0 
+>Transposon756
+CMC,TIR,DNATransposon 2/1/3  0.0 0.9 0.2 0.5 0.1 0.0 0.6 0.4 1.0 1.0 0.1 0.1 0.7 0.0 0.2 0.0 0.0 0.0 
+>Transposon757
+CMC,TIR,DNATransposon 2/1/3  0.1 0.7 0.3 0.7 0.0 0.3 0.4 0.6 1.0 1.0 0.1 0.0 0.9 0.0 0.1 0.1 0.0 0.0 
+>Transposon758
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.1 0.9 0.4 0.5 0.0 0.2 0.4 0.1 0.8 0.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 
+>Transposon759
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.2 0.9 0.3 0.2 0.1 0.1 0.4 0.0 0.7 0.9 0.9 0.3 0.0 0.0 0.0 0.0 0.0 0.0 
+>Transposon760
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.2 0.8 0.0 0.8 0.1 0.1 0.6 0.0 0.6 1.0 1.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 
+>Transposon761
+hAT,TIR,DNATransposon 2/1/2  0.1 0.8 0.3 0.3 0.0 0.2 0.3 0.7 1.0 0.3 0.0 0.4 0.0 0.0 0.2 0.0 0.0 0.0 
+>Transposon762
+Zator,TIR,DNATransposon 2/1/5  0.2 1.0 0.2 0.6 0.0 0.0 0.5 0.1 0.9 0.8 0.0 0.0 0.0 0.0 0.4 0.0 0.1 0.0 
+>Transposon763
+hAT,TIR,DNATransposon 2/1/2  0.1 0.9 0.3 0.2 0.0 0.1 0.5 0.2 0.8 1.0 0.0 0.8 0.1 0.0 0.0 0.1 0.2 0.2 
+>Transposon764
+Gypsy,LTR,Retrotransposon 1/1/2  0.7 1.0 0.1 0.8 0.0 0.1 0.7 0.2 0.1 0.6 0.0 0.2 0.2 0.1 0.3 0.0 0.5 0.0 
+>Transposon765
+CMC,TIR,DNATransposon 2/1/3  0.0 0.9 0.5 0.5 0.1 0.2 0.4 0.6 1.0 0.9 0.1 0.0 0.7 0.0 0.3 0.1 0.0 0.1 
+>Transposon766
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.1 0.6 0.6 0.8 0.2 0.3 0.5 0.7 1.0 0.9 0.7 0.1 0.2 0.1 0.1 0.0 0.0 0.0 
+>Transposon767
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.2 1.0 0.2 0.6 0.0 0.0 0.6 0.2 1.0 0.8 0.6 0.2 0.0 0.0 0.0 0.0 0.0 0.0 
+>Transposon768
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.0 0.7 0.3 0.6 0.0 0.2 0.2 0.2 1.0 0.1 0.2 0.1 0.1 0.2 0.1 0.1 0.0 0.1 
+>Transposon769
+Helitron,DNATransposon 2/2  0.0 0.9 0.2 0.3 0.0 0.2 0.7 0.3 0.9 0.1 0.0 0.3 0.0 0.0 0.3 0.0 0.8 0.0 
+>Transposon770
+hAT,TIR,DNATransposon 2/1/2  0.1 0.4 0.6 0.4333333333333334 0.2 0.1 0.7 0.3 0.9 0.7 0.0 0.1 0.0 0.0 0.0 0.0 0.0 0.0 
+>Transposon771
+Helitron,DNATransposon 2/2  0.0 0.9 0.3 0.6 0.0 0.2 0.5 0.8 1.0 0.4 0.2 0.0 0.0 0.0 0.3 0.1 0.9 0.0 
+>Transposon772
+Zator,TIR,DNATransposon 2/1/5  0.0 0.7 0.6 0.3 0.1 0.0 0.5 0.6 1.0 1.0 0.0 0.1 0.0 0.1 0.3 0.0 0.0 0.0 
+>Transposon773
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.0 0.8 0.1 0.5 0.2 0.1 0.3 0.8 1.0 1.0 0.7 0.3 0.1 0.0 0.0 0.0 0.3 0.0 
+>Transposon774
+hAT,TIR,DNATransposon 2/1/2  0.0 0.7 0.1 0.7 0.0 0.2 0.7 0.6 0.9 0.9 0.0 0.7 0.4 0.0 0.0 0.0 0.0 0.0 
+>Transposon775
+hAT,TIR,DNATransposon 2/1/2  0.2 0.9 0.3 0.2 0.0 0.1 0.6 0.4 0.9 0.9 0.0 1.0 0.0 0.0 0.0 0.0 0.1 0.1 
+>Transposon776
+hAT,TIR,DNATransposon 2/1/2  0.2 0.8 0.4 0.3 0.0 0.0 0.3 0.5 0.8 0.0 0.0 0.2 0.0 0.0 0.1 0.1 0.0 0.0 
+>Transposon777
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.0 0.9 0.2 0.5 0.2 0.0 0.5 0.4 1.0 1.0 0.9 0.2 0.0 0.0 0.2 0.0 0.1 0.0 
+>Transposon778
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.2 0.8 0.3 0.5 0.0 0.2 0.4 0.6 0.9 0.9 0.7 0.0 0.2 0.0 0.1 0.0 0.0 0.0 
+>Transposon779
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.2 1.0 0.2 0.6 0.1 0.0 0.8 0.0 0.9 0.9 0.8 0.2 0.0 0.0 0.0 0.0 0.2 0.0 
+>Transposon780
+hAT,TIR,DNATransposon 2/1/2  0.1 1.0 0.1 0.5 0.0 0.0 0.3 0.5 1.0 0.9 0.0 0.1 0.0 0.1 0.0 0.0 0.1 0.0 
+>Transposon781
+hAT,TIR,DNATransposon 2/1/2  0.1 0.8 0.3 0.3 0.0 0.2 0.7 0.0 0.9 0.4 0.0 0.1 0.1 0.0 0.0 0.0 0.0 0.0 
+>Transposon782
+Gypsy,LTR,Retrotransposon 1/1/2  1.0 0.9 0.0 1.0 0.0 0.0 0.9 0.0 0.0 0.7 0.1 0.4 0.2 0.0 0.2 0.1 0.5 0.0 
+>Transposon783
+hAT,TIR,DNATransposon 2/1/2  0.0 0.9 0.3 0.7 0.2 0.3 0.3 0.5 1.0 1.0 0.0 0.6 0.2 0.0 0.5 0.0 0.0 0.0 
+>Transposon784
+CMC,TIR,DNATransposon 2/1/3  0.2 0.8 0.6 0.2 0.0 0.0 0.7 0.1 0.8 0.9 0.0 0.1 0.7 0.0 0.1 0.0 0.3 0.0 
+>Transposon785
+hAT,TIR,DNATransposon 2/1/2  0.0 1.0 0.4 0.9 0.1 0.2 0.2 0.4 1.0 0.5 0.0 0.2 0.0 0.0 0.1 0.1 0.0 0.0 
+>Transposon786
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.1 0.8 0.3 0.4 0.0 0.0 0.5 0.2 1.0 0.9 0.8 0.2 0.2 0.0 0.2 0.0 0.0 0.0 
+>Transposon787
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.4 0.9 0.1 0.6 0.1 0.0 0.4 0.0 0.8 1.0 0.6 0.0 0.1 0.0 0.0 0.0 0.1 0.0 
+>Transposon788
+hAT,TIR,DNATransposon 2/1/2  0.0 0.8 0.3 0.5 0.0 0.1 0.6 0.5 1.0 1.0 0.0 0.1 0.0 0.0 0.1 0.0 0.0 0.0 
+>Transposon789
+CMC,TIR,DNATransposon 2/1/3  0.1 1.0 0.0 0.8 0.1 0.0 0.5 0.4 0.8 0.9 0.0 0.1 0.7 0.0 0.2 0.0 0.1 0.0 
+>Transposon790
+Gypsy,LTR,Retrotransposon 1/1/2  1.0 1.0 0.1 0.8 0.1 0.0 0.9 0.0 0.1 0.9 0.2 0.3 0.1 0.0 0.1 0.1 0.0 0.0 
+>Transposon791
+hAT,TIR,DNATransposon 2/1/2  0.0 1.0 0.4 0.5 0.1 0.1 0.3 0.3 1.0 0.9 0.0 0.2 0.1 0.0 0.2 0.0 0.0 0.0 
+>Transposon792
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.1 1.0 0.2 0.6 0.0 0.3 0.9 0.2 0.7 1.0 0.9 0.1 0.0 0.0 0.0 0.1 0.0 0.0 
+>Transposon793
+hAT,TIR,DNATransposon 2/1/2  0.0 0.6 0.2 0.8 0.0 0.3 0.3 0.7 0.9 0.2 0.0 0.2 0.1 0.0 0.1 0.0 0.0 0.0 
+>Transposon794
+Zator,TIR,DNATransposon 2/1/5  0.0 0.9 0.6 0.1 0.0 0.0 0.3 0.5 1.0 0.4 0.1 0.0 0.0 0.1 0.3 0.0 0.0 0.0 
+>Transposon795
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.1 1.0 0.3 0.6 0.0 0.0 0.7 0.1 1.0 0.8 0.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 
+>Transposon796
+Helitron,DNATransposon 2/2  0.2 0.9 0.1 0.2 0.0 0.0 0.4 0.0 0.7 0.1 0.0 0.0 0.2 0.0 0.0 0.0 0.3 0.0 
+>Transposon797
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.1 1.0 0.2 0.7 0.1 0.0 0.6 0.1 0.9 0.4 0.1 0.0 0.1 0.1 0.1 0.1 0.0 0.0 
+>Transposon798
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.2 0.9 0.2 0.7 0.2 0.0 0.5 0.1 0.8 1.0 0.6 0.0 0.0 0.0 0.0 0.0 0.1 0.0 
+>Transposon799
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.0 1.0 0.1 0.5 0.0 0.1 0.5 0.2 1.0 0.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 
+>Transposon800
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.1 1.0 0.1 0.5 0.1 0.0 0.3 0.0 0.7 0.8 0.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 
+>Transposon801
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.2 0.9 0.1 0.5 0.0 0.0 0.6 0.3 0.9 0.7 0.6 0.1 0.0 0.0 0.1 0.0 0.1 0.0 
+>Transposon802
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.1 0.9 0.2 0.4 0.0 0.2 0.6 0.6 1.0 0.8 0.5 0.3 0.1 0.0 0.1 0.0 0.0 0.0 
+>Transposon803
+hAT,TIR,DNATransposon 2/1/2  0.3 0.9 0.2 0.5 0.1 0.0 0.6 0.6 0.7 0.9 0.0 0.6 0.0 0.0 0.0 0.0 0.1 0.0 
+>Transposon804
+Gypsy,LTR,Retrotransposon 1/1/2  1.0 1.0 0.0 0.9 0.0 0.0 0.4 0.7 0.2 0.7 0.1 0.4 0.0 0.0 0.5 0.2 0.1 0.1 
+>Transposon805
+hAT,TIR,DNATransposon 2/1/2  0.0 0.8 0.2 0.7 0.1 0.1 0.5 0.7 1.0 0.9 0.0 0.4 0.0 0.0 0.2 0.0 0.0 0.0 
+>Transposon806
+CMC,TIR,DNATransposon 2/1/3  0.0 0.8 0.3 0.7 0.2 0.2 0.3 0.4 1.0 0.9 0.1 0.0 0.9 0.0 0.0 0.0 0.1 0.0 
+>Transposon807
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.3 1.0 0.4 0.4 0.0 0.0 0.4 0.1 0.8 0.9 0.6 0.2 0.0 0.0 0.0 0.0 0.0 0.0 
+>Transposon808
+Helitron,DNATransposon 2/2  0.0 0.9 0.1 0.5 0.2 0.1 0.7 0.0 1.0 0.4 0.0 0.1 0.4 0.1 0.5 0.1 0.6 0.0 
+>Transposon809
+MITE,DNATransposon 2/3  0.1 0.9 0.2 0.5 0.0 0.0 0.3 0.1 0.8 0.0 0.0 0.2 0.1 0.1 0.5 0.1 0.1 0.2 
+>Transposon810
+Gypsy,LTR,Retrotransposon 1/1/2  0.8 1.0 0.1 0.8 0.0 0.2 0.5 0.3 0.6 0.8 0.1 0.3 0.0 0.2 0.2 0.1 0.2 0.3 
+>Transposon811
+hAT,TIR,DNATransposon 2/1/2  0.1 0.8 0.1 0.5 0.0 0.1 0.7 0.2 1.0 0.1 0.0 0.3 0.0 0.0 0.0 0.0 0.1 0.0 
+>Transposon812
+Zator,TIR,DNATransposon 2/1/5  0.0 0.9 0.5 0.4 0.1 0.4 0.3 0.5 1.0 0.2 0.0 0.0 0.0 0.0 0.4 0.0 0.0 0.0 
+>Transposon813
+Zator,TIR,DNATransposon 2/1/5  0.1 0.8 0.3 0.4 0.1 0.2 0.5 0.4 1.0 0.1 0.0 0.0 0.0 0.0 0.1 0.0 0.1 0.0 
+>Transposon814
+Gypsy,LTR,Retrotransposon 1/1/2  1.0 1.0 0.0 0.9 0.0 0.2 1.0 0.0 0.0 0.5 0.2 0.1 0.1 0.0 0.0 0.0 0.2 0.0 
+>Transposon815
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.1 1.0 0.0 0.4 0.0 0.1 0.5 0.1 0.9 0.2 0.1 0.1 0.1 0.0 0.0 0.0 0.1 0.0 
+>Transposon816
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.2 1.0 0.1 0.7 0.1 0.0 0.4 0.2 1.0 1.0 0.5 0.0 0.0 0.0 0.1 0.0 0.0 0.0 
+>Transposon817
+hAT,TIR,DNATransposon 2/1/2  0.1 1.0 0.1 0.4 0.0 0.2 0.2 0.3 0.8 1.0 0.0 0.9 0.1 0.0 0.0 0.0 0.2 0.0 
+>Transposon818
+hAT,TIR,DNATransposon 2/1/2  0.0 0.8 0.4 0.5 0.2 0.3 0.6 0.7 1.0 0.2 0.0 0.2 0.1 0.0 0.2 0.1 0.0 0.0 
+>Transposon819
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.1 1.0 0.1 0.3 0.0 0.0 0.7 0.0 0.9 0.9 1.0 0.1 0.0 0.0 0.0 0.0 0.0 0.0 
+>Transposon820
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.0 1.0 0.2 0.3 0.0 0.0 0.5 0.0 1.0 1.0 0.8 0.2 0.0 0.0 0.0 0.0 0.0 0.0 
+>Transposon821
+LINE,Non-LTR,Retrotransposon 1/2/1  0.7 0.1 0.2 0.7 0.1 0.8 1.0 0.0 0.0 0.4 0.0 0.2 0.1 0.0 0.1 0.0 0.6 0.0 
+>Transposon822
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.0 1.0 0.5 0.9 0.0 0.2 0.3 0.7 1.0 0.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 
+>Transposon823
+Gypsy,LTR,Retrotransposon 1/1/2  0.6 1.0 0.1 0.7 0.0 0.0 0.5 0.5 0.1 0.7 0.3 0.1 0.0 0.0 0.5 0.1 0.1 0.1 
+>Transposon824
+Zator,TIR,DNATransposon 2/1/5  0.1 1.0 0.3 0.6 0.0 0.0 0.5 0.3 1.0 1.0 0.0 0.0 0.0 0.0 0.2 0.0 0.0 0.0 
+>Transposon825
+Zator,TIR,DNATransposon 2/1/5  0.2 0.8 0.3 0.5 0.1 0.3 0.5 0.9 1.0 0.4 0.0 0.1 0.0 0.0 0.2 0.0 0.0 0.0 
+>Transposon826
+Helitron,DNATransposon 2/2  0.2 0.8 0.5 0.4 0.1 0.5 0.3 0.8 0.9 0.3 0.2 0.6 0.2 0.0 0.0 0.0 0.6 0.2 
+>Transposon827
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.0 0.7 0.4 0.3 0.2 0.1 0.5 0.5 1.0 0.9 0.5 0.0 0.0 0.1 0.4 0.0 0.0 0.1 
+>Transposon828
+Helitron,DNATransposon 2/2  0.2 0.6 0.2 0.2 0.1 0.0 0.5 0.7 0.8 0.1 0.0 0.2 0.0 0.0 0.6 0.0 0.8 0.0 
+>Transposon829
+Gypsy,LTR,Retrotransposon 1/1/2  0.9 0.9 0.2 0.4 0.0 0.0 0.3 0.2 0.0 0.8 0.2 0.5 0.0 0.2 0.4 0.1 0.3 0.0 
+>Transposon830
+CMC,TIR,DNATransposon 2/1/3  0.0 0.8 0.6 0.7 0.2 0.2 0.3 0.4 1.0 0.8 0.1 0.2 0.8 0.1 0.1 0.0 0.0 0.1 
+>Transposon831
+Zator,TIR,DNATransposon 2/1/5  0.1 0.9 0.3 0.5 0.2 0.2 0.4 0.7 0.9 0.5 0.0 0.2 0.1 0.1 0.4 0.1 0.0 0.0 
+>Transposon832
+hAT,TIR,DNATransposon 2/1/2  0.1 0.8 0.2 0.8 0.3 0.3 0.6 0.4 1.0 0.9 0.1 0.5 0.0 0.0 0.0 0.0 0.2 0.0 
+>Transposon833
+hAT,TIR,DNATransposon 2/1/2  0.1 0.8 0.2 0.5 0.0 0.1 0.6 0.3 0.9 1.0 0.0 0.1 0.0 0.0 0.0 0.0 0.1 0.1 
+>Transposon834
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.0 0.9 0.5 0.2 0.0 0.0 0.3 0.0 0.9 0.9 0.7 0.1 0.1 0.0 0.1 0.0 0.1 0.1 
+>Transposon835
+hAT,TIR,DNATransposon 2/1/2  0.2 0.9 0.4 0.8 0.0 0.2 0.3 0.4 0.9 1.0 0.1 0.6 0.3 0.0 0.1 0.0 0.0 0.0 
+>Transposon836
+CMC,TIR,DNATransposon 2/1/3  0.0 0.7 0.2 0.5 0.0 0.0 0.7 0.3 0.9 0.1 0.0 0.0 0.1 0.0 0.1 0.0 0.0 0.0 
+>Transposon837
+hAT,TIR,DNATransposon 2/1/2  0.1 1.0 0.3 0.4 0.1 0.1 0.5 0.1 0.9 0.4 0.0 0.2 0.0 0.1 0.0 0.1 0.0 0.0 
+>Transposon838
+CMC,TIR,DNATransposon 2/1/3  0.0 0.7 0.1 0.5 0.3 0.1 0.2 0.5 1.0 0.2 0.1 0.2 0.3 0.0 0.3 0.0 0.0 0.2 
+>Transposon839
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.0 0.7 0.3 0.6 0.4 0.2 0.5 0.6 0.8 0.4 0.1 0.1 0.0 0.1 0.1 0.0 0.0 0.0 
+>Transposon840
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.2 0.9 0.3 0.5 0.0 0.1 0.4 0.0 0.7 0.9 0.5 0.2 0.1 0.0 0.1 0.0 0.1 0.0 
+>Transposon841
+CMC,TIR,DNATransposon 2/1/3  0.0 0.8 0.2 0.6 0.1 0.0 0.23333333333333334 0.7 0.9 1.0 0.1 0.0 0.8 0.0 0.0 0.0 0.0 0.1 
+>Transposon842
+Helitron,DNATransposon 2/2  0.1 1.0 0.2 0.6 0.1 0.2 0.5 0.6 1.0 0.1 0.1 0.3 0.0 0.0 0.0 0.0 0.2 0.1 
+>Transposon843
+LINE,Non-LTR,Retrotransposon 1/2/1  1.0 0.1 0.2 0.4 0.0 0.9 1.0 0.0 0.1 0.6 0.0 0.6 0.0 0.0 0.1 0.3 0.4 0.0 
+>Transposon844
+CMC,TIR,DNATransposon 2/1/3  0.1 1.0 0.2 0.5 0.2 0.0 0.7 0.4 1.0 0.9 0.0 0.0 0.2 0.1 0.1 0.0 0.1 0.0 
+>Transposon845
+Helitron,DNATransposon 2/2  0.0 0.8 0.0 0.1 0.0 0.0 0.7 0.0 1.0 0.0 0.1 0.3 0.2 0.1 0.0 0.0 0.3 0.0 
+>Transposon846
+SINE,Non-LTR,Retrotransposon 1/2/2  1.0 0.0 0.2 0.7 0.0 0.9 0.0 1.0 0.0 1.0 0.2 0.5 0.1 0.3 0.4 0.0 0.1 0.2 
+>Transposon847
+ERV,LTR,Retrotransposon 1/1/3  0.9 1.0 0.0 0.0 0.1 0.0 0.6 0.4 0.0 0.7 0.0 0.4 0.2 0.1 0.3 0.1 0.1 0.1 
+>Transposon848
+Copia,LTR,Retrotransposon 1/1/1  1.0 0.9 0.0 0.0 0.0 0.0 0.9 0.0 0.0 0.1 0.1 0.2 0.4 0.3 0.3 0.1 0.3 0.3 
+>Transposon849
+Gypsy,LTR,Retrotransposon 1/1/2  1.0 1.0 0.1 0.2 0.0 0.0 0.5 0.3 0.0 0.8 0.2 0.6 0.2 0.1 0.3 0.1 0.1 0.1 
+>Transposon850
+Gypsy,LTR,Retrotransposon 1/1/2  0.9 1.0 0.0 0.1 0.1 0.0 0.3 0.7 0.1 0.9 0.0 0.2 0.0 0.3 0.9 0.0 0.0 0.0 
+>Transposon851
+Copia,LTR,Retrotransposon 1/1/1  0.9 1.0 0.1 0.1 0.0 0.0 0.5 0.5 0.0 1.0 0.2 0.3 0.2 0.1 0.1 0.1 0.0 0.0 
+>Transposon852
+Copia,LTR,Retrotransposon 1/1/1  0.9 1.0 0.0 0.0 0.0 0.0 0.6 0.0 0.1 0.9 0.1 0.2 0.3 0.0 0.4 0.1 0.4 0.0 
+>Transposon853
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.0 1.0 0.2 0.4 0.0 0.1 0.5 0.5 0.9 0.0 0.1 0.0 0.1 0.0 0.0 0.0 0.0 0.0 
+>Transposon854
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.0 1.0 0.2 0.5 0.0 0.2 0.2 0.8 1.0 1.0 0.8 0.0 0.0 0.1 0.1 0.0 0.0 0.0 
+>Transposon855
+Gypsy,LTR,Retrotransposon 1/1/2  1.0 0.9 0.0 0.1 0.0 0.0 0.9 0.0 0.0 0.5 0.2 0.0 0.1 0.0 0.4 0.1 0.6 0.0 
+>Transposon856
+Copia,LTR,Retrotransposon 1/1/1  1.0 0.9 0.0 0.0 0.0 0.0 0.5 0.5 0.1 0.9 0.2 0.1 0.0 0.0 0.2 0.0 0.2 0.0 
+>Transposon857
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.0 1.0 0.1 0.6 0.1 0.0 0.4 0.4 1.0 0.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 
+>Transposon858
+Copia,LTR,Retrotransposon 1/1/1  1.0 1.0 0.0 0.0 0.0 0.1 0.6 0.2 0.1 0.6 0.0 0.6 0.1 0.0 0.1 0.0 0.4 0.3 
+>Transposon859
+Gypsy,LTR,Retrotransposon 1/1/2  1.0 1.0 0.0 0.1 0.0 0.0 0.8 0.0 0.0 0.9 0.2 0.3 0.1 0.0 0.0 0.2 0.3 0.0 
+>Transposon860
+Gypsy,LTR,Retrotransposon 1/1/2  1.0 1.0 0.0 0.1 0.0 0.0 0.8 0.0 0.0 0.5 0.2 0.2 0.1 0.0 0.0 0.0 0.2 0.0 
+>Transposon861
+MITE,DNATransposon 2/3  0.1 0.8 0.2 0.6 0.2 0.4 0.2 0.6 1.0 0.0 0.0 0.3 0.1 0.3 0.3 0.2 0.0 0.1 
+>Transposon862
+Zator,TIR,DNATransposon 2/1/5  0.0 0.9 0.4 0.3 0.0 0.3 0.5 0.6 1.0 0.2 0.0 0.0 0.0 0.0 0.1 0.0 0.0 0.0 
+>Transposon863
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.1 1.0 0.0 0.7 0.0 0.0 0.7 0.2 1.0 1.0 1.0 0.1 0.0 0.0 0.0 0.0 0.0 0.0 
+>Transposon864
+CMC,TIR,DNATransposon 2/1/3  0.0 0.8 0.4 0.8 0.2 0.2 0.4 0.3 1.0 1.0 0.0 0.0 1.0 0.0 0.1 0.0 0.0 0.0 
+>Transposon865
+LINE,Non-LTR,Retrotransposon 1/2/1  1.0 0.0 0.1 0.3 0.3 1.0 1.0 0.1 0.1 0.5 0.0 0.3 0.1 0.0 0.7 0.0 0.4 0.1 
+>Transposon866
+Gypsy,LTR,Retrotransposon 1/1/2  0.9 1.0 0.0 0.1 0.1 0.0 0.5 0.7 0.2 1.0 0.3 0.4 0.3 0.2 0.4 0.1 0.2 0.0 
+>Transposon867
+Gypsy,LTR,Retrotransposon 1/1/2  0.5 0.9 0.0 0.2 0.0 0.0 0.4 0.5 0.2 0.9 0.1 0.0 0.5 0.1 0.2 0.1 0.0 0.0 
+>Transposon868
+Copia,LTR,Retrotransposon 1/1/1  1.0 1.0 0.0 0.0 0.0 0.0 0.8 0.0 0.0 0.4 0.0 0.4 0.1 0.0 0.0 0.0 0.3 0.0 
+>Transposon869
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.0 0.6 0.2 0.6 0.0 0.0 0.4 0.5 1.0 0.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 
+>Transposon870
+Zator,TIR,DNATransposon 2/1/5  0.0 1.0 0.1 0.5 0.1 0.3 0.5 0.3 0.9 1.0 0.0 0.0 0.0 0.0 0.1 0.0 0.1 0.0 
+>Transposon871
+CMC,TIR,DNATransposon 2/1/3  0.0 1.0 0.2 0.5 0.0 0.0 0.9 0.2 1.0 0.1 0.0 0.0 0.1 0.0 0.0 0.0 0.0 0.0 
+>Transposon872
+Zator,TIR,DNATransposon 2/1/5  0.0 0.9 0.2 0.4 0.1 0.0 0.5 0.0 1.0 0.9 0.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 
+>Transposon873
+Helitron,DNATransposon 2/2  0.0 0.8 0.4 0.5 0.0 0.0 0.7 0.1 0.9 0.0 0.1 0.3 0.3 0.0 0.0 0.0 0.1 0.0 
+>Transposon874
+LINE,Non-LTR,Retrotransposon 1/2/1  1.0 0.1 0.0 0.4 0.1 0.9 1.0 0.0 0.0 0.5 0.2 0.4 0.0 0.0 0.0 0.1 0.3 0.0 
+>Transposon875
+Gypsy,LTR,Retrotransposon 1/1/2  0.9 1.0 0.0 0.1 0.0 0.0 0.3 0.6 0.0 0.8 0.0 0.5 0.2 0.1 0.2 0.1 0.1 0.1 
+>Transposon876
+CMC,TIR,DNATransposon 2/1/3  0.0 0.6 0.4 0.0 0.0 0.0 0.2 0.6 1.0 0.2 0.0 0.0 0.1 0.0 0.0 0.0 0.0 0.0 
+>Transposon877
+Helitron,DNATransposon 2/2  0.0 0.8 0.6 0.4 0.2 0.5 0.4 0.8 1.0 0.4 0.1 0.3 0.3 0.1 0.4 0.1 0.9 0.0 
+>Transposon878
+Zator,TIR,DNATransposon 2/1/5  0.0 0.8 0.2 0.5 0.3 0.2 0.6 0.6 1.0 0.2 0.0 0.0 0.0 0.0 0.1 0.0 0.0 0.0 
+>Transposon879
+hAT,TIR,DNATransposon 2/1/2  0.0 0.7 0.3 0.3 0.0 0.3 0.4 0.5 1.0 0.3 0.0 0.1 0.1 0.1 0.0 0.1 0.0 0.0 
+>Transposon880
+hAT,TIR,DNATransposon 2/1/2  0.0 1.0 0.06 0.3 0.0 0.0 0.7 0.1 1.0 1.0 0.0 1.0 0.0 0.0 0.0 0.0 0.0 0.0 
+>Transposon881
+Gypsy,LTR,Retrotransposon 1/1/2  1.0 1.0 0.0 0.9 0.0 0.0 0.3 0.7 0.2 0.6 0.2 0.5 0.2 0.1 0.4 0.1 0.2 0.2 
+>Transposon882
+Gypsy,LTR,Retrotransposon 1/1/2  1.0 1.0 0.0 0.2 0.0 0.0 0.2 0.0 0.0 0.8 0.2 0.6 0.0 0.0 0.0 0.0 0.2 0.0 
+>Transposon883
+Novosib,TIR,DNATransposon 2/1/6  0.2 0.8 0.1 0.2 0.0 0.0 0.6 0.0 0.9 1.0 0.0 0.0 0.1 0.0 0.0 0.9 0.1 0.0 
+>Transposon884
+Copia,LTR,Retrotransposon 1/1/1  1.0 1.0 0.0 0.0 0.0 0.0 0.8 0.0 0.0 0.9 0.1 0.2 0.0 0.0 0.2 0.1 0.3 0.0 
+>Transposon885
+Gypsy,LTR,Retrotransposon 1/1/2  0.9 1.0 0.0 0.1 0.0 0.0 0.4 0.2 0.1 0.8 0.1 0.6 0.0 0.0 0.1 0.0 0.0 0.0 
+>Transposon886
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.0 0.9 0.5 0.5 0.0 0.2 0.4 0.4 1.0 0.1 0.0 0.0 0.0 0.0 0.0 0.0 0.1 0.0 
+>Transposon887
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.2 0.9 0.3 0.6 0.0 0.2 0.7 0.0 0.9 0.1 0.0 0.0 0.0 0.0 0.0 0.0 0.1 0.0 
+>Transposon888
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.1 0.9 0.2 0.6 0.0 0.1 0.6 0.7 1.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 
+>Transposon889
+Copia,LTR,Retrotransposon 1/1/1  1.0 1.0 0.0 0.0 0.0 0.0 0.8 0.0 0.0 1.0 0.1 0.3 0.0 0.0 0.2 0.2 0.5 0.0 
+>Transposon890
+Helitron,DNATransposon 2/2  0.0 0.8 0.0 0.1 0.0 0.0 0.7 0.0 1.0 0.0 0.1 0.3 0.2 0.1 0.0 0.0 0.8 0.0 
+>Transposon891
+Copia,LTR,Retrotransposon 1/1/1  1.0 1.0 0.0 0.0 0.0 0.0 0.7 0.0 0.0 0.7 0.1 0.7 0.2 0.0 0.1 0.1 0.2 0.0 
+>Transposon892
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.1 0.7 0.2 0.4 0.0 0.2 0.7 0.2 1.0 1.0 0.9 0.0 0.0 0.0 0.1 0.0 0.0 0.0 
+>Transposon893
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.0 0.9 0.2 0.5 0.0 0.0 0.6 0.0 0.9 1.0 1.0 0.0 0.0 0.0 0.0 0.0 0.1 0.0 
+>Transposon894
+hAT,TIR,DNATransposon 2/1/2  0.0 1.0 0.1 0.3 0.0 0.0 0.7 0.0 0.9 0.9 0.0 0.8 0.0 0.0 0.0 0.0 0.0 0.0 
+>Transposon895
+Copia,LTR,Retrotransposon 1/1/1  0.9 1.0 0.1 0.0 0.0 0.0 0.9 0.4 0.0 0.6 0.4 0.1 0.1 0.2 0.6 0.0 0.0 0.4 
+>Transposon896
+LINE,Non-LTR,Retrotransposon 1/2/1  1.0 0.0 0.1 0.3 0.0 1.0 1.0 0.0 0.0 0.8 0.3 0.6 0.1 0.0 0.0 0.2 0.1 0.0 
+>Transposon897
+hAT,TIR,DNATransposon 2/1/2  0.0 1.0 0.5 0.7 0.1 0.2 0.3 0.5 1.0 0.1 0.0 0.1 0.0 0.0 0.0 0.0 0.0 0.0 
+>Transposon898
+CMC,TIR,DNATransposon 2/1/3  0.0 0.9 0.4 0.5 0.1 0.2 0.5 0.5 1.0 1.0 0.0 0.0 0.8 0.1 0.1 0.0 0.0 0.0 
+>Transposon899
+CMC,TIR,DNATransposon 2/1/3  0.0 0.8 0.1 0.2 0.0 0.0 0.4 0.6 1.0 0.1 0.0 0.0 0.1 0.0 0.1 0.0 0.0 0.0 
+>Transposon900
+Gypsy,LTR,Retrotransposon 1/1/2  0.9 1.0 0.0 0.2 0.0 0.0 0.9 0.0 0.0 0.4 0.0 0.2 0.1 0.1 0.0 0.0 0.6 0.0 
+>Transposon901
+Copia,LTR,Retrotransposon 1/1/1  1.0 0.9 0.0 0.0 0.0 0.0 0.7 0.0 0.0 0.4 0.0 0.1 0.4 0.0 0.2 0.0 0.4 0.1 
+>Transposon902
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.1 0.8 0.1 0.6 0.2 0.6 0.6 0.7 1.0 0.2 0.1 0.0 0.0 0.0 0.0 0.0 0.1 0.0 
+>Transposon903
+Helitron,DNATransposon 2/2  0.0 0.6 0.3 0.7 0.0 0.3 0.3 0.6 1.0 0.0 0.0 0.4 0.1 0.1 0.5 0.3 0.1 0.0 
+>Transposon904
+LINE,Non-LTR,Retrotransposon 1/2/1  1.0 0.0 0.1 0.1 0.1 1.0 1.0 0.0 0.0 0.3 0.0 0.4 0.1 0.0 0.0 0.1 0.3 0.0 
+>Transposon905
+Novosib,TIR,DNATransposon 2/1/6  0.1 0.7 0.2 0.2 0.1 0.2 0.7 0.0 0.8 1.0 0.0 0.0 0.0 0.0 0.0 0.9 0.0 0.0 
+>Transposon906
+Helitron,DNATransposon 2/2  0.0 0.9 0.2 0.5 0.2 0.2 0.6 0.6 0.9 0.2 0.2 0.3 0.1 0.1 0.7 0.0 1.0 0.0 
+>Transposon907
+Zator,TIR,DNATransposon 2/1/5  0.0 0.8 0.3 0.6 0.2 0.1 0.2 0.7 1.0 0.1 0.0 0.0 0.0 0.0 0.1 0.0 0.0 0.0 
+>Transposon908
+Zator,TIR,DNATransposon 2/1/5  0.0 1.0 0.6 0.7 0.1 0.3 0.3 0.6 1.0 0.1 0.0 0.0 0.0 0.0 0.1 0.0 0.0 0.0 
+>Transposon909
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.2 0.9 0.1 0.2 0.0 0.0 0.5 0.0 0.7 1.0 1.0 0.0 0.1 0.0 0.0 0.0 0.1 0.0 
+>Transposon910
+Sola,TIR,DNATransposon 2/1/4  0.2 1.0 0.0 0.8 0.0 0.1 0.4 0.0 1.0 0.1 0.0 0.0 0.0 0.1 0.0 0.1 0.0 0.0 
+>Transposon911
+LINE,Non-LTR,Retrotransposon 1/2/1  0.8 0.1 0.7 0.4 0.2 0.7 1.0 0.0 0.0 0.3 0.0 0.5 0.1 0.1 0.3 0.2 0.9 0.0 
+>Transposon912
+Copia,LTR,Retrotransposon 1/1/1  0.9 1.0 0.1 0.0 0.0 0.0 0.6 0.7 0.1 0.7 0.1 0.1 0.2 0.4 0.4 0.0 0.2 0.2 
+>Transposon913
+CMC,TIR,DNATransposon 2/1/3  0.2 0.9 0.5 0.8 0.0 0.2 0.3 0.8 1.0 1.0 0.0 0.0 1.0 0.0 0.0 0.0 0.1 0.0 
+>Transposon914
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.0 0.9 0.2 0.5 0.0 0.0 0.9 0.0 0.9 1.0 0.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 
+>Transposon915
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.1 0.9 0.4 0.8 0.1 0.1 0.3 0.1 1.0 1.0 0.9 0.1 0.0 0.0 0.1 0.0 0.0 0.0 
+>Transposon916
+CMC,TIR,DNATransposon 2/1/3  0.0 0.9 0.4 0.6 0.1 0.2 0.2 0.3 1.0 1.0 0.0 0.0 0.9 0.0 0.1 0.0 0.0 0.0 
+>Transposon917
+Copia,LTR,Retrotransposon 1/1/1  0.8 1.0 0.0 0.0 0.0 0.0 0.2 0.6 0.0 0.9 0.0 0.2 0.2 0.1 0.3 0.1 0.1 0.0 
+>Transposon918
+Gypsy,LTR,Retrotransposon 1/1/2  1.0 1.0 0.0 0.1 0.0 0.0 0.7 0.5 0.0 0.9 0.0 0.3 0.2 0.0 0.1 0.0 0.5 0.2 
+>Transposon919
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.0 1.0 0.0 0.4 0.0 0.0 0.3 0.0 1.0 1.0 1.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 
+>Transposon920
+LINE,Non-LTR,Retrotransposon 1/2/1  1.0 0.0 0.2 0.4 0.0 0.9 0.9 0.0 0.0 0.2 0.0 0.5 0.1 0.1 0.0 0.1 0.6 0.0 
+>Transposon921
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.0 0.7 0.3 0.7 0.0 0.4 0.5 0.3 1.0 0.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 
+>Transposon922
+LINE,Non-LTR,Retrotransposon 1/2/1  1.0 0.1 0.1 0.4 0.0 0.9 1.0 0.0 0.0 0.8 0.1 0.4 0.1 0.0 0.1 0.1 0.3 0.0 
+>Transposon923
+hAT,TIR,DNATransposon 2/1/2  0.1 0.7 0.5 0.2 0.0 0.0 0.6 0.0 1.0 0.0 0.0 0.1 0.0 0.0 0.0 0.0 0.0 0.0 
+>Transposon924
+Copia,LTR,Retrotransposon 1/1/1  1.0 1.0 0.0 0.0 0.0 0.0 0.6 0.0 0.0 0.6 0.1 0.4 0.0 0.0 0.0 0.1 0.5 0.0 
+>Transposon925
+CMC,TIR,DNATransposon 2/1/3  0.0 0.8 0.2 0.4 0.1 0.1 0.5 0.7 1.0 1.0 0.0 0.0 0.7 0.1 0.0 0.0 0.0 0.0 
+>Transposon926
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.0 1.0 0.1 0.5 0.0 0.1 0.7 0.0 1.0 0.9 1.0 0.2 0.0 0.0 0.0 0.0 0.1 0.0 
+>Transposon927
+CMC,TIR,DNATransposon 2/1/3  0.1 0.9 0.3 0.6 0.0 0.0 0.4 0.3 0.9 0.9 0.0 0.0 0.9 0.1 0.2 0.0 0.0 0.0 
+>Transposon928
+Copia,LTR,Retrotransposon 1/1/1  0.9 1.0 0.1 0.0 0.0 0.1 0.5 0.5 0.0 0.7 0.1 0.6 0.2 0.1 0.2 0.0 0.1 0.0 
+>Transposon929
+Helitron,DNATransposon 2/2  0.1 1.0 0.0 0.3 0.0 0.0 0.2 0.0 0.9 0.0 0.0 0.1 0.1 0.0 0.2 0.0 0.9 0.0 
+>Transposon930
+hAT,TIR,DNATransposon 2/1/2  0.1 1.0 0.2 0.4 0.1 0.1 0.4 0.6 1.0 0.2 0.0 0.2 0.0 0.0 0.1 0.0 0.1 0.0 
+>Transposon931
+Helitron,DNATransposon 2/2  0.0 0.8 0.3 0.3 0.1 0.4 0.7 0.45 1.0 0.0 0.0 0.3 0.2 0.1 0.5 0.1 0.8 0.0 
+>Transposon932
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.0 0.6 0.2 0.5 0.1 0.2 0.3 0.9 0.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 
+>Transposon933
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.0 0.9 0.7 1.0 0.1 0.2 0.4 0.7 0.9 0.0 0.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 
+>Transposon934
+CMC,TIR,DNATransposon 2/1/3  0.0 0.8 0.5 0.5 0.1 0.3 0.3 0.5 1.0 1.0 0.0 0.0 0.8 0.1 0.0 0.0 0.0 0.0 
+>Transposon935
+Copia,LTR,Retrotransposon 1/1/1  0.8 0.9 0.0 0.0 0.0 0.0 0.3 0.5 0.1 0.2 0.1 0.1 0.2 0.2 0.2 0.1 0.0 0.6 
+>Transposon936
+LINE,Non-LTR,Retrotransposon 1/2/1  1.0 0.1 0.1 0.1 0.1 1.0 1.0 0.0 0.0 0.7 0.3 0.2 0.3 0.1 0.4 0.0 0.5 0.0 
+>Transposon937
+hAT,TIR,DNATransposon 2/1/2  0.0 0.7 0.5 0.7 0.2 0.3 0.5 0.5 1.0 0.1 0.0 0.1 0.0 0.1 0.0 0.0 0.0 0.0 
+>Transposon938
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.2 0.8 0.4 0.5 0.0 0.4 0.6 1.0 0.9 0.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 
+>Transposon939
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.0 0.7 0.1 0.6 0.1 0.4 0.6 0.7 1.0 0.1 0.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 
+>Transposon940
+CMC,TIR,DNATransposon 2/1/3  0.0 0.8 0.4 0.5 0.0 0.2 0.4 0.8 1.0 1.0 0.0 0.1 1.0 0.0 0.1 0.0 0.0 0.0 
+>Transposon941
+SINE,Non-LTR,Retrotransposon 1/2/2  1.0 0.2 0.3 0.8 0.2 0.8 0.1 1.0 0.1 0.9 0.0 0.4 0.3 0.2 0.4 0.0 0.1 0.1 
+>Transposon942
+CMC,TIR,DNATransposon 2/1/3  0.0 1.0 0.4 0.4 0.0 0.2 0.6 0.0 1.0 0.1 0.0 0.0 0.1 0.0 0.0 0.0 0.0 0.0 
+>Transposon943
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.0 1.0 0.0 0.5 0.0 0.1 0.7 0.0 1.0 1.0 1.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 
+>Transposon944
+Gypsy,LTR,Retrotransposon 1/1/2  1.0 1.0 0.0 0.05 0.0 0.0 0.9 0.0 0.0 1.0 0.2 0.7 0.0 0.0 0.0 0.0 0.0 0.0 
+>Transposon945
+LINE,Non-LTR,Retrotransposon 1/2/1  0.9 0.1 0.1 0.4 0.1 1.0 1.0 0.0 0.0 0.1 0.0 0.5 0.3 0.2 0.0 0.1 0.8 0.0 
+>Transposon946
+Gypsy,LTR,Retrotransposon 1/1/2  1.0 1.0 0.0 0.1 0.0 0.0 0.7 0.0 0.0 0.9 0.4 0.2 0.0 0.0 0.0 0.0 0.1 0.0 
+>Transposon947
+Gypsy,LTR,Retrotransposon 1/1/2  0.9 0.9 0.0 0.2 0.0 0.0 0.2 0.5 0.1 0.6 0.1 0.3 0.1 0.0 0.5 0.0 0.1 0.0 
+>Transposon948
+LINE,Non-LTR,Retrotransposon 1/2/1  1.0 0.0 0.1 0.3 0.0 1.0 1.0 0.0 0.1 0.6 0.1 0.4 0.0 0.0 0.0 0.1 0.4 0.0 
+>Transposon949
+Novosib,TIR,DNATransposon 2/1/6  0.0 1.0 0.1 0.7 0.0 0.0 0.5 0.0 0.9 1.0 0.0 0.0 0.1 0.0 0.0 0.9 0.1 0.0 
+>Transposon950
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.1 1.0 0.5 0.6 0.0 0.1 0.5 0.0 0.9 1.0 1.0 0.0 0.1 0.0 0.0 0.0 0.0 0.0 
+>Transposon951
+Zator,TIR,DNATransposon 2/1/5  0.1 1.0 0.1 0.6 0.0 0.0 0.9 0.0 0.9 0.9 0.0 0.0 0.1 0.1 0.8 0.0 0.1 0.0 
+>Transposon952
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.0 1.0 0.0 0.6 0.0 0.0 0.5 0.0 1.0 1.0 0.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 
+>Transposon953
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.0 0.7 0.5 0.5 0.2 0.4 0.6 0.2 0.9 0.1 0.1 0.1 0.0 0.0 0.0 0.0 0.0 0.1 
+>Transposon954
+LINE,Non-LTR,Retrotransposon 1/2/1  0.9 0.0 0.2 0.6 0.1 0.8 1.0 0.0 0.0 0.7 0.3 0.5 0.1 0.0 0.0 0.2 0.4 0.0 
+>Transposon955
+Helitron,DNATransposon 2/2  0.0 0.9 0.0 0.3 0.0 0.1 0.3 0.1 0.9 0.2 0.0 0.4 0.0 0.0 0.0 0.0 0.9 0.0 
+>Transposon956
+Gypsy,LTR,Retrotransposon 1/1/2  1.0 1.0 0.0 0.3 0.0 0.0 0.5 0.0 0.0 0.6 0.1 0.5 0.1 0.1 0.0 0.2 0.4 0.0 
+>Transposon957
+Copia,LTR,Retrotransposon 1/1/1  1.0 1.0 0.0 0.0 0.0 0.0 0.4 0.4 0.0 0.6 0.0 0.4 0.1 0.2 0.2 0.2 0.1 0.0 
+>Transposon958
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.0 1.0 0.4 0.5 0.0 0.0 0.5 0.3 1.0 1.0 1.0 0.2 0.0 0.0 0.0 0.0 0.0 0.0 
+>Transposon959
+Zator,TIR,DNATransposon 2/1/5  0.0 1.0 0.1 0.5 0.3 0.2 0.6 0.675 1.0 0.2 0.0 0.0 0.0 0.0 0.2 0.0 0.0 0.1 
+>Transposon960
+Gypsy,LTR,Retrotransposon 1/1/2  0.8 1.0 0.0 0.1 0.0 0.0 0.3 0.3 0.1 0.9 0.1 0.6 0.2 0.0 0.2 0.0 0.1 0.1 
+>Transposon961
+CMC,TIR,DNATransposon 2/1/3  0.1 0.6 0.1 0.6 0.2 0.1 0.5 0.5 0.9 0.9 0.1 0.1 0.9 0.0 0.0 0.0 0.0 0.0 
+>Transposon962
+Zator,TIR,DNATransposon 2/1/5  0.1 0.8 0.3 0.5 0.1 0.4 0.6 0.5 1.0 0.1 0.0 0.0 0.0 0.0 0.2 0.0 0.0 0.1 
+>Transposon963
+Copia,LTR,Retrotransposon 1/1/1  0.9 0.9 0.2 0.0 0.0 0.0 0.6 0.0 0.1 0.7 0.0 0.6 0.2 0.1 0.2 0.0 0.1 0.1 
+>Transposon964
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.0 0.7 0.3 0.6 0.3 0.2 0.3 0.3 1.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 
+>Transposon965
+Copia,LTR,Retrotransposon 1/1/1  1.0 1.0 0.2 0.1 0.0 0.0 0.4 0.2 0.2 1.0 0.2 0.4 0.0 0.0 0.4 0.0 0.1 0.1 
+>Transposon966
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.0 0.9 0.3 0.3 0.0 0.1 0.4 0.8 1.0 0.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 
+>Transposon967
+Copia,LTR,Retrotransposon 1/1/1  1.0 1.0 0.1 0.0 0.0 0.0 0.7 0.5 0.1 0.7 0.3 0.3 0.3 0.0 0.2 0.0 0.4 0.1 
+>Transposon968
+Gypsy,LTR,Retrotransposon 1/1/2  1.0 1.0 0.0 1.0 0.0 0.0 0.7 0.0 0.1 0.6 0.2 0.4 0.4 0.0 0.0 0.2 0.4 0.0 
+>Transposon969
+Gypsy,LTR,Retrotransposon 1/1/2  1.0 1.0 0.0 0.2 0.0 0.0 0.9 0.0 0.0 0.5 0.3 0.2 0.1 0.0 0.2 0.1 0.3 0.0 
+>Transposon970
+LINE,Non-LTR,Retrotransposon 1/2/1  0.8 0.4 0.3 0.5 0.1 0.7 1.0 0.1 0.1 0.9 0.0 0.2 0.3 0.0 0.1 0.0 0.1 0.0 
+>Transposon971
+CMC,TIR,DNATransposon 2/1/3  0.1 0.9 0.2 0.6 0.1 0.0 0.6 0.8 0.9 1.0 0.1 0.1 0.6 0.0 0.1 0.0 0.0 0.0 
+>Transposon972
+CMC,TIR,DNATransposon 2/1/3  0.1 1.0 0.2 0.5 0.1 0.2 0.7 0.6 0.9 1.0 0.0 0.0 0.9 0.0 0.1 0.0 0.0 0.0 
+>Transposon973
+hAT,TIR,DNATransposon 2/1/2  0.6 1.0 0.1 0.3 0.0 0.0 0.6 0.0 0.9 0.3 0.0 0.2 0.0 0.0 0.0 0.0 0.0 0.0 
+>Transposon974
+Gypsy,LTR,Retrotransposon 1/1/2  0.9 0.9 0.1 0.6 0.0 0.0 0.4 0.5 0.4 0.5 0.2 0.1 0.3 0.1 0.1 0.4 0.0 0.1 
+>Transposon975
+Gypsy,LTR,Retrotransposon 1/1/2  1.0 0.9 0.0 1.0 0.0 0.3 0.6 0.0 0.0 0.9 0.0 0.6 0.1 0.0 0.1 0.1 0.2 0.0 
+>Transposon976
+LINE,Non-LTR,Retrotransposon 1/2/1  1.0 0.2 0.1 0.2 0.2 0.8 0.9 0.0 0.1 1.0 0.0 0.5 0.3 0.0 0.1 0.0 0.0 0.0 
+>Transposon977
+Gypsy,LTR,Retrotransposon 1/1/2  0.7 0.9 0.1 0.5 0.1 0.0 0.4 0.7 0.1 1.0 0.0 0.4 0.2 0.1 0.2 0.1 0.0 0.1 
+>Transposon978
+Gypsy,LTR,Retrotransposon 1/1/2  0.6 1.0 0.0 1.0 0.1 0.0 0.4 0.4 0.3 0.9 0.1 0.4 0.1 0.0 0.2 0.2 0.1 0.0 
+>Transposon979
+Helitron,DNATransposon 2/2  0.2 0.6 0.3 0.8 0.0 0.2 0.8 0.2 0.9 0.2 0.1 0.2 0.1 0.0 0.0 0.0 0.6 0.0 
+>Transposon980
+Gypsy,LTR,Retrotransposon 1/1/2  0.8 0.9 0.2 0.9 0.0 0.1 0.5 0.9 0.2 0.7 0.0 0.0 0.3 0.0 0.4 0.0 0.0 0.1 
+>Transposon981
+Gypsy,LTR,Retrotransposon 1/1/2  1.0 1.0 0.2 0.7 0.0 0.1 0.8 0.0 0.0 1.0 0.0 0.8 0.2 0.0 0.0 0.0 0.1 0.0 
+>Transposon982
+LINE,Non-LTR,Retrotransposon 1/2/1  0.9 0.1 0.1 0.2 0.1 0.8 0.9 0.0 0.4 1.0 0.0 0.3 0.2 0.0 0.0 0.0 0.0 0.0 
+>Transposon983
+CMC,TIR,DNATransposon 2/1/3  0.2 1.0 0.5 0.2 0.0 0.0 0.5 0.4 0.9 1.0 0.0 0.0 0.7 0.0 0.0 0.0 0.0 0.0 
+>Transposon984
+SINE,Non-LTR,Retrotransposon 1/2/2  0.7 0.4 0.4 0.8 0.1 0.8 0.2 0.7 0.2 0.8 0.0 0.3 0.1 0.0 0.6 0.0 0.2 0.0 
+>Transposon985
+Gypsy,LTR,Retrotransposon 1/1/2  0.8 0.9 0.1 0.8 0.1 0.0 0.2 0.7 0.3 0.9 0.4 0.2 0.1 0.1 0.3 0.0 0.1 0.2 
+>Transposon986
+Gypsy,LTR,Retrotransposon 1/1/2  1.0 0.9 0.1 0.7 0.0 0.2 0.4 0.8 0.1 0.7 0.0 0.4 0.2 0.0 0.2 0.3 0.3 0.3 
+>Transposon987
+Copia,LTR,Retrotransposon 1/1/1  1.0 0.9 0.7 0.0 0.1 0.1 0.3 0.8 0.1 0.9 0.0 0.3 0.3 0.3 0.3 0.3 0.2 0.1 
+>Transposon988
+CMC,TIR,DNATransposon 2/1/3  0.3 0.8 0.1 0.3 0.1 0.0 0.5 0.0 1.0 1.0 0.0 0.0 0.1 0.0 0.0 0.0 0.0 0.0 
+>Transposon989
+Gypsy,LTR,Retrotransposon 1/1/2  1.0 1.0 0.0 0.8 0.0 0.1 0.4 0.6 0.1 0.9 0.1 0.5 0.1 0.0 0.2 0.1 0.1 0.1 
+>Transposon990
+hAT,TIR,DNATransposon 2/1/2  0.3 0.9 0.4 0.375 0.0 0.1 0.5 0.0 0.8 1.0 0.0 0.3 0.1 0.0 0.0 0.0 0.0 0.0 
+>Transposon991
+Gypsy,LTR,Retrotransposon 1/1/2  0.3 0.8 0.5 0.9 0.0 0.0 0.4 0.6 0.3 0.3 0.0 0.0 0.3 0.0 0.1 0.0 0.0 0.0 
+>Transposon992
+Gypsy,LTR,Retrotransposon 1/1/2  0.9 1.0 0.0 0.8 0.0 0.0 0.8 0.0 0.0 1.0 0.0 0.7 0.0 0.0 0.1 0.0 0.0 0.0 
+>Transposon993
+Gypsy,LTR,Retrotransposon 1/1/2  0.9 1.0 0.0 1.0 0.0 0.0 0.8 0.0 0.0 0.8 0.0 0.6 0.0 0.0 0.0 0.0 0.0 0.0 
+>Transposon994
+Gypsy,LTR,Retrotransposon 1/1/2  1.0 0.9 0.0 0.9 0.0 0.0 0.4 0.7 0.1 0.7 0.1 0.3 0.3 0.0 0.3 0.0 0.1 0.1 
+>Transposon995
+hAT,TIR,DNATransposon 2/1/2  0.1 1.0 0.1 0.3 0.0 0.0 0.7 0.0 0.8 0.6 0.0 0.2 0.0 0.0 0.0 0.0 0.6 0.0 
+>Transposon996
+Copia,LTR,Retrotransposon 1/1/1  0.9 1.0 0.7 0.2 0.0 0.1 0.6 0.0 0.1 1.0 0.0 0.6 0.2 0.0 0.1 0.0 0.0 0.0 
+>Transposon997
+CMC,TIR,DNATransposon 2/1/3  0.1 0.5 0.2 0.5 0.1 0.3 0.1 1.0 1.0 0.9 0.0 0.1 1.0 0.0 0.0 0.1 0.0 0.0 
+>Transposon998
+CMC,TIR,DNATransposon 2/1/3  0.0 1.0 0.2 0.6 0.4 0.2 0.2 0.2 1.0 1.0 0.0 0.2 0.5 0.0 0.2 0.0 0.0 0.0 
+>Transposon999
+LINE,Non-LTR,Retrotransposon 1/2/1  0.9 0.2 0.1 0.6 0.3 0.7 1.0 0.0 0.2 1.0 0.2 0.7 0.2 0.0 0.1 0.3 0.0 0.0 
+>Transposon1000
+Copia,LTR,Retrotransposon 1/1/1  0.8 0.7 0.9 0.0 0.0 0.1 0.8 0.0 0.1 0.8 0.0 0.4 0.3 0.0 0.2 0.0 0.0 0.0 
+
+
+#Explanation:
+#forecast forecast 1 1/1 1/1/1 1/1/2 1/1/3 1/2 1/2/1 1/2/2 2 2/1 2/1/1 2/1/2 2/1/3 2/1/4 2/1/5 2/1/6 2/2 2/3 

@@ -1,0 +1,18 @@
+1:Class I, Retrotransposon
+1/1:LTR, Retrotransposon
+1/1/1:Copia, LTR, Retrotransposon
+1/1/2:Gypsy, LTR, Retrotransposon
+1/1/3:ERV, LTR, Retrotransposon
+1/2:Non-LTR, Retrotransposon
+1/2/1:LINE, Non-LTR, Retrotransposon
+1/2/2:SINE, Non-LTR, Retrotransposon
+2:Class II, DNA Transposon
+2/1:TIR, DNA Transposon
+2/1/1:Tc1-Mariner, TIR, DNA Transposon
+2/1/2:hAT, TIR, DNA Transposon
+2/1/3:CMC, TIR, DNA Transposon
+2/1/4:Sola, TIR, DNA Transposon
+2/1/5:Zator, TIR, DNA Transposon
+2/1/6:Novosib, TIR, DNA Transposon
+2/2:Helitron, DNA Transposon
+2/3:MITE, DNA Transposon
