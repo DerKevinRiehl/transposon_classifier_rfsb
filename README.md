@@ -71,29 +71,67 @@ eThreshold | (optional) | Default e-value threshold for RPSTBLASTN application o
 tempFolder | (optional) | Folder in which temporary files are stored to, default: *(folder of the outputFile)*
 deleteTempFiles | (optional) | Whether to delete temporary feature files, default: *True*
 
-## Explanation of output files
-SX3351_addisababa.SV.vcf.gff3.matches.gff3
+## Explanation of file structures
 
-For each filtered structural variant a set of potential transposon annotation candidates (IDs similar to transposon annotation file) is reported:
+**Structure of *predLabelFile* resp. *outputPredictionFile***
+After the header of each DNA sequence of the fasta file there are two fields separated by whitespace: transposon class name and position in hierarchy, followed by two whitespaces and then the whitespace-separated probabilities for each class of the hierarchy (between 0 and 1). After the last DNA sequence there needs to be two empty lines followed by the footer outlining the taxonomy as shown in the example.
 ```
-seq1	PBSV	duplication	2909118	2910241	.	+	.	['23769', '23770', '23771'];Sseq1TYPE=DUP;END=2910240;Sseq1LEN=1122
-seq1	PBSV	deletion	163800	164962	.	+	.	['1', '11827 '];Sseq1TYPE=DEL;END=164961;Sseq1LEN=-1161
-seq1	PBSV	deletion	290360	290514	.	+	.	['11843 '];Sseq1TYPE=DEL;END=290513;Sseq1LEN=-153
-seq1	PBSV	insertion	343890	344420	.	+	.	['538 '];merged;Sseq1TYPE=seq4NS;END=344424;Sseq1LEN=533
+>Transposon1
+Gypsy,LTR,Retrotransposon 1/1/2  1.0 0.8 0.0 1.0 0.0 0.0 0.5 0.0 0.0 0.4 0.3 0.6 0.3 0.0 0.0 0.0 0.1 0.0 
+>Transposon2
+Gypsy,LTR,Retrotransposon 1/1/2  0.9 1.0 0.1 0.9 0.0 0.0 0.4 0.6 0.0 0.7 0.0 0.5 0.2 0.2 0.2 0.0 0.1 0.1 
 ...
+>TransposonN
+Copia,LTR,Retrotransposon 1/1/1  0.8 0.7 0.9 0.0 0.0 0.1 0.8 0.0 0.1 0.8 0.0 0.4 0.3 0.0 0.2 0.0 0.0 0.0 
+
+
+#Explanation:
+#forecast forecast 1 1/1 1/1/1 1/1/2 1/1/3 1/2 1/2/1 1/2/2 2 2/1 2/1/1 2/1/2 2/1/3 2/1/4 2/1/5 2/1/6 2/2 2/3
 ```
 
-SX3351_addisababa.transpositionEvents.gff3
-
-For each final structural variant that is considered to be a transposition event, the given transposon annotation (IDs similar to transposon annotation file) and predicted class are reported:
+**Structure of *trueLabel* File**
+After the header of each DNA sequence of the fasta file the transposons class position label (as defined in taxonomy) needs to be used (separated with slash).
 ```
-seq1	PBSV	deletion	290360	290514	.	+	.	Transposon=11843;Class=2/1/2(hAT,TIR,DNATransposon);Sseq1TYPE=DEL;END=290513;Sseq1LEN=-153
-seq1	PBSV	insertion	610241	614786	.	+	.	Transposon=545;Class=2/1/3(CMC,TIR,DNATransposon);merged;merged;Sseq1TYPE=seq4NS;END=611763;Sseq1LEN=1521
-seq1	PBSV	deletion	879772	884345	.	+	.	Transposon=556;Class=1/1/2(Gypsy,LTR,Retrotransposon);Sseq1TYPE=DEL;END=884344;Sseq1LEN=-4572
-seq1	PBSV	insertion	1126531	1126860	.	+	.	Transposon=23592;Class=2/1/1(Tc1-Mariner,TIR,DNATransposon);Sseq1TYPE=seq4NS;END=1126859;Sseq1LEN=327
+>Transposon1
+1/1/2
+>Transposon2
+2/1/2
+>Transposon3
+2/2
 ...
+>TransposonN
+2/1/3
+```
+
+**Structure of *taxonomyConfigFile***
+For each class in taxonomy, create a single line with the class’ hierarchy position label, followed by colon, followed by a description. Please make sure to follow the order as shown here.
+```
+1:Class I, Retrotransposon
+1/1:LTR, Retrotransposon
+1/1/1:Copia, LTR, Retrotransposon
+1/1/2:Gypsy, LTR, Retrotransposon
+1/1/3:ERV, LTR, Retrotransposon
+1/2:Non-LTR, Retrotransposon
+1/2/1:LINE, Non-LTR, Retrotransposon
+1/2/2:SINE, Non-LTR, Retrotransposon
+2:Class II, DNA Transposon
+2/1:TIR, DNA Transposon
+2/1/1:Tc1-Mariner, TIR, DNA Transposon
+2/1/2:hAT, TIR, DNA Transposon
+2/1/3:CMC, TIR, DNA Transposon
+2/1/4:Sola, TIR, DNA Transposon
+2/1/5:Zator, TIR, DNA Transposon
+2/1/6:Novosib, TIR, DNA Transposon
+2/2:Helitron, DNA Transposon
+2/3:MITE, DNA Transposon
+```
+
+**Structure of *kmerConfigFile***
+In one line, separated by comma, list all kmer subsequences to scan for.
+```
+AA,AT,AC,...,TGGG,TGGT,TGGA,TTTC,TTTG,TTAT,TTCT,TTGT,TTGG,TTGA,TTGC,TTAA,TTAC,TTAG,TTCC,TTCA,TTCG
 ```
 
 ## Citations
-Please cite our paper if you find transposition event detector "deTEct" useful:
+Please cite our paper if you find transposon classifier "RFSB" useful:
 (in progress)
