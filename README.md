@@ -28,8 +28,13 @@ transposon_classifier_RFSB –mode classify -fastaFile demo1_seq.fasta –output
 ```
 Parameter | Mandatory | Description
 ------------ | ------------- | -------------
- | | 
- | | 
+fastaFile | (mandatory) | Fasta file containing DNA sequences
+outputPredictionFile | (mandatory) | Output prediction file containing classification results
+modelFile | (optional) | File containing model for classification, default: *models/TE_Classifier_RFSB_models_ALL_Big.pickle*
+kmerConfigFile | (optional) | Configuration file containing k-mers, default: *config/kmers.txt*
+proteinDBFile | (optional) | Configuration file containing NCBI CDD PSSM model IDs, default: *config/RPSTBLASTN_LIB/db_large.pn*
+tempFolder | (optional) | Folder in which temporary files are stored to, default: *(folder of the outputFile)*
+deleteTempFiles | (optional) | Whether to delete temporary feature files, default: *True*
  
 ## Usage of Mode 2: Prediction evaluation
 ```
@@ -37,8 +42,18 @@ transposon_classifier_RFSB –mode evaluate -predLabelFile demo2_predLabel.txt �
 ```
 Parameter | Mandatory | Description
 ------------ | ------------- | -------------
- | | 
- | | 
+predLabelFile | (mandatory) | File containing predicted labels = output of MODE [1]
+trueLabelFile | (mandatory) | File containing true labels
+printResults | (optional) | Whether to print results into console, default: *True*
+saveResultsCSV | (optional) | Whether to save results as CSV file, default: *True*
+saveResultsPickle | (optional) | Whether to save output as .pickle file, default: *False*
+outputPickleFile | (optional) | Desired Pickle output file containing statistics, default: *predLabelFile+"_results.pickle"*
+outputCSVFile | (optional) | Desired CSV output file containing statistics, default: *predLabelFile+"_results.csv"*
+generateDiagramPNG | (optional) | Whether to render diagram and save as PNG, default: *True*
+generateDiagramSVG | (optional) | Whether to render diagram and save as SVG, default: *True*
+diagTitle | (optional) | The rendered diagrams' title
+outputPNGFile | (optional) | Desired PNG output file for rendered diagram, default: *predLabelFile+"_diagram.png"*
+outputSVGFile | (optional) | Desired SVG output file for rendered diagram, default: *predLabelFile+"_diagram.svg"*
  
 ## Usage of Mode 3: Model training
 ```
@@ -47,14 +62,14 @@ transposon_classifier_RFSB –mode trainModel -fastaFile demo3_transposonDB.fast
 Parameter | Mandatory | Description
 ------------ | ------------- | -------------
 fastaFile | (mandatory) | Fasta file containing DNA sequences
-labelFile | (mandatory) | 
-outputModelFile | (mandatory) | 
-taxonomyConfigFile | (optional) | 
-proteinDBFile | (optional) | 
-kmerConfigFile | (optional) | 
-eThreshold | (optional) | 
-tempFolder | (optional) | 
-deleteTempFiles | (optional) | 
+labelFile | (mandatory) | True class label file
+outputModelFile | (mandatory) | Desired path to store output model
+taxonomyConfigFile | (optional) | Configuration file containing the taxonomy scheme used, if not given, taxonomy will automatically be generated from labels in labelFile. (In config folder example available), default: *(none)*
+proteinDBFile | (optional) | Configuration file containing NCBI CDD PSSM model IDs, default: *config/RPSTBLASTN_LIB/db_large.pn*
+kmerConfigFile | (optional) | Configuration file containing k-mers, default: *config/kmers.txt*
+eThreshold | (optional) | Default e-value threshold for RPSTBLASTN application of NCBI CDD protein models, default: *5.0*
+tempFolder | (optional) | Folder in which temporary files are stored to, default: *(folder of the outputFile)*
+deleteTempFiles | (optional) | Whether to delete temporary feature files, default: *True*
 
 ## Explanation of output files
 SX3351_addisababa.SV.vcf.gff3.matches.gff3
