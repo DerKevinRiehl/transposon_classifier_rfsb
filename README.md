@@ -19,7 +19,7 @@ Installation as [CondaPackage](https://anaconda.org/DerKevinRiehl/transposon_cla
 ```
  conda install -c derkevinriehl transposon_classifier_rfsb 
 ```
-*Note: Otherwise you can find all source codes in this Github repository.*
+*Note: Otherwise you can find all source codes in this Github repository. Please extract the models out of the ZIP file in the "models" folder if you clone and use this Github.*
 
 ## Usage of Mode 1: Transposon classification
 ```
