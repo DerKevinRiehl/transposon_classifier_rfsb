@@ -17,7 +17,7 @@ Transposon classification tool for nucleotide sequence classification, providing
 ## Installation
 Installation as [CondaPackage](https://anaconda.org/DerKevinRiehl/transposon_classifier_rfsb):
 ```
- conda install -c derkevinriehl transposon_classifier_rfsb 
+ conda install -c derkevinriehl -c bioconda transposon_classifier_rfsb 
 ```
 *Note: Otherwise you can find all source codes in this Github repository. Please extract the models out of the ZIP file in the "models" folder if you clone and use this Github.*
 
