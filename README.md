@@ -24,7 +24,7 @@ Installation as [CondaPackage](https://anaconda.org/DerKevinRiehl/transposon_cla
 ## Usage of Mode 1: Transposon classification
 ```
 transposon_classifier_RFSB -help
-transposon_classifier_RFSB –mode classify -fastaFile demoFiles/demo1_seq.fasta –outputPredictionFile demoFiles/demo1_results.txt
+transposon_classifier_RFSB -mode classify -fastaFile demoFiles/demo1_seq.fasta -outputPredictionFile demoFiles/demo1_results.txt
 ```
 Parameter | Mandatory | Description
 ------------ | ------------- | -------------
@@ -38,7 +38,7 @@ deleteTempFiles | (optional) | Whether to delete temporary feature files, defaul
  
 ## Usage of Mode 2: Prediction evaluation
 ```
-transposon_classifier_RFSB –mode evaluate -predLabelFile demoFiles/demo2_predLabel.txt –trueLabelFile demoFiles/demo2_trueLabel.txt –outputPickleFile True
+transposon_classifier_RFSB -mode evaluate -predLabelFile demoFiles/demo2_predLabel.txt -trueLabelFile demoFiles/demo2_trueLabel.txt -outputPickleFile True
 ```
 Parameter | Mandatory | Description
 ------------ | ------------- | -------------
@@ -57,7 +57,7 @@ outputSVGFile | (optional) | Desired SVG output file for rendered diagram, defau
  
 ## Usage of Mode 3: Model training
 ```
-transposon_classifier_RFSB –mode trainModel -fastaFile demoFiles/demo3_transposonDB.fasta –labelFile demoFiles/demo3_labels.txt –outputModelFile demoFiles/demo3_model.pickle –eThreshold 5.0
+transposon_classifier_RFSB -mode trainModel -fastaFile demoFiles/demo3_transposonDB.fasta -labelFile demoFiles/demo3_labels.txt -outputModelFile demoFiles/demo3_model.pickle -eThreshold 5.0
 ```
 Parameter | Mandatory | Description
 ------------ | ------------- | -------------
