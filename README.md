@@ -22,7 +22,7 @@ Installation as [CondaPackage](https://anaconda.org/DerKevinRiehl/transposon_cla
 *Note: Otherwise you can find all source codes in this Github repository. Please extract the models out of the ZIP file in the "models" folder if you clone and use this Github.*
 
 ## Usage of Mode 1: Transposon classification
-If you want to reproduce following example, please download the "demoFiles" folder from this GitHub. Otherwise you can use your own files.
+If you want to reproduce following examples, please download the "demoFiles" folder from this GitHub. Otherwise you can use your own files.
 ```
 transposon_classifier_RFSB -help
 transposon_classifier_RFSB -mode classify -fastaFile demoFiles/demo1_seq.fasta -outputPredictionFile demoFiles/demo1_results.txt
