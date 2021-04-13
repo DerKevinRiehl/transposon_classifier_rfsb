@@ -2,7 +2,7 @@
 Transposon classification tool for nucleotide sequence classification, providing classification, model training and prediction evaluation. *RFSB* is part of [TransposonUltimate](https://github.com/DerKevinRiehl/TransposonUltimate).
 
 - **Mode 1: Transposon classification**
-  - **Description**: Mode 1 classifies given transposon DNA sequences in a fastaFile and stores the predicted results into an outputPredictionFile.
+  - **Description**: Mode 1 classifies given transposon DNA sequences in a fastaFile and stores the predicted results into an outputPredictionFile. (RFSB comes with a pretrained classification model ready to use)
   - **Input**:  Transposon nucleotide sequence(s) (FASTA File)
   - **Output**: Class predictions (and probabilities)
 - **Mode 2: Prediction evaluation**
@@ -22,7 +22,7 @@ Installation as [CondaPackage](https://anaconda.org/DerKevinRiehl/transposon_cla
 *Note: Otherwise you can find all source codes in this Github repository. Please extract the models out of the ZIP file in the "models" folder if you clone and use this Github.*
 
 ## Usage of Mode 1: Transposon classification
-If you want to reproduce following examples, please download the "demoFiles" folder from this GitHub. Otherwise you can use your own files.
+If you want to reproduce following examples, please download the "demoFiles" folder from this GitHub. Otherwise you can use your own FASTA files. (RFSB comes with a pretrained classification model ready to use)
 ```
 transposon_classifier_RFSB -help
 transposon_classifier_RFSB -mode classify -fastaFile demoFiles/demo1_seq.fasta -outputPredictionFile demoFiles/demo1_results.txt
