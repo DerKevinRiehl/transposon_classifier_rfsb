@@ -134,7 +134,7 @@ AA,AT,AC,...,TGGG,TGGT,TGGA,TTTC,TTTG,TTAT,TTCT,TTGT,TTGG,TTGA,TTGC,TTAA,TTAC,TT
 ```
 
 ## Citations
-Please cite our paper if you find TransposonUltimate useful:
+Please cite our paper if you find the transposon classifier RFSB useful:
 
 Riehl, Kevin and Riccio, Cristian and Miska, Eric and Hemberg, Martin. TransposonUltimate: software for transposon classification, annotation and detection. bioRxiv doi: https://doi.org/10.1101/2021.04.30.442214 (submitted to GenomeBiology, available on BioRxiv https://www.biorxiv.org/content/10.1101/2021.04.30.442214v1 )
 
