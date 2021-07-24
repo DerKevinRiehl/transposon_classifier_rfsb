@@ -149,3 +149,6 @@ Riehl, Kevin and Riccio, Cristian and Miska, Eric and Hemberg, Martin. Transposo
 
 ## Acknowledgements
 We would like to thank Sarah Buddle, Simone Procaccia, Fu Xiang Quah and Alexandra Dallaire for their assistance with testing and debugging the software.
+
+## Benchmark Code
+Please find the modified source codes and linux shell scripts that were used for benchmarking [here](https://github.com/DerKevinRiehl/transposon_classifier_rfsb/blob/main/benchmark/ClassifierCode.rar).
